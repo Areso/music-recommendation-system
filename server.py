@@ -26,8 +26,6 @@ app.add_middleware(
 print("Loading static artifacts into memory...")
 tfidf_matrix = load_npz("tfidf_matrix.npz")
 vectorizer = joblib.load("vectorizer.joblib")
-
-vectorizer = joblib.load("vectorizer.joblib")
 vectorizer.input = "content"  # Switch from 'filename' to raw text 'content'
 
 with open("artist_ids.json", "r", encoding="utf-8") as f:
@@ -35,6 +33,13 @@ with open("artist_ids.json", "r", encoding="utf-8") as f:
 
 # Cache feature names (tags)
 feature_names = vectorizer.get_feature_names_out()
+
+# Artist id -> row index in the TF-IDF matrix
+row_of = {aid: i for i, aid in enumerate(artist_ids)}
+
+# Non-zeros per row == number of distinct tags the artist has.
+# Used to break similarity ties and to flag artists too thinly tagged to trust.
+tag_counts = tfidf_matrix.getnnz(axis=1)
 
 print(f"Loaded TF-IDF matrix: {tfidf_matrix.shape}")
 
@@ -94,6 +99,83 @@ def search(q: str = Query(..., min_length=1), top_k: int = 30):
         results.append({"artist_id": artist_ids[idx], "artist_name": artist_name, "score": round(score, 4)})
 
     return {"query": q, "results": results}
+
+
+@app.get("/api/autocomplete_artist")
+def autocomplete_artist(q: str = Query(..., min_length=1), limit: int = 10):
+    """Returns matching artist name suggestions for AJAX autocomplete."""
+    q_lower = q.lower().strip()
+
+    # Only artists that have a row in the matrix can be used as a seed
+    hits = [
+        {"artist_id": aid, "artist_name": name}
+        for aid, name in artists_kv.items()
+        if aid in row_of and q_lower in name.lower()
+    ]
+
+    # Prefix matches first, then shortest names (closest to the typed query)
+    hits.sort(
+        key=lambda h: (
+            not h["artist_name"].lower().startswith(q_lower),
+            len(h["artist_name"]),
+        )
+    )
+
+    return {"query": q, "suggestions": hits[:limit]}
+
+
+def shared_tags(i, j, limit=5):
+    """Tags both artists share, ranked by how much they drove the similarity."""
+    row_i, row_j = tfidf_matrix[i], tfidf_matrix[j]
+    weights_i = dict(zip(row_i.indices, row_i.data))
+    weights_j = dict(zip(row_j.indices, row_j.data))
+
+    common = set(weights_i) & set(weights_j)
+    ranked = sorted(common, key=lambda c: -(weights_i[c] * weights_j[c]))
+
+    return [feature_names[c] for c in ranked[:limit]]
+
+
+@app.get("/api/similar_artists")
+def similar_artists(q: str = Query(...), top_k: int = 20, min_tags: int = 1):
+    """Finds artists whose tag profile points in the same direction as the seed."""
+    if q not in row_of:
+        return {"query": q, "results": [], "error": "Unknown artist id"}
+
+    idx = row_of[q]
+    similarities = cosine_similarity(tfidf_matrix[idx], tfidf_matrix).flatten()
+
+    similarities[idx] = -1.0                      # never recommend the seed itself
+    similarities[tag_counts < min_tags] = -1.0    # drop thinly tagged artists
+
+    # Primary sort on descending score, ties broken by richer tag profiles.
+    # np.lexsort treats the last key as primary.
+    order = np.lexsort((-tag_counts, -similarities))
+
+    results = []
+    for other in order[:top_k]:
+        score = float(similarities[other])
+        if score <= 0:
+            break
+        other_id = artist_ids[other]
+        results.append(
+            {
+                "artist_id": other_id,
+                "artist_name": artists_kv.get(other_id, "Unknown"),
+                "score": round(score, 4),
+                "shared_tags": shared_tags(idx, other),
+                "tag_count": int(tag_counts[other]),
+            }
+        )
+
+    return {
+        "query": q,
+        "artist_name": artists_kv.get(q, "Unknown"),
+        "tag_count": int(tag_counts[idx]),
+        # A one- or two-tag seed carries too little signal to rank meaningfully
+        "confident": bool(tag_counts[idx] >= 3),
+        "results": results,
+    }
 
 
 @app.get("/api/fetch_tags_of_the_artist_old")

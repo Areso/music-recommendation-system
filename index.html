@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Music Recommendation System</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; }
+        h2 { margin-bottom: 4px; }
+        .subtitle { color: #666; font-size: 14px; margin-bottom: 28px; }
+        .menu { list-style: none; padding: 0; margin: 0; }
+        .menu li { margin-bottom: 12px; }
+        .menu a, .menu span.disabled {
+            display: block; border: 1px solid #ccc; border-radius: 4px;
+            padding: 14px 16px; text-decoration: none; color: #0066cc;
+        }
+        .menu a:hover { background-color: #f0f0f0; color: #004499; }
+        .menu span.disabled { color: #999; background: #fafafa; cursor: not-allowed; }
+        .menu .name { font-weight: bold; font-size: 16px; }
+        .menu .desc { display: block; font-size: 13px; color: #555; margin-top: 4px; }
+        .menu span.disabled .desc { color: #999; }
+        footer { margin-top: 32px; font-size: 13px; color: #666; }
+        code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+
+    <h2>Music Recommendation System</h2>
+    <p class="subtitle">Last.fm tag data &mdash; 12,130 artists across 9,468 tags.</p>
+
+    <ul class="menu">
+        <li>
+            <a href="find_artists_by_tag.html">
+                <span class="name">1. Find artists by a tag</span>
+                <span class="desc">Type a tag and get the artists that match it most strongly.</span>
+            </a>
+        </li>
+        <li>
+            <a href="find_similar_artists.html">
+                <span class="name">2. Find similar artists</span>
+                <span class="desc">Pick an artist and get others with the same tag profile.</span>
+            </a>
+        </li>
+        <li>
+            <span class="disabled">
+                <span class="name">3. Find users with similar taste</span>
+                <span class="desc">Not implemented yet.</span>
+            </span>
+        </li>
+    </ul>
+
+    <footer>
+        Requires the API running locally: <code>.venv/bin/python server.py</code>
+    </footer>
+
+</body>
+</html>
