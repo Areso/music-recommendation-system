@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Artist Tag Search & Autocomplete</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 600px; margin: 40px auto; padding: 0 20px; }
+        .search-box { position: relative; width: 100%; }
+        input[type="text"] { width: 100%; padding: 10px; font-size: 16px; box-sizing: border-box; }
+        .suggestions {
+            position: absolute; border: 1px solid #ccc; background: #fff;
+            width: 100%; max-height: 200px; overflow-y: auto; z-index: 1000;
+        }
+        .suggestion-item { padding: 8px 12px; cursor: pointer; }
+        .suggestion-item:hover { background-color: #f0f0f0; }
+        .results { margin-top: 20px; }
+        .result-card { border-bottom: 1px solid #eee; padding: 8px 0; display: flex; justify-space-between; }
+        .artist-link { color: #0066cc; text-decoration: underline; cursor: pointer; }
+        .artist-link:hover { color: #004499; }
+        .tag-list { font-size: 13px; color: #555; margin-top: 4px; font-style: italic; }
+    </style>
+</head>
+<body>
+
+    <h2>Artist Search by Tag</h2>
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Type a tag (e.g. synthpop, rock)..." autocomplete="off">
+        <div id="suggestions" class="suggestions"></div>
+    </div>
+
+    <div class="results" id="results"></div>
+
+    <script>
+        const API_URL        = 'http://127.0.0.1:8000/api';
+        const searchInput    = document.getElementById('searchInput');
+        const suggestionsBox = document.getElementById('suggestions');
+        const resultsBox     = document.getElementById('results');
+
+        let debounceTimer;
+
+        // 1. AJAX Autocomplete Event Listener
+        searchInput.addEventListener('input', () => {
+            clearTimeout(debounceTimer);
+            const query = searchInput.value.trim();
+
+            if (query.length === 0) {
+                suggestionsBox.innerHTML = '';
+                return;
+            }
+
+            // Debounce network requests by 200ms
+            debounceTimer = setTimeout(async () => {
+                const res  = await fetch(`${API_URL}/autocomplete?q=${encodeURIComponent(query)}`);
+                const data = await res.json();
+                renderSuggestions(data.suggestions);
+            }, 200);
+        });
+
+        // 2. Render Autocomplete Dropdown
+        function renderSuggestions(suggestions) {
+            suggestionsBox.innerHTML = '';
+            suggestions.forEach(item => {
+                const div = document.createElement('div');
+                div.className = 'suggestion-item';
+                div.textContent = item;
+                div.onclick = () => {
+                    searchInput.value = item;
+                    suggestionsBox.innerHTML = '';
+                    runSearch(item);
+                };
+                suggestionsBox.appendChild(div);
+            });
+        }
+
+        // Fetch and display tags for a specific artist
+        async function loadArtistTags(artistId, containerId) {
+            const tagContainer = document.getElementById(containerId);
+            if (tagContainer.innerHTML) {
+                tagContainer.innerHTML = ''; // Toggle off if already open
+                return;
+            }
+            
+            tagContainer.innerHTML = 'Loading tags...';
+            const res = await fetch(`${API_URL}/fetch_tags_of_the_artist?q=${artistId}`);
+            const data = await res.json();
+
+            if (data.results.length === 0) {
+                tagContainer.innerHTML = 'No tags found.';
+                return;
+            }
+
+            tagContainer.innerHTML = `<strong>Tags:</strong> ${data.results.join(', ')}`;
+        }
+
+        // 3. AJAX Search Call
+        async function runSearch(query) {
+            resultsBox.innerHTML = 'Searching...';
+            const res = await fetch(`${API_URL}/search?q=${encodeURIComponent(query)}`);
+            const data = await res.json();
+
+            if (data.results.length === 0) {
+                resultsBox.innerHTML = '<p>No matching artists found.</p>';
+                return;
+            }
+
+            resultsBox.innerHTML = `<h3>Top Matches for "${data.query}":</h3>` +
+                data.results.map(r => `
+                    <div class="result-card">
+                        <div style="display: flex; justify-content: space-between;">
+                            <span><strong>Artist Name:</strong> <span class="artist-link" onclick="loadArtistTags('${r.artist_id}', 'tags_${r.artist_id}')">${r.artist_name}</span></span>  
+                            <span style="margin-left: 20px"><strong>Similarity:</strong> ${r.score}</span>
+                        </div>
+                        <div id="tags_${r.artist_id}" class="tag-list"></div>
+                    </div>
+                `).join('');
+        }
+
+        // Search on Enter key press
+        searchInput.addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') {
+                suggestionsBox.innerHTML = '';
+                runSearch(searchInput.value.trim());
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+matplotlib
+networkx==3.4.2
+ipython
+jupyter
+notebook
+scikit-learn
+fastapi
+uvicorn
+

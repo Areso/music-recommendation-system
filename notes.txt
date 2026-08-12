@@ -1,0 +1,14 @@
+BI 130 MODULE 1 and 2
+Module 1
+
+from pathlib import Path
+
+# Get the directory of the currently running script
+script_dir = Path(__file__).resolve().parent
+
+print(script_dir)
+
+DEFAULT_PROJECT_DIR = Path.home() / "Downloads" / "BIDA"
+DEFAULT_PROJECT_DIR = script_dir
+
+created "clean" directory

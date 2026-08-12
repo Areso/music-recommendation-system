@@ -1,0 +1,17 @@
+filename,rows,columns,size_bytes
+users_clean.csv,1892,4,36895
+artists_clean.csv,17619,8,2538251
+artist_id_mapping.csv,17632,5,782074
+artist_merge_audit.csv,25,8,2454
+user_artists_clean.csv,92829,4,1389229
+user_friends_directed_clean.csv,25434,2,226130
+user_friends_undirected_clean.csv,12717,2,113075
+approved_tag_review_decisions.csv,163,8,11190
+tag_mapping.csv,11946,14,1369100
+tags_clean.csv,9468,21,1150541
+user_taggedartists_events_clean.csv,184941,19,28211899
+user_taggedartists_clean.csv,183969,14,17416746
+artist_tag_support_clean.csv,106917,8,6721205
+orphan_assignments_removed.csv,1538,12,163814
+timestamp_anomalies.csv,5,19,1004
+cleaning_summary.csv,26,3,947

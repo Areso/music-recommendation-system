@@ -1,0 +1,164 @@
+review_no,singular_tag,plural_tag,decision,merge_into,reviewer_notes,review_author,is_flagged_review_pair
+1,female vocalist,female vocalists,Merge,female vocalist,,,False
+2,singer-songwriter,singer-songwriters,Merge,singer-songwriter,,,False
+3,instrumental,instrumentals,Merge,instrumental,,,False
+4,soul,souls,Merge,soul,,,False
+5,male vocalist,male vocalists,Merge,male vocalist,,,False
+6,soundtrack,soundtracks,Merge,soundtrack,,,False
+7,cover,covers,Merge,cover,,,False
+8,american,americans,Merge,american,,,False
+9,favorite,favorites,Merge,favorite,Flagged: personal/subjective preference.,,True
+10,blue,blues,Keep separate,,Keep separate: `blue` may describe mood; `blues` is a genre.,,False
+11,ballad,ballads,Merge,ballad,,,False
+12,oldie,oldies,Merge,oldies,,,False
+13,guilty pleasure,guilty pleasures,Merge,guilty pleasure,Flagged: personal/subjective preference.,,True
+14,guitar,guitars,Merge,guitar,,,False
+15,favorite song,favorite songs,Merge,favorite song,Flagged: personal/subjective preference.,,True
+16,legend,legends,Merge,legend,Flagged: subjective/evaluative label.,,True
+17,chill,chills,Keep separate,,Keep separate: `chill` and `chills` represent different emotional concepts.,,False
+18,favourite,favourites,Merge,favourite,,,False
+19,love song,love songs,Merge,love song,,,False
+20,new romantic,new romantics,Merge,new romantic,,,False
+21,diva,divas,Merge,diva,,,False
+22,fave,faves,Merge,fave,Flagged: personal preference.,,True
+23,vocal,vocals,Merge,vocal,,,False
+24,my favorite,my favorites,Merge,my favorite,Flagged: personal preference.,,True
+25,duet,duets,Merge,duet,,,False
+26,american idol,american idols,Merge,american idol,,,False
+27,favorite artist,favorite artists,Merge,favorite artist,Flagged: personal preference.,,True
+28,female vocal,female vocals,Merge,female vocals,,,False
+29,great song,great songs,Merge,great song,Flagged: subjective evaluation.,,True
+30,fav song,fav songs,Merge,fav song,Flagged: personal/subjective preference.,,True
+31,composer,composers,Merge,composer,,,False
+32,idolo,idolos,Merge,idolo,Flagged: personal/subjective category.,,True
+33,b-side,b-sides,Merge,b-side,,,False
+34,favorite band,favorite bands,Merge,favorite band,Flagged: personal preference.,,True
+35,summer song,summer songs,Merge,summer song,,,False
+36,masterpiece,masterpieces,Merge,masterpiece,Flagged: subjective evaluation.,,True
+37,female voice,female voices,Merge,female voice,,,False
+38,musical,musicals,Merge,musical,,,False
+39,boyband,boybands,Merge,boyband,,,False
+40,saxophone,saxophones,Merge,saxophone,,,False
+41,beat,beats,Merge,beat,,,False
+42,my favorite song,myfavoritesongs,Merge,my favorite song,Flagged: personal preference.,,True
+43,sexy song,sexy songs,Merge,sexy song,Flagged: subjective evaluation.,,True
+44,color,colors,Keep separate,,Keep separate: insufficient evidence that the forms have the same intended meaning.,,False
+45,dream,dreams,Keep separate,,"Keep separate: related concepts, but not clearly equivalent in the assignments.",,False
+46,songwriter,songwriters,Merge,songwriter,,,False
+47,male vocal,male vocals,Merge,male vocals,,,False
+48,new discovery,new discoverys,Merge,new discovery,,,False
+49,girl group,girl groups,Merge,girl group,,,False
+50,queen,queens,Keep separate,,Keep separate. `queen` is ambiguous/subjective; `queens` may be geographic.,,True
+51,animal,animals,Merge,animals,Flagged: thematic or potentially personal category.,,True
+52,bad day,bad days,Merge,bad day,Flagged: mood/listening-context.,,True
+53,drug,drugs,Merge,drugs,Flagged: thematic/ambiguous.,,True
+54,demo,demos,Merge,demo,,,False
+55,violin,violins,Keep separate,,Keep separate: `violins` may be an artist-name tag rather than instrumentation.,,False
+56,setenta,setentas,Merge,setenta,,,False
+57,idol,idols,Merge,idol,Flagged: personal/ambiguous.,,True
+58,rock ballad,rock ballads,Merge,rock ballad,,,False
+59,rainy day,rainy days,Merge,rainy day,Flagged: mood/listening-context.,,True
+60,wale,wales,Keep separate,,Keep separate: `Wale` is an artist name; `Wales` is geographic.,,False
+61,drum,drums,Merge,drums,,,False
+62,flute,flutes,Merge,flute,,,False
+63,great cover,great covers,Merge,great cover,Flagged: subjective evaluation.,,True
+64,great voice,great voices,Merge,great voice,Flagged: subjective evaluation.,,True
+65,original,originals,Keep separate,,Keep separate: `original` and `originals` may represent different categories.,,False
+66,vocalist,vocalists,Merge,vocalist,,,False
+67,big band,big bands,Merge,big band,,,False
+68,gay icon,gay icons,Merge,gay icon,Flagged: cultural/contextual.,,True
+69,all time favorite,all time favorites,Merge,all time favorite,Flagged: personal preference.,,True
+70,beautiful voice,beautiful voices,Merge,beautiful voice,Flagged: subjective evaluation.,,True
+71,favorite album,favorite albums,Merge,favorite album,Flagged: personal preference.,,True
+72,mashup,mash ups,Merge,mashup,,,False
+73,song,songs,Merge,song,Flagged: generic/low-information.,,True
+74,girl,girls,Keep separate,,Keep separate. Flagged: ambiguous gender/group classification.,,True
+75,great riff,great riffs,Merge,great riff,Flagged: subjective evaluation.,,True
+76,heart,hearts,Merge,heart,Flagged: thematic/ambiguous.,,True
+77,linda,lindas,Merge,linda,Flagged: subjective evaluation.,,True
+78,band,bands,Merge,band,Flagged: generic/low-information.,,True
+79,girl band,girl bands,Merge,girl band,,,False
+80,question,questions,Keep separate,,Keep separate. Flagged: ambiguous/private organisational label.,,True
+81,string,strings,Merge,strings,,,False
+82,field recording,field recordings,Merge,field recording,,,False
+83,guitar god,guitar gods,Merge,guitar god,Flagged: subjective evaluation.,,True
+84,johnny,johnnys,Keep separate,,Keep separate. Flagged: `johnnys` may be agency/contextual; `johnny` is unclear.,,True
+85,soundscape,soundscapes,Merge,soundscape,,,False
+86,light,lights,Keep separate,,Keep separate. Flagged: ambiguous meanings.,,True
+87,my fav,my favs,Merge,my fav,Flagged: personal preference.,,True
+88,outsider,outsiders,Merge,outsiders,Flagged: cultural/ambiguous.,,True
+89,featuring,featurings,Merge,featuring,,,False
+90,game soundtrack,game soundtracks,Merge,game soundtrack,,,False
+91,perfect song,perfect songs,Merge,perfect song,Flagged: subjective evaluation.,,True
+92,power ballad,power ballads,Merge,power ballad,,,False
+93,spoken word,spoken words,Merge,spoken word,,,False
+94,jam band,jam bands,Merge,jam band,,,False
+95,jihad song,jihad songs,Merge,jihad song,Flagged: sensitive/thematic; retain for analysis with careful interpretation.,,True
+96,king,kings,Keep separate,,Keep separate. Flagged: `king` is subjective/honorific; `kings` is unclear.,,True
+97,my favourite,my favourites,Merge,my favourite,Flagged: personal preference.,,True
+98,pioneer,pioneers,Merge,pioneer,Flagged: evaluative/historical.,,True
+99,awesome song,awesome songs,Merge,awesome song,Flagged: subjective evaluation.,,True
+100,boysband,boysbands,Merge,boysband,,,False
+101,tune,tunes,Merge,tune,Flagged: generic/low-information.,,True
+102,as tag,as tags,Merge,as tag,Flagged: meta/personal category.,,True
+103,best song,best songs,Merge,best song,Flagged: subjective/personal.,,True
+104,blog,blogs,Merge,blog,Flagged: contextual/meta.,,True
+105,christmas song,christmas songs,Merge,christmas song,,,False
+106,heavenly voice,heavenly voices,Merge,heavenly voice,Flagged: subjective evaluation.,,True
+107,prince,princes,Keep separate,,Keep separate. Flagged: `prince` may be an artist-name tag; `princes` an honorific.,,True
+108,water,waters,Keep separate,,Keep separate. Flagged: ambiguous thematic/name reference.,,True
+109,bone,bones,Keep separate,,Keep separate. Flagged: ambiguous/thematic.,,True
+110,cover version,cover versions,Merge,cover version,,,False
+111,g-e-n-i-o,g-e-n-i-o-s,Merge,g-e-n-i-o,Flagged: subjective/evaluative.,,True
+112,movie,movies,Merge,movie,Flagged: film/contextual.,,True
+113,princes,princess,Keep separate,,Keep separate. Flagged: not a singular/plural pair; both may be subjective honorifics.,,True
+114,apologetic,apologetics,Keep separate,,Keep separate. Flagged: different meanings; `apologetics` is religious/contextual.,,True
+115,cowboy,cowboys,Merge,cowboy,Flagged: thematic/cultural.,,True
+116,great b-side,great b-sides,Merge,great b-side,Flagged: subjective evaluation.,,True
+117,great singer,great singers,Merge,great singer,Flagged: subjective evaluation.,,True
+118,hymn,hymns,Merge,hymns,Flagged: religious/thematic.,,True
+119,lesbian,lesbians,Merge,lesbian,Flagged: identity-related/cultural/ambiguous; do not treat as verified identity.,,True
+120,one hit wonder,one hit wonders,Merge,one hit wonder,Flagged: evaluative/contextual.,,True
+121,thrasher,thrashers,Merge,thrasher,,,False
+122,actor,actors,Merge,actor,Flagged: biographical/non-musical.,,True
+123,children,childrens,Merge,children,Flagged: broad/contextual.,,True
+124,dante,dantes,Keep separate,,Keep separate. Flagged: ambiguous/name-related.,,True
+125,female singer,female singers,Merge,female singer,,,False
+126,fractured vision,fractured visions,Merge,fractured visions,Flagged: artist-name/self-referential.,,True
+127,french vocalist,french vocalists,Merge,french vocalist,,,False
+128,great vocal,great vocals,Merge,great vocals,Flagged: subjective evaluation.,,True
+129,latin singer,latin singers,Merge,latin singer,,,False
+130,matt,matts,Keep separate,,Keep separate. Flagged: personal/name-related.,,True
+131,movie soundtrack,movie soundtracks,Merge,movie soundtrack,,,False
+132,piano song,piano songs,Merge,piano song,,,False
+133,record,records,Keep separate,,Keep separate. Flagged: generic/ambiguous.,,True
+134,track,tracks,Merge,track,Flagged: generic/low-information.,,True
+135,vision,visions,Merge,visions,Flagged: artist-name/self-referential.,,True
+136,audiobook,audiobooks,Merge,audiobook,,,False
+137,human condition,human conditions,Merge,human condition,Flagged: thematic.,,True
+138,tv show,tv shows,Merge,tv show,Flagged: media/contextual.,,True
+139,debut album,debut albums,Merge,debut album,,,False
+140,philippine,philippines,Keep separate,,Keep separate: `Philippine` is an adjective; `Philippines` is the country name.,,False
+141,00,00's,Merge,00,,AGladyshev,False
+142,00,00s,Merge,2000s,,AGladyshev,False
+143,1960s,1960's,Merge,1960s,,AGladyshev,False
+144,'80s,1980s,Merge,1980s,,AGladyshev,False
+145,1980s,1980 songs,Merge,1980s,,AGladyshev,False
+146,1980s,1980's,Merge,1980s,,AGladyshev,False
+147,1970s,1970's,Merge,1970s,,AGladyshev,False
+148,1981,1981 songs,Merge,1981,,AGladyshev,False
+149,1982,1982 songs,Merge,1982,,AGladyshev,False
+150,1983,1983 songs,Merge,1983,,AGladyshev,False
+151,1984,1984 songs,Merge,1984,,AGladyshev,False
+152,1985,1985 songs,Merge,1985,,AGladyshev,False
+153,1986,1986 songs,Merge,1986,,AGladyshev,False
+154,1990's,1990s,Merge,1990s,,AGladyshev,False
+155,2000's,2000s,Merge,2000s,,AGladyshev,False
+156,00s,2000s,Merge,2000s,,AGladyshev,False
+157,70's,1970s,Merge,1970s,,AGladyshev,False
+158,90s,1990s,Merge,1990s,,AGladyshev,False
+159,70,1970s,Merge,1970s,,AGladyshev,False
+160,80,1980s,Merge,1980s,,AGladyshev,False
+161,80's,1980s,Merge,1980s,,AGladyshev,False
+162,70s,1970s,Merge,1970s,,AGladyshev,False
+163,00s,2000s,Merge,2000s,,AGladyshev,False

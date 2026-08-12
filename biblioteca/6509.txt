@@ -1,0 +1,10 @@
+ambient
+chinese
+classical
+emotional
+ethnic
+folk
+instrumental
+soundtrack
+strings
+world

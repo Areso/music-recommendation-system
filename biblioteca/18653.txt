@@ -1,0 +1,6 @@
+minimal
+disco
+eletro
+house
+rock
+techno

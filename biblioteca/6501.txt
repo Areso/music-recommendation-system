@@ -1,0 +1,12 @@
+ambient
+chillout
+classical
+dance
+ethnic
+flamenco
+guitar
+instrumental
+latin
+world
+flamenco
+flamenco

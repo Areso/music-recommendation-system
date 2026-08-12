@@ -1,0 +1,4 @@
+mathcore
+cybergrind
+grindcore
+metalcore

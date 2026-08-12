@@ -1,0 +1,27 @@
+alternative
+ambient
+big beat
+blues
+cantonese
+chillout
+chinese
+dance
+dark
+dream pop
+drums
+ebm
+electronic
+emotional
+experimental
+folk
+house
+industrial
+instrumental
+jazz
+metal
+psychedelic
+soundtrack
+strings
+techno
+trance
+trip-hop

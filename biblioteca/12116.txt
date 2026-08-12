@@ -1,0 +1,11 @@
+acoustic
+americana
+blues
+folk
+guitar
+harmonica
+instrumental
+jazz
+neo-americana
+relaxing
+soulful

@@ -1,0 +1,25 @@
+alternative
+ambient
+big beat
+cantonese
+chillout
+chinese
+dark
+ebm
+electronic
+ethnic
+experimental
+guitar
+house
+indie
+industrial
+jazz
+latin
+new wave
+psychedelic
+rock
+singer-songwriter
+soundtrack
+techno
+trip-hop
+world

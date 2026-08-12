@@ -1,0 +1,3 @@
+grindcore
+goregrind
+pathogrind

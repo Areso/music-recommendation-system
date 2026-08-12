@@ -1,0 +1,10 @@
+acoustic
+ambient
+chillout
+instrumental
+jazz
+blues
+instrumental
+chillout
+melancolia
+trip-hop

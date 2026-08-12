@@ -1,0 +1,13 @@
+abstract
+ambient
+avantgarde
+chillout
+darkwave
+experimental
+idm
+lightwave
+new age
+noise
+russian
+ural
+urbanwave

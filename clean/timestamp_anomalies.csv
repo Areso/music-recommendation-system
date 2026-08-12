@@ -1,0 +1,6 @@
+userID,artistID,source_artistID,tagID,raw_tag,canonical_key,canonical_tag,day,month,year,timestamp_ms,timestamp_utc,timestamp_madrid,is_timestamp_anomaly,tag_is_flagged,semantic_content_eligible,meets_min_artist_threshold,use_for_content_model,content_model_exclusion_reason
+43,1395,1395,39,dance,dance,dance,1,6,1956,-428720400000,1956-05-31T23:00:00+0000,1956-06-01T00:00:00+0100,True,False,True,True,True,
+133,2984,2984,1474,axe,axe,axe,1,3,1957,-405133200000,1957-02-28T23:00:00+0000,1957-03-01T00:00:00+0100,True,False,True,True,True,
+1604,1583,1583,103,rap,rap,rap,1,9,1956,-420771600000,1956-08-31T23:00:00+0000,1956-09-01T00:00:00+0100,True,False,True,True,True,
+1604,1583,1583,10021,russian rap,russian rap,russian rap,1,9,1956,-420771600000,1956-08-31T23:00:00+0000,1956-09-01T00:00:00+0100,True,False,True,False,False,used on fewer than 2 distinct artists
+1929,250,250,311,reggae,reggae,reggae,1,5,1979,294357600000,1979-04-30T22:00:00+0000,1979-05-01T00:00:00+0200,True,False,True,True,True,
