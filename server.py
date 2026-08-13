@@ -11,6 +11,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 def newline_tokenizer(text):
     return [line.strip() for line in text.splitlines() if line.strip()]
 
+# vectorizer.joblib was pickled in a notebook, so it looks the tokenizer up as
+# __main__.newline_tokenizer. Under an ASGI server this module isn't __main__,
+# so the name has to be planted there before unpickling.
+import __main__
+__main__.newline_tokenizer = newline_tokenizer
+
 app = FastAPI(title="Artist Tag Search API")
 
 # Allow cross-origin requests for AJAX frontend
