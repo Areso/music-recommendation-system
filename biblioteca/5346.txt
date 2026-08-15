@@ -1,10 +1,9 @@
 ambient
-chillout
+chill out
 downtempo
 dub
 easy listening
 electronic
-electronica
 goa
 psychedelic
 psychedelic trance
@@ -12,11 +11,10 @@ psytrance
 psybient
 psychill
 ambient
-electronica
+electronic
 england
 uk
 dub
 psychill
-chillout
+chill out
 dub
-psy ambient

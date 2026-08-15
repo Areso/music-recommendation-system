@@ -5,5 +5,4 @@ atmospheric
 dark ambient
 drone
 drone ambient
-ritual ambient
 relaxing muscles

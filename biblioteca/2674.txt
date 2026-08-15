@@ -1,6 +1,5 @@
 dubstep
 electronic
-electronica
 experimental
 idm
 dubstep
@@ -11,7 +10,7 @@ experimental
 idm
 downtempo
 dubstep
-electronica
+electronic
 idm
 wonderful through headphones
 tron

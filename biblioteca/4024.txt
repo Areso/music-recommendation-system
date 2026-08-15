@@ -3,7 +3,7 @@ electronic
 techno
 techno
 dance
-electro
+electronic
 house
 techno
 house
@@ -17,7 +17,7 @@ electroclash
 techno
 electronic
 house
-electronica
+electronic
 exhilarating
 dance
 electronic

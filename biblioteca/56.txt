@@ -1,19 +1,14 @@
 dance
 electronic
-electronica
 10s
 1980s
 1990s
 2000s
-80s
-awesome
 dance
-electro
 electronic
-electronica
-electropop
+electronic-pop
 synth
-synthpop
+synth-pop
 electronic
 french
 house
@@ -26,48 +21,40 @@ po-kraftwerkski
 scholes song
 the beowulfs choice
 electronic
-amazing
-beautiful
 breathtaking
-cool
 dance
-electro
-electronica
+electronic
 mix
 remix
 techno
 dance
 french
 alternative
-electro
+electronic
 house
 techno
 electro punk
 dance
-eletronica
+electronic
 electronic
 house
 dance
 electronic
-electronica
 dance
 house
 techno
 techno rock
-legend
 electronic
 funk
 electronic
 electronic
-electronica
+electronic
 french
 2000s
 instrumental
 popular
 dance
-electro
 electronic
-electronica
 house
 techno
 electronic
@@ -78,7 +65,6 @@ electronic
 house
 dance
 electronic
-electronica
 house
 techno
 electronic
@@ -86,16 +72,13 @@ electronic
 pop
 dance
 electronic
-electronica
 house
 techno
-cool
 descoperiri
 beat
 electroclash
 live
 remix
-tron legacy ost
 dance
 electronic
 house
@@ -105,9 +88,8 @@ electronic
 catchy as hell
 dance party
 danceable
-electro
+electronic
 french
-fun
 male vocalist
 top 40
 house
@@ -115,95 +97,68 @@ remix
 soundtrack
 electronic
 french
-chillout
+chill out
 dance
 disco
 electronic
-electronica
 house society
 perfection
 electronic
 techno
 electronic
-electronica
 driving music
 house
 late night tunes
-makes me want to dance
 1990s
 alternative
 dance
 electronic
-electronica
-fun
 the best
-french electronic
 alternative
 bass
 electronic
 french
-aeroelectronic punk
 dance
-electro
 electronic
 electronic
-electronica
-idolo
-my electro feelings
 neon space
 french
 dance
 dance - trance
 electronic
-electronica
 house
 techno
 work out music
 electronic
-electronica
 techno brut
 dance
-electro
 electronic
 house
 techno
 dance
 electronic
-electronica
 techno
-daft punk
 electronic
 dance
 electronic
-electronica
 house
 techno
-electro
+electronic
 french
 house
-love itt
 sick
-tune
 alternative
 atmospheric
-awesome
-beautiful
-chillout
+chill out
 classic
-cool
 dance
-electro
 electronic
 experimental
-fun
 happy
-perfect
-electronic house
 electronic
-synth pop
+synth-pop
 electronic
 tinosoft
 electronic
-french house
-chillout
-eletronic
+chill out
+electronic

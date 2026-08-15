@@ -4,7 +4,7 @@ pop
 rock
 singer-songwriter
 chill zone
-christmas blend
+christmas
 1990s
 mellow
 pop
@@ -17,10 +17,10 @@ pop
 rock
 singer-songwriter
 1990s
-chillout
+chill out
 classic rock
 jazz
-80s
+1980s
 british
 classic rock
 jazz
@@ -45,11 +45,11 @@ classic rock
 singer-songwriter
 british
 singer-songwriter
-80s
+1980s
 pop
 rock
 classic rock
-chillout
+chill out
 male vocalist
 mellow
 british
@@ -60,7 +60,6 @@ rock
 colors
 countries
 political
-questions
 war
 weather
 pop
@@ -91,8 +90,8 @@ pop
 new wave and eighties
 brooke fraser
 keep ya calm
-relaxing
-chillout
+relax
+chill out
 melancolia
 pop
 rock

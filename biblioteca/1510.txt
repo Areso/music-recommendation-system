@@ -23,7 +23,6 @@ alternative
 alternative rock
 rock
 alternative rock
-epic
 alternative
 indie
 indie rock
@@ -32,7 +31,6 @@ rock
 skins soundtrack
 psychedelic
 rock
-seen live
 buy this
 chill
 coffeeshop
@@ -44,7 +42,6 @@ sleaze
 smooth night driving
 softspoken
 indie luv
-rock me babe
 indie rock
 post-gaze
 worth a second look
@@ -52,11 +49,10 @@ indie
 alternative
 alternative rock
 rock
-seen live
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -70,7 +66,6 @@ u2
 alternative rock
 psychedelic
 post-punk
-amazing
 alternative rock
 indie rock
 garage rock
@@ -80,10 +75,8 @@ psychedelic rock
 heartbroke
 90210
 the vampire diaries
-ambient sound
 experimental
 americana
 garage rock revival
-seen live
 twilight
 usa

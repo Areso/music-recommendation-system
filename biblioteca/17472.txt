@@ -3,5 +3,4 @@ j-pop
 pop
 j-pop
 japanese
-jpop
-rnb
+r'n'b

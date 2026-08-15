@@ -1,5 +1,5 @@
 ambient
-chillout
+chill out
 idm
 ambient
 experimental
@@ -8,12 +8,12 @@ autumn
 morning
 ambient
 chill
-chillout
+chill out
 dark ambient
 downtempo
 dream
 easy listening
-electro
+electronic
 experimental
 idm
 instrumental
@@ -32,9 +32,8 @@ eldad
 for work
 ambient
 atmospheric
-chillout
+chill out
 deep
 electronic
-electronica
 idm
 just good music

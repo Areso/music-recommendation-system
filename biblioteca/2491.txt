@@ -1,5 +1,4 @@
 lastfm hipster artists
 alternative
-my angular favourites
 experimental
 rrarrrr

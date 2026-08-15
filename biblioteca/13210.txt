@@ -1,5 +1,4 @@
-fav artists
-synthpop artists
+synth-pop
 new wave
-synthpop
+synth-pop
 deep-clash

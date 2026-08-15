@@ -3,31 +3,26 @@ pop
 singer-songwriter
 rain
 boy loves guitar
-beautiful
-britpop
-chillout
+brit pop
+chill out
 cover
 easy listening
-love
 male vocalist
 piano
 pop
 sad
-favorite song
 acoustic
 addictive
-beautiful
 british
-favorite
 indie pop
-kickass
+kick ass
 male vocalist
 mellow
 singer-songwriter
-britpop
+brit pop
 acoustic
+brit pop
 british
-britpop
 indie
 male vocalist
 singer-songwriter
@@ -46,29 +41,24 @@ ballad
 english
 male
 alternative
-chillout
+chill out
 guitar
 pop covers
 pop singles
 acoustic
 british
-love
 male vocalist
-great moments at et7
 lpa
-songs that remind me of summer 07-08
 songs to make florchuchizz cry
 tbu
 these songs are just amazing
 viaje de egresados
 songs diana sang on x factor
-guilty pleasure
 2000s
 acoustic
+brit pop
 british
-britpop
-chillout
-love
+chill out
 male vocalist
 melancholic
 mellow
@@ -81,7 +71,6 @@ soundtrack
 pop
 pop
 singer-songwriter
-beautiful
 pop
 pop
 rock
@@ -102,4 +91,4 @@ indie
 emotional
 alternative
 pop
-britpop
+brit pop

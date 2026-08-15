@@ -1,7 +1,6 @@
 acoustic
 ambient
 atmospheric
-beautiful
 chill
 dreamy
 electronic
@@ -9,5 +8,5 @@ folk
 instrumental
 mellow
 post-rock
-relaxing
+relax
 post-rock

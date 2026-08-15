@@ -6,7 +6,7 @@ experimental
 post-metal
 post-rock
 real screamo
-screamo
+scream
 skram
 ambient
 experimental
@@ -14,5 +14,5 @@ post-rock
 real screamo
 ambient
 post-rock
-screamo
+scream
 skram

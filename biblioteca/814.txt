@@ -1,7 +1,6 @@
 metalcore
 hardcore
 metalcore
-seen live
 german
 metal
 metalcore
@@ -10,18 +9,15 @@ hardcore
 melodic death metal
 metalcore
 nu metal
-seen live
 hardcore
 metalcore
 metalcore
 metalcore
 metalcore
-seen live
 metalcore
 hardcore
 metal
 metalcore
-seen live
 death metal
 melodic death metal
 metal
@@ -32,4 +28,3 @@ metal
 metalcore
 cover
 metalcore
-seen live

@@ -1,8 +1,5 @@
 1983
 1985
-fav artists
-fav song
-new wave artists
-new wave songs
-80s
+new wave
+1980s
 aussie

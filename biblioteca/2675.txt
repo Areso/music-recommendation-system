@@ -5,10 +5,9 @@ idm
 minimal
 techno
 electronic
-electronica
 idm
 minimal
-electronica
+electronic
 minimal
 electronic
 electronic

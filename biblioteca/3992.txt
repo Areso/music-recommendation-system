@@ -1,17 +1,17 @@
 alternative
-chillout
+chill out
 dance
 downtempo
 electronic
-trip-hop
-trip-hop
+trip hop
+trip hop
 electronic
-chillout
+chill out
 downtempo
-electronica
+electronic
 folk
-electronica
-trip-hop
+electronic
+trip hop
 vocal
 special
 downtempo
@@ -21,19 +21,18 @@ mellow
 sad
 acid jazz
 bossa nova
-chillout
+chill out
 downtempo
 electronic
-favorite artist
 lounge
 pop
-trip-hop
+trip hop
+1980s
 1990s
-80s
-chillout
+chill out
+d'n'b
 deep house
 downtempo
-drum and bass
 electronic
 female vocalist
 house
@@ -43,9 +42,8 @@ pop
 progressive trance
 soul
 soulful house
-trip-hop
-amazing
-chillout
+trip hop
+chill out
 dreamy
 fascinating
 sensual

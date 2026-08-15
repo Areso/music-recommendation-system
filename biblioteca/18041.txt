@@ -3,4 +3,4 @@ experimental
 new age
 ambient
 mythos
-relaxing
+relax

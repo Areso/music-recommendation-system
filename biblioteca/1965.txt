@@ -1,6 +1,5 @@
 idm
 electronic
-electronica
 experimental
 idm
 instrumental
@@ -11,15 +10,12 @@ alternative
 ambient
 atmospheric
 avant-garde
-beautiful
-chillout
+chill out
 classical
 dark
 downtempo
 drone ambient
-electro
 electronic
-electronica
 experimental
 field recording
 folk
@@ -42,19 +38,18 @@ psychedelic
 rock
 self made music
 techno
-trip-hop
+trip hop
 world
 electronic
 breakbeat
-drum and bass
+d'n'b
 experimental
 idm
 instrumental
 jazz
-electronica
+electronic
 experimental
 electronic
-electronica
 experimental
 idm
 instrumental
@@ -64,9 +59,8 @@ experimental
 idm
 instrumental
 electronic
-best song ever
 downtempo
 electronic
 experimental
 idm
-trip-hop
+trip hop

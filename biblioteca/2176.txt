@@ -1,14 +1,11 @@
 ballad
-chillout
+chill out
 cover
 easy listening
 jazz
-love
-love at first listen
 male vocalist
 mellow
 piano
-sexy
 swing
 male vocalist
 pop
@@ -41,13 +38,11 @@ jazz
 swing
 jazz
 canadian
-chillout
+chill out
 good mood music
 good mood songs
 infatuation
 love song
-want to see live
-guilty pleasure
 jazz
 pop
 swing

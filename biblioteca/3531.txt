@@ -1,5 +1,4 @@
 lastfm hipster artists
-my angular favourites
 industrial
 experimental
 noise
@@ -7,7 +6,7 @@ experimental
 industrial
 noise
 avant-garde
-electronica
+electronic
 experimental
 industrial
 japan

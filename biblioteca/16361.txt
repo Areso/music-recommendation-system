@@ -1,8 +1,7 @@
 alternative
 electronic
-electropop
+electronic-pop
 female vocalist
 indie
-indietronica
-mine
-synthpop
+indie electronic
+synth-pop

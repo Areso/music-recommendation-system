@@ -1,10 +1,10 @@
 downtempo
 jazz
 jazz
-chillout
+chill out
 downtempo
 jazz
-trip-hop
+trip hop
 electronic
 jazz
 acid jazz
@@ -13,11 +13,11 @@ jazz
 lounge
 mellow
 nu jazz
-trip-hop
-chillout
+trip hop
+chill out
 ninja tune
 nu jazz
-chillout
+chill out
 descoperiri
 downtempo
 electronic
@@ -31,23 +31,20 @@ jazz
 jazz
 ambient
 ninja tune
-chillout
+chill out
 downtempo
 electronic
-electronica
 jazz
-trip-hop
+trip hop
 acid jazz
-chillout
+chill out
 nu jazz
 whitenoize
 acid jazz
 downtempo
-favorite artist
 nu jazz
 top100
 bonus track
-exclusive
-chillout
+chill out
 downtempo
 nu jazz

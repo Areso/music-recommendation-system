@@ -4,11 +4,11 @@ dance-pop
 german
 new wave
 new wave
-80s
+1980s
 female vocalist
 pop
-80s
-80s
+1980s
+1980s
 female vocalist
 german
 new wave
@@ -18,6 +18,6 @@ dance
 piano
 german
 80er
-80s
+1980s
 cover
-80s
+1980s

@@ -3,30 +3,26 @@ hip-hop
 pop
 rap
 hip-hop
-rnb
+r'n'b
 dance
 gossip girl
 hip-hop
 rap
 hip-hop
 pop
+r'n'b
 rap
-rnb
 pop
 catchy
-electronica
+electronic
 hip-hop
+r'n'b
 rap
-rnb
-sexy
-chillout
+chill out
 easy listening
 hip-hop
-love
-love at first listen
 mellow
-rnb
-awesome
+r'n'b
 hip-hop
 1990s
 2000s
@@ -55,56 +51,53 @@ tweet
 urban
 pop
 timbaland
-timbaland knock
-cyrus
 miley
 miley cyrus
 pop
 timbaland
-we belong to the music
 electronic
 hip-hop
+r'n'b
 rap
-rnb
 hip-hop
 catchy
 duet
-rnb
+r'n'b
 <3
-rnb
+r'n'b
+r'n'b
 rap
-rnb
 dance
 electronic
-rnb
+r'n'b
 2000s
 dance
-rnb
+r'n'b
 timbaland
 hip-hop
-rnb
+r'n'b
 dance
 hip-hop
 promiscuos
+r'n'b
 rap
-rnb
 timbaland
 hip-hop
 pop
 hip-hop
 dance with somebody
-rnb
+r'n'b
 jams
-rnb
+r'n'b
 dance
 electronic
 hip-hop
+r'n'b
 rap
-rnb
 rap
 american
 pop
-rnb
+r'n'b
 hip-hop
 dance
 pop
@@ -114,15 +107,13 @@ handclaps
 2009
 hip-hop
 pop
-rnb
+r'n'b
 usa
 featuring
 katy perry
-love
-electro
+electronic
 hip-hop
 hip hop soul
-pop-rap
 hip-hop
 pop
 hip-hop

@@ -4,7 +4,6 @@ alternative rock
 alternative
 alternative rock
 california
-love
 mellow
 pop
 punk
@@ -38,7 +37,6 @@ rock
 grunge
 indie
 indie rock
-love
 melancholic
 not emo
 nu metal
@@ -50,7 +48,6 @@ romantic
 pop rock
 punk
 rock
-hoobastank
 alternative
 alternative rock
 rock
@@ -68,8 +65,7 @@ male vocalist
 rock
 usa
 rock
-great song
-alternativ
+alternative
 not emo
 punk rock
 rock

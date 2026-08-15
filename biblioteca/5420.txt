@@ -1,10 +1,10 @@
-60s
+1960s
 alternative
 classic rock
 female vocalist
 folk
 indie
-60s
+1960s
 dark
 female vocalist
 german
@@ -16,15 +16,15 @@ experimental
 female vocalist
 folk
 singer-songwriter
-60s
+1960s
 female vocalist
 folk
 singer-songwriter
+1960s
 1970s
-60s
 german
 1970s
 female vocalist
 germany
-goth
+gothic
 rock

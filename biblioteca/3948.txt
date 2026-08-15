@@ -3,7 +3,6 @@ house
 dance
 dance
 electronic
-sexy
 00
 2000s
 all time hit
@@ -14,7 +13,6 @@ dance
 dance 00s
 dance music
 disco
-great
 male and female
 pop
 pop dance
@@ -28,8 +26,8 @@ disco
 eurodance
 pop
 swedish
-electro pop
-europop
+electronic-pop
+euro-pop
 swedish
 2000s
 pop

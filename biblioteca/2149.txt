@@ -1,14 +1,13 @@
 ambient
 idm
 minimal
-electro
-electronica
-electro
+electronic
+electronic
 german
 house
 techno
 minimal
-electronica
+electronic
 minimal
 alternative
 minimal
@@ -16,11 +15,8 @@ descoperiri
 downtempo
 minimal
 ambient
-chillout
-electro
+chill out
 electronic
-electronica
-favorite
 headphones
 idm
 minimal

@@ -1,6 +1,5 @@
 00
 2000s
-brasil
 brazil
 brazilian
 catchy
@@ -8,10 +7,9 @@ club
 cover
 dance 00s
 dance music
-eletronica
+electronic
 female
 female vocalist
-great
 house
 house music
 made in brazil

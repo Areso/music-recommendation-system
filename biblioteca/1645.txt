@@ -1,11 +1,9 @@
-favorite
 punk
 punk
 ska
 punk
 punk
 ska
-awesome
 punk
 punk rock
 rock
@@ -17,7 +15,6 @@ punk
 ska punk
 punk
 punk
-seen live
 alternative
 alternative rock
 american
@@ -34,7 +31,6 @@ punk
 punk rock
 punk
 alternative
-favorite
 fucking awesome
 punk
 rock

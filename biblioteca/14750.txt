@@ -1,7 +1,7 @@
 experimental
 idm
 minimal
-electronica
+electronic
 idm
 aana
 descoperiri

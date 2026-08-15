@@ -1,7 +1,6 @@
-ambiant
-chillout
+ambient
+chill out
 downtempo
-electro
-electronica
+electronic
 experimental
 idm

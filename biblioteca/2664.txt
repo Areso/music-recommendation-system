@@ -10,7 +10,6 @@ metal
 modern metal
 power metal
 rock
-seen live
 hard rock
 metal
 hard rock
@@ -18,7 +17,6 @@ heavy metal
 metal
 hard rock
 metal
-seen live
 hard rock
 heavy metal
 alternative

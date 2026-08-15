@@ -1,6 +1,5 @@
 ambient
 minimal
-i am canadian
 ambient
 minimalism
 ambient

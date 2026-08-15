@@ -1,9 +1,8 @@
-favorite
-trip-hop
+trip hop
 nu jazz
-chillout
+chill out
 electronic
-trip-hop
+trip hop
 electronic
 ninja tune
 nu jazz
@@ -11,7 +10,7 @@ ninja tune
 ninja tune
 turntablism
 acid jazz
-trip-hop
-chillout
+trip hop
+chill out
 downtempo
-trip-hop
+trip hop

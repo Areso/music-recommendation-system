@@ -1,6 +1,6 @@
 hard rock
 hard rock
-rock n roll
+rock'n'roll
 hard rock
 rock
 hard rock
@@ -17,7 +17,6 @@ hard rock
 rock
 hard rock
 hard rock
-cool
 hard
 hard rock
 heavy

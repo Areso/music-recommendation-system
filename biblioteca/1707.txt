@@ -6,13 +6,12 @@ ambient
 creep
 gothic
 gothic
-dead can dance
 ambient
 gothic
 relaxing music
 berep shows the love
 female
-goth
+gothic
 live
 slowies
 ambient
@@ -21,23 +20,22 @@ for work
 ethereal
 gothic
 world
-goth
+gothic
 alternative
 ambient
 australian
-darkwave
+dark wave
 gothic
 new age
 ambient
 ethereal
 female vocalist
-favorite artist
-darkwave
+dark wave
 ethereal
 gothic
 4ad
 bliss
-darkwave
+dark wave
 dreampop
 ethereal
 experimental
@@ -46,5 +44,5 @@ ambient
 gothic
 ezbeni
 winds of soul
-australia
+australian
 dream pop

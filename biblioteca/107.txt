@@ -4,7 +4,6 @@ electronic
 experimental
 industrial
 dubstep
-hyperdub
 dubstep
 ambient
 dubstep
@@ -14,16 +13,14 @@ dubstep
 ambient
 dubstep
 electronic
-electronica
 experimental
 aana
 atmospheric
 descoperiri
 electronic
-electronica
 idm
 ambient
-electronica
+electronic
 minimal
 wonderful through headphones
 electronic
@@ -32,5 +29,5 @@ ambient
 electronic
 experimental
 ambient
-chillout
+chill out
 electronic

@@ -1,8 +1,7 @@
-electronica
-techno
-chillout
 electronic
-electronica
+techno
+chill out
+electronic
 interesting
 chill
 dance
@@ -10,7 +9,7 @@ downtempo
 dub
 house
 techno
-chillout
+chill out
 lounge
 cops
 crime
@@ -18,7 +17,7 @@ death
 famous persons
 originals
 soundtrack
-chillout
+chill out
 dance
 progressive house
 trance
@@ -27,4 +26,3 @@ just chillin
 dance
 techno
 electronic
-electronica

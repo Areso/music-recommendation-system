@@ -3,15 +3,15 @@ post-rock
 acoustic
 ambient
 american
-chillout
+chill out
 downtempo
-electronica
+electronic
 experimental
 idm
 indie
+indie electronic
 indie pop
 indie rock
-indietronica
 instrumental
 male vocalist
 mellow
@@ -21,6 +21,5 @@ post-rock
 rock
 shoegaze
 singer-songwriter
-trip-hop
+trip hop
 usa
-steel drummy goodness

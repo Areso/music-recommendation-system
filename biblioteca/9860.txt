@@ -1,7 +1,7 @@
 electroclash
 house
 2000s
-electro
+electronic
 house
 dance
 electronic
@@ -9,7 +9,6 @@ dark
 dark disco
 deep-electro
 deepclash
-electro
 electro minimalist
 electroclash
 electronic
@@ -17,8 +16,7 @@ idm
 neo-electro
 neo-pop
 new wave
-synthpop
-too cool for normal tags
+synth-pop
 just chillin
-electronica
+electronic
 girlamazing

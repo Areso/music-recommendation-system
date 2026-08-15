@@ -6,7 +6,7 @@ metalcore
 death metal
 hardcore
 metalcore
-screamo
+scream
 metal
 metalcore
 hardcore
@@ -23,7 +23,6 @@ metalcore
 metalcore
 christian metalcore
 metalcore
-as i lay dying
 melodic death metal
 christian metalcore
 fromhell

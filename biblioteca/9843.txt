@@ -5,5 +5,4 @@ reggae
 jamaica
 jamaican
 reggae
-country: jamaica
 reggae

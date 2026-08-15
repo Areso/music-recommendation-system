@@ -1,5 +1,4 @@
 folk
-favorite
 acoustic
 alternative
 folk
@@ -11,4 +10,3 @@ norwegian
 pop
 rock
 scandinavian
-seen live

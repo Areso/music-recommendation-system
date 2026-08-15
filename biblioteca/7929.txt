@@ -1,5 +1,5 @@
 chill zone
-60s
+1960s
 classic rock
 classic rock
 psychedelic
@@ -10,13 +10,13 @@ progressive rock
 psychedelic
 psychedelic rock
 progressive rock
-60s
+1960s
 classic rock
 eldad
 the beatles
 classic rock
 progressive
-60s
+1960s
 classic rock
 progressive rock
 psychedelic

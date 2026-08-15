@@ -1,7 +1,7 @@
 indie
 indie rock
 rock'n'roll
-britpop
+brit pop
 indie rock
 punk
 alternative
@@ -13,13 +13,13 @@ british
 indie
 indie rock
 jazz
-britpop
+brit pop
 indie rock
 indie rock
 alternative
 alternative rock
+brit pop
 british
-britpop
 indie
 indie rock
 male vocalist
@@ -30,7 +30,7 @@ arcady
 indie
 pop rock
 indie
-britrock
+british rock
 british
 indie rock
 british
@@ -38,8 +38,8 @@ indie
 2000s
 alternative
 alternative rock
+brit pop
 british
-britpop
 indie
 indie rock
 rock
@@ -53,15 +53,13 @@ british
 indie
 indie rock
 alternative
+brit pop
 british
-britpop
 indie
 indie rock
 dreamy-perfect pop
 acoustic
 cute
-genius
-love at first listen
 indie
 indie rock
 alternative
@@ -71,4 +69,3 @@ indie rock
 rock
 indie
 post-punk revival
-seen live

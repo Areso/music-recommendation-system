@@ -1,7 +1,5 @@
-legend
 rock
 ballad
-beautiful
 british
 classic rock
 rock
@@ -9,7 +7,7 @@ rock ballad
 classic rock
 blues
 psychedelic rock
-rock 'n' roll
+rock'n'roll
 chill zone
 cover
 classic rock
@@ -18,8 +16,7 @@ british
 classic rock
 rock
 <3
-amazing
-60s
+1960s
 british
 classic rock
 rock
@@ -37,89 +34,84 @@ rock
 classic rock
 rock
 rock
+1960s
 1970s
+1980s
 1990s
-60s
-80s
 blues
 classic rock
 male vocalist
 uk
 classic rock
 rock
+1960s
 1970s
-60s
 classic rock
 british
 rock
 uk
 ballad
-beautiful
 blues
 british
 psychedelic
 1981
 artists
-60s
-80s
+1960s
+1980s
 blues
 classic rock
 hard rock
 rock
-rock and roll
+rock'n'roll
 soul
-60s
+1960s
 acid
-the rolling stones
-vietnam
-word best songs
 british
 rock
-60s
+1960s
 british
 barrelhouse covers
+1960s
 1970s
+1980s
 1990s
-60s
-80s
 alternative
 classic rock
 pop
 rock
-60s
+1960s
 british
 classic rock
 classic rock
+1960s
 1970s
 1990s
-60s
 rock
 blues
 classic rock
 rock
+1960s
 1978
 1989
 1997
-60s
 better than lady gaga
-the greatest hard rock band of 60s
-rock and roll
+rock'n'roll
 classic rock
 rock
 classic rock
-60s
+1960s
 alternative
 blues
 british
 classic rock
 rock
+1960s
 1970s
+1980s
 1990s
-60s
-80s
 rock
 rolling stones top 500
-60s
+1960s
 british
 classic rock
 full metal jacket
@@ -131,10 +123,7 @@ scifi
 blues
 classic rock
 rock
-fav track of a band
 1970s
-beautiful
-best songs ever
 classic
 fucking brilliant
 classic rock
@@ -144,16 +133,11 @@ ballad
 english
 male
 guitar solo
-harp
 2010
 blues rock
 british
 classic rock
-five strings two fingers one asshole
-keef the human riff
-keith richards
-rock n roll
-rolling stones
+rock'n'roll
 english
 rock
 blues
@@ -171,34 +155,32 @@ blues
 british
 classic rock
 moonlight mile ost
+1960s
 1970s
-60s
 bi daha dinlicem
 classic rock
 rock
-60s
+1960s
 blues
 british
 classic rock
 rock
-80s
+1980s
 british
-love
-rock and roll
-rock n roll
+rock'n'roll
 romantic
 classic rock
 atelier
-60s
+1960s
 british
 classic rock
 classic rock
 rock
-60s
+1960s
 classic rock
 rock
 listened more than 10 times in a row
-rolling stone 500 greatest songs of all time
+rolling stones top 500
 british
 british
 classic rock
@@ -207,19 +189,18 @@ classic rock
 rock
 1970s
 ohmydamn
+1960s
 1970s
-60s
-80s
+1980s
 blues
 blues rock
 classic rock
 cover
 hard rock
-rock and roll
+rock'n'roll
 british invasion
 classic rock
 rock
-amazing
 british
 classic
 classic rock
@@ -228,23 +209,21 @@ hard rock
 oldies
 psychedelic
 rock
-rock and roll
+rock'n'roll
+1960s
 1970s
-60s
-soundtrack of my childhood
+1960s
 1970s
-60s
 british
 british invasion
-legend
 rock
 cover
 classic rock
 classic rock
 other great tracks
 classic rock
+1960s
 1970s
-60s
-60s
+1960s
 scott pilgrim
 uk

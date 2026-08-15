@@ -7,8 +7,7 @@ experimental
 female vocalist
 indie
 acoustic
-beautiful
-chillout
+chill out
 female vocalist
 folk
 piano
@@ -16,7 +15,6 @@ sad
 alternative
 folk
 indie
-magik
 indie
 goddesses
 female vocalist
@@ -31,7 +29,6 @@ female vocalist
 singer-songwriter
 aana
 alternative
-cool
 descoperiri
 experimental
 piano
@@ -51,17 +48,16 @@ female vocalist
 folk
 indie
 indie
-pocahontas
 the best
 ambient
 avant-garde
 british
-chillout
+chill out
 downtempo
 dream pop
 folk
+indie electronic
 indie pop
-indietronica
 pop
 singer-songwriter
 alternative
@@ -74,39 +70,29 @@ alternative
 folk
 female vocalist
 folk
-seen live
 singer-songwriter
 acoustic
 alternative
 alternative rock
 ambient
 atmospheric
-beautiful
-brilliant
 british
-chillout
+chill out
 cute
 dreamy
 electronic
-epic
 experimental
 folk
 fucking awesome
-genius
 indie
 indie rock
-love at first listen
-lovely
 mellow
-perfect
 piano
 psychedelic
-relaxing
+relax
 rock
 sad
 singer-songwriter
-songs i absolutely love
-sweet
 effy
 alternative
 female vocalist

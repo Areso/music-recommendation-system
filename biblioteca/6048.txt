@@ -6,7 +6,6 @@ ambient
 canadian
 post-rock
 experimental
-seen live
 experimental
 post-rock
 post-rock
@@ -18,20 +17,17 @@ art music
 art rock
 avant-garde
 coisa de deus
-epic
 post modern
 complete sentences
 fashionably punctuated band
 experimental
 post-rock
-i came
 bazarov
 pastel
 ambient
 ambient
 experimental
 post-rock
-dirge
 indie
 shoegazer
 1990s
@@ -45,7 +41,7 @@ canadian
 experimental
 experimental
 post-rock
-chillout
+chill out
 experimental
 instrumental
 melancholy

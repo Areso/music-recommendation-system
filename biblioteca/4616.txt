@@ -2,16 +2,12 @@ british
 house
 jazz
 british
-amazing
-chillout
+chill out
 cover
 easy listening
-love
-love at first listen
 male vocalist
 mellow
 piano
-sexy
 singer-songwriter
 soundtrack
 swing
@@ -23,7 +19,6 @@ jazz
 cover
 jazz
 british
-fun
 male vocalist
 piano
 singer-songwriter
@@ -44,4 +39,3 @@ piano
 singer-songwriter
 piano
 singer-songwriter
-check out later

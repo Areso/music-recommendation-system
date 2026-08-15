@@ -1,8 +1,8 @@
 alternative
 ambient
 dance
-electro
+electronic
 house
-synthpop
+synth-pop
 remix
-electro
+electronic

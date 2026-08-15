@@ -1,4 +1,3 @@
-lil wayne
 hip-hop
 rap
 hip-hop
@@ -8,23 +7,19 @@ rap
 rap
 crunk
 hip-hop
+r'n'b
 rap
-rnb
-sexy
 urban
 assertive
 banger
 beast
 catchy
-cool
 crazy
 dope
-favorite
 fiya
 freestyle
 good shit
 hip-hop
-lovely
 mean
 neat
 phat
@@ -33,7 +28,6 @@ real hip-hop
 real talk
 sick
 solid
-sweet
 witty
 hip-hop
 hip-hop
@@ -51,7 +45,6 @@ south rap
 trippy
 nice beat
 dirty south
-sexi
 rap
 hip-hop
 rap

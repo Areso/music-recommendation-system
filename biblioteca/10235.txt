@@ -4,4 +4,3 @@ japanese
 anime
 j-pop
 japanese
-jpop

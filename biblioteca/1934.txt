@@ -23,16 +23,12 @@ piano
 pop
 singer-songwriter
 soul
-amazing
-beautiful
-chillout
+chill out
 easy listening
 female vocalist
-love
 piano
 sad
 soul
-leave me alone
 2000s
 british
 female vocalist
@@ -40,18 +36,16 @@ jazz
 singer-songwriter
 soul
 uk
-awesome
 british
-favorite
 female vocalist
 indie
 indie pop
 singer-songwriter
 women
 house
-r and b
+r'n'b
 acoustic
-chillout
+chill out
 jazz
 singer-songwriter
 soul
@@ -79,19 +73,14 @@ female vocalist
 pop
 soul
 female vocalist
-soul-pop
 female vocalist
 soul
-brilliant
-perfect
 piano
 british
-intimate
 <3
-amazing
 pop
 acoustic
-chillout
+chill out
 folk
 indie pop
 indie rock
@@ -105,24 +94,17 @@ singer-songwriter
 soul
 acoustic
 alternative
-awesome
-beautiful
 british
-chillout
+chill out
 cute
 folk
-fun
 indie
 indie rock
-love at first listen
-lovely
 piano
 relax
 rock
 singer-songwriter
-sweet
 uk
-my ballz in your mouth :3
 shit
 trashbag filled with vomit
 female vocalist

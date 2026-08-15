@@ -2,8 +2,8 @@ electronic
 electronic
 progressive psytrance
 chill
-chillout
-electro
+chill out
+electronic
 goa
 psychedelic
 psychedelic trance
@@ -23,5 +23,4 @@ electronic
 psychedelic
 ambient
 electronic
-electronica
 ambient

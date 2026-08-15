@@ -1,16 +1,13 @@
 folk
 singer-songwriter
 indie
-indietronica
-amazing
-beautiful
+indie electronic
 electronic
 folk
 indie
 male vocalist
 piano
 sad
-sexy
 singer-songwriter
 alternative
 british
@@ -24,7 +21,7 @@ indie
 male vocalist
 singer-songwriter
 uk
-viola
+violin
 alternative
 electronic
 experimental
@@ -36,13 +33,11 @@ male vocalist
 singer-songwriter
 crooner
 indie
-violinist
+violin
 electronic
 indie
 singer-songwriter
-amazing
 deep
-favorite
 indie
 alternative
 british
@@ -52,11 +47,7 @@ singer-songwriter
 indie
 cesar
 amor
-beautiful
 cry
-hermoso
-love
-pena
 british
 folk
 indie folk
@@ -73,32 +64,22 @@ irish
 piano
 rock
 <3
-want to see live
 alternative
 alternative rock
-amazing
 ambient
 atmospheric
-beautiful
 british
-electro
 electronic
-epic
 experimental
 folk
 fucking awesome
-genius
 happy
 indie
 indie rock
-lovely
-perfect
 piano
 progressive rock
 rock
 sad
-songs i absolutely love
-sweet
 uk
 experimental
 indie
@@ -110,5 +91,4 @@ indie
 alternative
 piano
 singer-songwriter
-seen live
 uk

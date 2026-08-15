@@ -4,8 +4,6 @@ experimental
 idm
 mathcore
 noise
-brilliant
 electronic
-favorite
 idm
 industrial

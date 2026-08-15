@@ -15,7 +15,6 @@ acoustic
 ballad
 cover
 easy listening
-love
 male vocalist
 mellow
 pop rock
@@ -32,8 +31,6 @@ indie
 jazz
 soul
 easy listening
-favourite artists
-great voice
 singer-songwriter
 british
 pop
@@ -72,9 +69,8 @@ pop
 inlove
 alternative
 big band
-chillout
+chill out
 smooth
-love
 pop
 acoustic
 british
@@ -83,7 +79,7 @@ singer-songwriter
 soul
 pop
 soul
-britpop
+brit pop
 acoustic
 british
 male vocalist

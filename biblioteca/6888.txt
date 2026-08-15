@@ -1,4 +1,3 @@
-awesome
 banger
 beast
 brooklyn
@@ -6,7 +5,6 @@ classic
 dope
 dope cut
 east coast rap
-favorite
 fiya
 good shit
 hard
@@ -14,7 +12,6 @@ hip-hop
 humor
 neat
 new york shit
-nice
 phat
 poignant
 rap
@@ -22,7 +19,6 @@ raw
 real talk
 solid
 superb
-sweet
 the good stuff
 the truth
 tight

@@ -6,7 +6,6 @@ alternative
 folk
 punk
 rock
-favorite
 folk punk
 irish
 alternative
@@ -16,7 +15,6 @@ irish
 punk
 punk rock
 rock
-seen live
 folk
 punk
 punk rock
@@ -28,12 +26,9 @@ punk
 punk rock
 folk punk
 irish
-irish punk
 punk
-seen live
 alternative
 folk
 irish
 punk
 rock
-irish folk punk rock

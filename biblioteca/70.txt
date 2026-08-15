@@ -1,11 +1,9 @@
 electronic
 ambient
-chillout
+chill out
 electronic
-electronica
 1990s
-beautiful
-chillout
+chill out
 downtempo
 dreamy
 electronic
@@ -17,51 +15,48 @@ depressing
 sad
 alternative
 ambient
-chillout
+chill out
 dance
 electronic
 singer-songwriter
-trip-hop
+trip hop
 poetry
 alternative
-chillout
+chill out
 dance
 electronic
 alternative
 ambient
-chillout
+chill out
 dance
-electronica
+electronic
 pop
 rock
-chillout
+chill out
 electronic
 ambient
-beautiful
-chillout
+chill out
 electronic
-electronica
 experimental
 instrumental
 psychedelic
 space
 alternative
 ambient
-chillout
+chill out
 electronic
-electronica
 dance
 electronic
 alternative
 ambient
-chillout
+chill out
 dance
 electronic
 house
 indie
 techno
 trance
-trip-hop
+trip hop
 alternative
 must have
 electronic
@@ -69,47 +64,40 @@ ambient
 electronic
 ambient
 electronic
-electronica
 pop
-chillout
+chill out
 ambient
-chillout
+chill out
 electronic
-electronica
 electronic
-seen live
 dance
 dream
 pop
-check your meta tag
 dance
 electronic
 oui fm
 ambient
-chillout
+chill out
 electronic
 ambient
 dance
 electronic
-forever in heart
-sexy
+forever
 alternative
 ambient
 electronic
-electronica
 ambient
 electronic
 lounge
 alternative
 ambient
-chillout
+chill out
 dance
 electronic
 ambient
 electronic
 blue songs
 colors
-questions
 soundtrack
 ambient
 electronic
@@ -124,7 +112,6 @@ cover
 dance
 downbeat
 electronic
-fave
 female vocalist
 indie
 instrumental
@@ -138,28 +125,22 @@ song with samples
 alternative
 new vicious
 ambient
-chillout
+chill out
 electronic
-electronica
-ambient
-electronica
-moby
-seen live
 ambient
 electronic
-i fucking love this song
-electronica
-seen live
+ambient
 electronic
-electronica
+electronic
+electronic
 electronic
 1990s
 ambient
 american
-chillout
+chill out
 dance
 downtempo
-electronica
+electronic
 indie rock
 instrumental
 jazz
@@ -170,14 +151,14 @@ new wave
 pop
 rock
 singer-songwriter
-trip-hop
+trip hop
 usa
 alternative
 ambient
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -187,33 +168,26 @@ post-punk
 rock
 singer-songwriter
 u2
-amazing
-favorite
-favorite song
 male vocalist
 alternative
 ambient
-chillout
+chill out
 electronic
-electronica
 alternative
 alternative rock
 ambient
 atmospheric
-chillout
+chill out
 dance
 dreamy
-electro
 electronic
 indie
 relax
 rock
 sad
-songs i absolutely love
-chillout
-trip-hop
-rs
-chillout
+chill out
+trip hop
+chill out
 relax
 electronic
 usa

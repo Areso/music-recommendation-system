@@ -13,7 +13,6 @@ mellow
 singer-songwriter
 folk
 acoustic
-legend
 garden state soundtrack
 softspoken
 spring
@@ -24,7 +23,6 @@ indie
 rock
 singer-songwriter
 acoustic
-favorite artist
 folk
 top100
 acoustic
@@ -36,8 +34,6 @@ england
 folk
 songwriter
 uk
-my own private sunshine
-favorite
 acoustic
 cover
 folk

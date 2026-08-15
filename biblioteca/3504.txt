@@ -3,10 +3,10 @@ noize
 abstract
 atmospheric
 avant-garde
-chillout
+chill out
 downtempo
 drone
-electro
+electronic
 field recording
 folk
 glitch
@@ -24,8 +24,7 @@ self made music
 soundscape
 ambient
 glitch
-favorite
 check
-electronica
+electronic
 ambient
 psychosis

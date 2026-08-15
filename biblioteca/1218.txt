@@ -1,6 +1,5 @@
 chef musinum
 electronic
-electronica
 experimental
 jean marc toma
 lostfreeq
@@ -8,4 +7,3 @@ new beat
 psychedelic
 soundtrack
 electronic
-electronica

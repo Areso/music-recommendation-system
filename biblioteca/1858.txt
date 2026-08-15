@@ -5,7 +5,7 @@ post-hardcore
 hardcore
 metal
 rock
-screamo
+scream
 post-hardcore
 rock
 emo
@@ -17,10 +17,7 @@ alternative
 rock
 alternative
 experimental
-favorite male vocalist
 notag
-i love this song
-idolo
 alternative
 punk
 rock

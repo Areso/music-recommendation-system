@@ -1,5 +1,4 @@
 ballad
-beautiful
 british
 classic rock
 rock
@@ -9,10 +8,9 @@ miserable
 rain
 blues
 classic rock
-80s
+1980s
 acoustic
 ballad
-beautiful
 blues
 classic rock
 sad
@@ -25,7 +23,6 @@ blues
 classic rock
 rock
 uk
-favorite song
 1970s
 blues
 classic rock
@@ -37,7 +34,6 @@ blues rock
 classic rock
 guitar
 singer-songwriter
-a brother and a friend
 barrelhouse covers
 tunes for a brother
 guitar
@@ -74,20 +70,14 @@ alternative rock
 classic rock
 pop rock
 rock
-best songs of the 70s
-best songs of the 80s
-best songs of the 90s
 classic rock
 classic rock
 1996
-i love my dad taste
 classic rock
 god
-seen live
 acoustic
 blues rock
 classic rock
-favorite artist
 70ss
 blues
 a god on the earth
@@ -105,7 +95,6 @@ blues rock
 classic rock
 delta blues
 rock
-amazing
 blues
 blues rock
 classic rock
@@ -116,12 +105,10 @@ guitar
 guitar virtuoso
 reggae
 classic rock
-epic
 new wave and eighties
 other great tracks
 1990s
 acoustic
-best song
 classic rock
 male vocalist
 rock

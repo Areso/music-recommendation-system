@@ -1,5 +1,4 @@
 spring
-legend
 rock
 unforgettable
 classic rock
@@ -10,10 +9,9 @@ classic rock
 pop
 rock
 singer-songwriter
-80s
+1980s
 acoustic
 alternative
-beautiful
 british
 classic rock
 male vocalist
@@ -39,7 +37,6 @@ piano
 pop
 rock
 classic rock
-favorite
 1970s
 <3
 british
@@ -50,7 +47,6 @@ rock
 alternative
 british
 folk
-love
 musical orgasm
 singer-songwriter
 british
@@ -59,10 +55,9 @@ rock
 singer-songwriter
 singer-songwriter
 dreamy
-strong
 classic rock
 rock
-80s
+1980s
 singer-songwriter
 classic rock
 classic rock
@@ -102,7 +97,6 @@ classic rock
 english
 male vocalist
 1970
-best christmas songs
 1970s
 classic rock
 british
@@ -121,39 +115,27 @@ classic rock
 christmas
 classic rock
 rock
-love
-screamo
-the type of woman i am
+scream
 folk
 classic rock
 classic rock
 rock
 a god on the earth
-genius
 folk
 acoustic
-brilliant
 classic
 classic rock
 cute
-epic
-genius
-love at first listen
 mellow
 oldies
-perfect
 piano
 psychedelic rock
 relax
-relaxing
-rock and roll
-rock n roll
+rock'n'roll
 sad
 singer-songwriter
-songs i absolutely love
 1970s
-80s
-epic
+1980s
 british
 pop
 rock
@@ -163,8 +145,6 @@ classic rock
 british
 classic rock
 rock
-epic
-favorite song
 peace
-britpop
+brit pop
 uk

@@ -1,2 +1,1 @@
 ska
-country: germany

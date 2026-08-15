@@ -1,7 +1,6 @@
 interesting
 progressive rock
 progressive rock
-health food faggot
 art rock
 experimental
 progressive
@@ -18,10 +17,10 @@ progressive rock
 psychedelic
 rock
 guitar solo
+1960s
 1970s
+1980s
 1990s
-60s
-80s
 british
 experimental
 psychedelic
@@ -36,8 +35,8 @@ progressive
 classic rock
 progressive rock
 rock
+1960s
 1970s
-60s
 classic rock
 fusion
 hard rock

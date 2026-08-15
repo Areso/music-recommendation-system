@@ -23,7 +23,7 @@ acoustic
 folk
 indie
 acoustic
-chillout
+chill out
 folk
 indie
 mellow
@@ -33,8 +33,7 @@ folk
 acoustic
 folk
 acoustic
-favorite bands and artists
 keep ya calm
 porque te vas
-relaxing
+relax
 melrose place

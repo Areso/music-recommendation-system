@@ -3,7 +3,6 @@ british
 folk
 indie
 acoustic
-beautiful
 british
 folk
 indie rock
@@ -24,4 +23,3 @@ folk
 indie
 acoustic
 folk
-favorite bands and artists

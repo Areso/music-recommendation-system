@@ -1,9 +1,8 @@
 abstract
 atmospheric
-beautiful
-chillout
+chill out
 downtempo
-electro
+electronic
 field recording
 glitch
 idm
@@ -16,6 +15,4 @@ idm
 brainy
 electronic
 idm
-my favorite song
-my shoes are speaking
 think geek

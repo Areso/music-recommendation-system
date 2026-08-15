@@ -1,7 +1,6 @@
 rock
 pop rock
 indie
-love at first listen
 pop rock
 alternative
 rock
@@ -24,4 +23,3 @@ pop
 pop rock
 rock
 isa
-sweet

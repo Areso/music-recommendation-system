@@ -2,16 +2,16 @@ emo
 emocore
 hardcore
 post-hardcore
-screamo
+scream
 emo
 emocore
 hardcore
 post-hardcore
-screamo
+scream
 post-hardcore
 post-hardcore
 canadian
-screamo
+scream
 post-hardcore
 hardcore
 post-hardcore
@@ -21,18 +21,17 @@ emo
 emocore
 hardcore
 post-hardcore
-screamo
-screamo
+scream
+scream
 canadian
 cover
 rock
 soundtrack
-screamo
-screamo
+scream
+scream
 hardcore
 melodic hardcore
 not emo
 post-hardcore
-post-ironic beardcore
 emo
-screamo
+scream

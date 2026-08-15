@@ -1,10 +1,9 @@
 disco
-electro
 electronic
-synthpop
 electronic
-sexy
-synthpop
+synth-pop
 electronic
-synthpop
+synth-pop
+electronic
+synth-pop
 witch-clash

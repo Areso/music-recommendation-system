@@ -2,10 +2,9 @@ ambient
 idm
 atmospheric
 avant-garde
-beautiful
 downtempo
 drone
-electronica
+electronic
 folk
 idm
 indie
@@ -22,9 +21,8 @@ british
 downtempo
 folk
 idm
+indie electronic
 indie folk
-indietronica
 instrumental
 noise
-best song ever
 electronic

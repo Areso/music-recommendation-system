@@ -4,8 +4,6 @@ indie rock
 alternative
 punk
 rock
-favorite
-favorite song
 indie
 alternative
 indie
@@ -20,17 +18,15 @@ female vocalist
 female vocalist
 riot grrrl
 alternative rock
-beautiful
 classical
 dance
 drums
-electro
 electroclash
+electronic
 guitar
 harmonisch
 harmonisch ambient classical new nu classic
 indie
-love
 more
 new
 new media
@@ -38,8 +34,6 @@ new wave
 piano
 punk
 techno
-makes me want to dance
-seen live
 electronic
 female vocalist
 indie
@@ -61,8 +55,8 @@ alternative
 electronic
 female vocalist
 indie
+indie electronic
 indie rock
-indietronica
 rock
 punk
 alternative

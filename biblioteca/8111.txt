@@ -4,8 +4,8 @@ album rock
 hard rock
 1970s
 blues
+1960s
 1970s
-60s
 blues rock
 classic rock
 guitar virtuoso
@@ -26,8 +26,8 @@ fusion
 jam band
 rock
 southern rock
+1960s
 1970s
-60s
 classic rock
 guitar solo
 rock
@@ -36,7 +36,6 @@ blues
 instrumental
 instrumental blues
 rock
-i love my dad taste
 classic rock
 blues
 classic rock
@@ -53,9 +52,9 @@ blues
 classic rock
 rock
 southern rock
+1960s
 1970s
-60s
-80s
+1980s
 blues
 rock
 southern rock

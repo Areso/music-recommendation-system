@@ -1,7 +1,7 @@
-chillout
+chill out
 ambient
 ambient lounge
-chillout
+chill out
 downtempo
 electronic
 psybient
@@ -14,13 +14,13 @@ dark ambient
 deep
 downtempo
 dream
-electro
+electronic
 psychedelic
 psychedelic trance
 psytrance
 relax
 trance
 ambient
-chillout
+chill out
 electronic
 recos

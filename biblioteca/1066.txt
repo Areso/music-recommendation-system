@@ -1,17 +1,14 @@
 10s
 2000s
-awesome
 futuremelon
 vampirepop
 canadian
 ebm
 female vocalist
 futurepop
-beautiful female vocalist
 canadian
 industrial
-synth pop
-i am canadian
+synth-pop
 rock hard
 electronic
 female vocalist
@@ -21,24 +18,24 @@ electronic
 new wave
 powerpop
 rock
-synthpop
+synth-pop
 techno
 ebm
-electronica
+electronic
 futurepop
 gothic
 industrial
-synthpop
+synth-pop
 female electronic
 darkwave-synth
 electronic
-synthpop
+synth-pop
 ebm
 ebm
 ebm
 ebm
 futurepop
-synthpop
+synth-pop
 ebm
 electro-industrial
 futurepop

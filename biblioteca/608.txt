@@ -6,7 +6,6 @@ post-rock
 electric guitar
 instrumental
 jazz
-tortoise
 experimental
 post-rock
 post-rock
@@ -20,12 +19,12 @@ experimental
 ambient
 american
 avant-garde
-chillout
+chill out
 dance
 downtempo
 idm
+indie electronic
 indie rock
-indietronica
 instrumental
 jazz
 lo-fi
@@ -37,9 +36,8 @@ progressive rock
 psychedelic
 shoegaze
 soul
-trip-hop
+trip hop
 usa
-best song ever
 2000s
 experimental
 post-rock

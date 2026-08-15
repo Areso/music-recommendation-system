@@ -4,6 +4,6 @@ electronic
 instrumental
 new wave
 pop
-synthpop
+synth-pop
 ambient
-electronica
+electronic

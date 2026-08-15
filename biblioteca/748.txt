@@ -2,93 +2,85 @@ ambient
 experimental
 idm
 ambient
-chillout
+chill out
 electronic
-electronica
 idm
 ambient
-chillout
+chill out
 electronic
-electronica
 idm
 ambient
 scottish
-chillout
+chill out
 downtempo
 lounge
-trip-hop
+trip hop
 ambient
 electronic
 idm
 boards of canada
 chill
-chillout
+chill out
 downtempo
-electro
+electronic
 experimental
 idm
 mellow
 top 20
-trip-hop
+trip hop
 robots
-chillout
+chill out
 melancholy
 relax
 ambient
-electronica
+electronic
 warp
 downtempo
-trip-hop
+trip hop
 ambient
-chillout
+chill out
 electronic
-electronica
 idm
 minimal
 wonderful through headphones
 berep guest dj closedmouth 239645
 instrumental
-sexy
-chillout
+chill out
 ambient
-fave
 instrumental
 ambient
-chillout
-electronica
+chill out
+electronic
 idm
 iron jesus
 ambient
-chillout
+chill out
 electronic
 electronic
 ambient
-chillout
+chill out
 electronic
-electronica
 idm
 just chillin
 pastel
 electronic
 electronic
-favorite song
 mellow
 worth a second look
 ambient
-chillout
+chill out
 electronic
-electronica
 idm
 suicide songs
 1990s
 ambient
 british
-chillout
+chill out
 dance
 downtempo
 idm
+indie electronic
 indie pop
-indietronica
 instrumental
 jazz
 lo-fi
@@ -96,8 +88,7 @@ lounge
 mellow
 post-rock
 shoegaze
-trip-hop
-favorite artist
+trip hop
 idm
 ambient
 dreamy
@@ -108,13 +99,12 @@ electronic
 idm
 ambient
 electronic
-electronica
 experimental
 indie
-trip-hop
+trip hop
 ambient
-chillout
-electronica
+chill out
+electronic
 experimental
 idm
 ambient
@@ -125,14 +115,13 @@ downtempo
 electronic
 experimental
 idm
-trip-hop
+trip hop
 ambient
-chillout
+chill out
 electronic
-electronica
 idm
 experimental
-chillout
-chillout
+chill out
+chill out
 downtempo
 electronic

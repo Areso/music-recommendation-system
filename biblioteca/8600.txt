@@ -3,5 +3,4 @@ classical
 experimental
 lostfreeq
 new beat
-favorite
 soundtrack

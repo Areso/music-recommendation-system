@@ -1,5 +1,4 @@
 rock hard
-electro
 electronic
 punk
 techno
@@ -8,7 +7,7 @@ electro-industrial
 industrial
 remix
 electronic
-female vocals
+female vocalist
 coldwave
 cyberpunk
 industrial

@@ -1,9 +1,9 @@
 rock
 rock
-brasil
+brazil
 reggae
 rock
-brasil
+brazil
 brazilian
 pop rock
 rock
@@ -12,7 +12,6 @@ pop
 pop rock
 brazilian
 pop rock
-skank
 mpb
 musica popular brasileira
 brazilian

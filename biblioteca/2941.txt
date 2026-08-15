@@ -15,10 +15,8 @@ rock
 ballad
 alternative
 rock
-awesome
 alternative
 alternative rock
-awesome
 rock
 sad
 alternative
@@ -32,8 +30,6 @@ rock
 rock
 inlove
 so sweet
-awesome
-cool
 hard rock
 heavy metal
 rock

@@ -3,7 +3,7 @@ classic rock
 hard-heavy rock
 hard rock
 heavy rock
-rock and roll
+rock'n'roll
 stoner rock
 blues rock
 hard rock
@@ -14,14 +14,13 @@ stoner rock
 classic rock
 psychedelic
 psychedelic rock
+1960s
 1990s
-60s
 blues rock
 classic rock
 cover
 doom metal
 hard rock
-heavy blues
 heavy metal
 proto metal
 psychedelic
@@ -31,5 +30,5 @@ traditional heavy metal
 blues rock
 classic rock
 hard rock
-60s
+1960s
 hard rock

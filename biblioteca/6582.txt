@@ -1,8 +1,8 @@
 ambient
-chillout
+chill out
 idm
 atmospheric
-chillout
+chill out
 downtempo
 idm
 lounge
@@ -13,27 +13,22 @@ new age
 post-rock
 progressive rock
 soundscape
-trip-hop
+trip hop
 ambient
-shanuss
 ambient
 electronic
-electronica
 dreamy
-electronica
+electronic
 mellow
 downtempo
 ambient
-electro
 electroclash
 electronic
-electronica
-favorite
 idm
 minimal
 techno
 ambient
-chillout
+chill out
 deutsch
 electronic
 german
@@ -44,16 +39,15 @@ downbeat
 electronic
 experimental
 instrumental
-0 play yet
 ambient
 ambient
 germany
 ambient
-chillout
+chill out
 electronic
 idm
 shoegaze
 ambient
-chillout
-electronica
+chill out
+electronic
 idm

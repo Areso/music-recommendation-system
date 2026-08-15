@@ -1,7 +1,5 @@
 alternative
 electronic
-electronica
 futurepop
 male vocalist
-synth pop
-synthpop
+synth-pop

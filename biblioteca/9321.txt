@@ -1,11 +1,8 @@
 1983
 1986
 british artists
-fav song
-new wave artists
-new wave songs
-songs to listen to on a sunny day
-synthpop songs
+new wave
+synth-pop
 college rock
 alternative
 alternative
@@ -17,7 +14,7 @@ instrumental
 slowies
 song with samples
 soundtrack
-80s
+1980s
 alternative
 new wave
 post-punk
@@ -25,9 +22,9 @@ handclaps
 tambourine
 alternative
 new wave
-80s
+1980s
 british
 mellow
-80s
+1980s
 alternative
 post-punk

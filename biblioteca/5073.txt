@@ -3,9 +3,7 @@ ambient
 electronic
 psychedelic
 psytrance
-epic
 electronic
-electronica
 goa
 psychedelic
 psytrance
@@ -32,7 +30,5 @@ goa
 psychedelic
 psytrance
 rave
-brilliant
 electronic
-electronica
 trance

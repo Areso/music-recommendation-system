@@ -1,15 +1,13 @@
 rain
-50s
+1950s
 oldies
-60s
+1960s
 jazz
 pop
 oldies
-best songs of the 50s
-best songs of the 60s
-50s
-rock and roll
-50s
-60s
+1950s
+rock'n'roll
+1950s
+1960s
 jazz
 oldies

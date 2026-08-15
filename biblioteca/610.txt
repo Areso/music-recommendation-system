@@ -43,11 +43,11 @@ instrumental
 jazz
 jazz fusion
 1970s
-80s
+1980s
 american
 avant-garde
 blues
-chillout
+chill out
 instrumental
 jazz
 psychedelic
@@ -57,7 +57,6 @@ usa
 bebop
 cool jazz
 experimental
-favorite artist
 jazz
 jazz fusion
 top100

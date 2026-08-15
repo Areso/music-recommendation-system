@@ -8,7 +8,6 @@ ambient
 electronic
 psychedelic
 ambient
-love at first listen
 dark
 dark ambient
 dream
@@ -27,21 +26,19 @@ psychedelic
 psychill
 psytrance
 ambient
-chillout
+chill out
 rave
 ambient
-chillout
+chill out
 electronic
-electronica
 psychedelic
 psychill
 psytrance
 electronic
 psychill
-chillout
+chill out
 electronic
-electronica
 launge
 light trip-hop
-trip-hop
+trip hop
 vfsix

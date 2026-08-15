@@ -31,8 +31,6 @@ metalcore
 hard rock
 hardcore
 metal
-a7x
-avenged sevenfold
 country
 hard rock
 hardcore
@@ -54,9 +52,8 @@ hardcore
 metal
 rock
 metal
-seen live
 hardcore
-screamo
+scream
 rock
 hard rock
 hardcore
@@ -71,13 +68,11 @@ metalcore
 rock
 hard rock
 metal
-a7x
 hard rock
 metalcore
 emocore
 hard rock
 metalcore
-fav song
 hard rock
 metalcore
 metal
@@ -97,11 +92,9 @@ hard rock
 metalcore
 alternative metal
 american
-awesome
 hard rock
 hardcore
 heavy metal
-love
 melodic hardcore
 metal
 metalcore
@@ -109,12 +102,9 @@ not emo
 punk
 soft rock
 metalcore
-a7x
-avenged sevenfold
 hardcore
-i love when i listen a7x
 metalcore
-screamo
+scream
 metal
 metalcore
 ae
@@ -122,19 +112,12 @@ metalcore
 hardcore
 metal
 metalcore
-seen live
 hard rock
-a7x
-amazing
-a7x
 alternative
-lemme tell you bout a girl i know
 metalcore
 rock
-screamo
+scream
 unique
-favorite
-favorite song
 metalcore
 phoda
 metalcore

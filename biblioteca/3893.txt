@@ -1,7 +1,6 @@
 alternative
 gothic
 4ad
-this mortal coil
 alternative
 ambient
 eldad
@@ -11,6 +10,6 @@ ambient
 gothic
 ethereal
 gothic
+1980s
 4ad
-80s
 gothic

@@ -2,4 +2,3 @@ cover
 indie
 sxsw2006
 electronic
-electronica

@@ -1,4 +1,4 @@
-chillout
+chill out
 ethnic
 folk
 jazz
@@ -8,4 +8,3 @@ cuba
 world
 arkadi
 latin
-i love my dad taste

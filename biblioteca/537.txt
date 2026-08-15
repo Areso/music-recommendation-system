@@ -1,22 +1,21 @@
 emo
 rock
-screamo
+scream
 rock
 alternative
 rock
-screamo
+scream
 2000s
 2002
 american
 punk
 rock
-screamo
+scream
 emocore
 emo
-screamo
+scream
 alternative
 hardcore
-favorite
 alternative
 rock
 alternative
@@ -24,12 +23,11 @@ alternative rock
 emo
 emo
 punk
-screamo
+scream
 emo
-screamo
+scream
 alternative rock
-pants on fire
-screamo
+scream
 alternative
 punk
 rock
@@ -41,16 +39,16 @@ post-hardcore
 good bands
 alternative
 emo
-screamo
+scream
 alternative
 alternative rock
 punk
 rock
 soundtrack
-screamo
+scream
 emo
 post-hardcore
-screamo
+scream
 not emo
 post-hardcore
 alternative rock
@@ -58,20 +56,16 @@ punk
 singalong
 remember him
 alternative
-best bands
 emo
-fantastic
 indie
 post-hardcore
 rock
 rox
-screamo
+scream
 rock
-best bands
-male vocals
+male vocalist
 rock
-screamo
-love it
+scream
 emo
 punk
 rock
@@ -80,4 +74,4 @@ rock
 alternative
 punk
 rock
-screamo
+scream

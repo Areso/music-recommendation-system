@@ -1,5 +1,4 @@
 blues
-favorite
 alternative
 colors
 blues

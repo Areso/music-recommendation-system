@@ -8,5 +8,4 @@ halloween
 cover
 rockabilly
 spaghetti western
-0 play yet
 tanguy

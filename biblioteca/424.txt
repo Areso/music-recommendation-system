@@ -10,25 +10,20 @@ rock'n'roll
 alternative
 alternative rock
 american
-awesome
-favorite
 garage rock
 indie
 indie rock
-love
 new wave
 new york
 post-punk
 punk
 rock
 rock band
-the strokes
 alternative
 alternative rock
 indie rock
 alternative
 alternative rock
-beautiful
 electronic
 indie
 indie rock
@@ -50,13 +45,12 @@ alternative
 indie
 indie rock
 rock
-the strokes
 alternative
 alternative rock
 indie
 indie rock
 classic rock
-rock and roll
+rock'n'roll
 straight up modern rock
 indie
 alternative rock
@@ -94,16 +88,12 @@ rock
 alternative
 indie
 rock
-favorite
 indie rock
 dance
 rock
 rock
 indie rock
-strokes rule my life
-the srokes
 alternative
-kih
 indie
 alternative
 alternative rock
@@ -111,18 +101,17 @@ hard rock
 indie
 pop rock
 rock
-indierock
+indie rock
 songs to feel happy to
 2000s
 alternative
 alternative rock
-awesome
-britpop
+brit pop
 indie
 indie rock
 post-punk
 post-punk revival
-rock n roll
+rock'n'roll
 soundtrack
 demo
 rock
@@ -140,13 +129,10 @@ rock
 garage rock
 indie
 rock
-i fucking love this song
 indie
-the strokes
 alternative
 indie
 rock
-seen live
 garage rock
 post-punk
 indie
@@ -167,11 +153,8 @@ indie rock
 rock
 rock
 <3
-want to see live
 rock
 time
-amazing
-beautiful
 happy
 1990s
 2000s

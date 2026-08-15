@@ -3,7 +3,7 @@ ebm
 remix
 ebm
 electronic
-synthpop
+synth-pop
 ebm
 electronic
 industrial

@@ -6,7 +6,6 @@ funny
 alternative rock
 rock
 rock
-favorite
 hard rock
 rock
 1008
@@ -16,7 +15,6 @@ rock
 alternative
 comedy
 rock
-jack black
 lastfm
 acoustic
 alternative
@@ -25,7 +23,6 @@ hard rock
 metal
 rock
 soundtrack
-seen live
 comedy
 hard rock
 metal
@@ -39,7 +36,6 @@ hard rock
 rock
 classical
 hard rock
-jack black
 alternative rock
 comedy
 hard rock

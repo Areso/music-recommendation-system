@@ -1,5 +1,5 @@
+brit pop
 british
-britpop
 mod
 rock
 singer-songwriter
@@ -10,7 +10,6 @@ indie
 male vocalist
 mod
 rock
-seen live
 singer-songwriter
 summer
 rock
@@ -18,7 +17,7 @@ cover
 indie rock
 singer-songwriter
 1995
-80s
+1980s
 england
 post-punk
 uk

@@ -14,7 +14,6 @@ thrash metal
 metalcore
 groove metal
 metalcore
-neo-thrash
 groove metal
 hardcore
 metal
@@ -26,5 +25,4 @@ speed metal
 death metal
 groove metal
 metalcore
-seen live
 death metal

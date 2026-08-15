@@ -2,17 +2,13 @@ house
 dance
 electronic
 dance
-seen live
 club
 dance
-electro
 electronic
 house
-sexy
 trance
 dance
 electronic
-sexy
 house
 dance
 electronic
@@ -30,7 +26,6 @@ female vocalist
 kelly rowland
 madonna
 pop
-sexy
 top 40
 uk
 club
@@ -45,7 +40,7 @@ techno
 trance
 dance
 electronic
-electronica
+electronic
 dance
 electronic
 house
@@ -53,10 +48,8 @@ addictive
 catchy
 duet
 electronic
-fun
 guetta
 let's dance
-love at first listen
 summer time
 dance
 electronic
@@ -86,7 +79,6 @@ house
 dance
 english
 female
-sexy
 dance
 dance
 male vocalist
@@ -97,14 +89,11 @@ dance
 female vocalist
 pop
 party
-best song ever
 club
 dance
 electronic
 house
 techno
-amazing
-favorite song
 male vocalist
 2000s
 2007
@@ -116,4 +105,4 @@ house
 house
 dance
 indie
-rnb
+r'n'b

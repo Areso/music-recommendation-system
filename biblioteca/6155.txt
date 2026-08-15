@@ -6,7 +6,6 @@ drone
 drone
 ambient
 approfondire
-beautiful
 slowcore
 ambient
 experimental

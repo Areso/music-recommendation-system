@@ -1,15 +1,14 @@
 ambient
-chillout
+chill out
 ambient
-chillout
+chill out
 ambient
 dark
 electronic
-electronica
 minimal
 techno
 ambient
-electronica
+electronic
 downtempo
 ambient
 electronic
@@ -17,16 +16,16 @@ song with samples
 ambient
 ambient
 ambient
-chillout
+chill out
 electronic
 ambient
-electronica
+electronic
 norway
 icelandic
 ambient
 electronic
 todaysart
 ambient
-chillout
+chill out
 electronic
 experimental

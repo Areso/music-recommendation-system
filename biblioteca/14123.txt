@@ -1,15 +1,11 @@
 acoustic
 acoustic blues
-acustic
-alchemic rock
 avant-garde
-awesome guitar jams
 bard
 bard rock
 bardic
 blues
 blues guitar
-blues guitarists
 blues rock
 blues rock guitarist
 classic rock
@@ -33,18 +29,14 @@ jazz
 loved by archer
 lyrical acoustic folk
 menestrel
-minstrel
 proto-punk
 psychedelic
 psychedelic rock
 punk
 rock
-rock n roll
-rolesong
-rpg music
+rock'n'roll
 russian
 russian rock
-russian underground
 singer-songwriter
 underground
 wizard rock

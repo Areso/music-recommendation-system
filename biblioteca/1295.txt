@@ -2,8 +2,6 @@ ebm
 british
 ebm
 futurepop anthem
-seen live
-favorite song
 industrial
 ebm
 industrial
@@ -15,12 +13,10 @@ industrial
 electronic
 futurepop
 industrial
-seen live
 ebm
 electronic
 futurepop
 industrial
-sexy song
 cover
 futurepop
 remix
@@ -31,7 +27,7 @@ futurepop
 electronic
 futurepop
 ebm
-darkwave
+dark wave
 electronic
 ethereal
 futurepop
@@ -40,20 +36,18 @@ industrial
 trance
 futurepop
 industrial
-synthpop
+synth-pop
 ebm
 futurepop
-synthpop
+synth-pop
 ebm
 industrial
-darkwave
+dark wave
 ebm
 electronic
-electronica
 futurepop
 industrial
-seen live
-synthpop
+synth-pop
 ebm
 industrial
 ebm

@@ -2,23 +2,19 @@ rock
 american
 classic rock
 energy
-legend
-love it
-perfect
 rock
-sexy
 classic rock
 california
 rain
 classic rock
-60s
+1960s
 classic rock
 rock
-60s
+1960s
 classic rock
 psychedelic
 rock
-60s
+1960s
 classic rock
 psychedelic
 album rock
@@ -30,8 +26,8 @@ classic rock
 classic rock
 rock
 rock
+1960s
 1970s
-60s
 blues
 california
 classic rock
@@ -52,37 +48,37 @@ blues rock
 classic rock
 poetic
 psychedelic
-60s
+1960s
 classic rock
 rock
 us rock
 psychedelic
 psychedelic rock
 rock
-60s
+1960s
 classic rock
 feelgood
 psychedelic
 sex rock
 space rock
-60s
+1960s
 psychedelic
 psychedelic rock
 psychedelic rock
 grunge
 classic rock
 rock
-60s
+1960s
 classic rock
 1008
-60s
+1960s
 classic rock
-60s
+1960s
 classic rock
-60s
+1960s
 rock
+1960s
 1970s
-60s
 alternative
 blues
 classic rock
@@ -113,7 +109,7 @@ rock
 guitar solo
 live
 classic rock
-60s
+1960s
 american
 psychedelic
 psychedelic rock
@@ -121,16 +117,15 @@ rock
 psychedelic
 classic rock
 psychedelic
-best songs in the world
-60s
+1960s
 rock
 psychedelic
 progressive rock
-rock n roll
+rock'n'roll
 classic rock
 psychedelic rock
+1960s
 1970s
-60s
 american
 classic rock
 oldies
@@ -138,8 +133,7 @@ psychedelic rock
 classic rock
 1970s
 psychedelic rock
-i love my dad taste
-60s
+1960s
 classic rock
 psychedelic
 psychedelic rock
@@ -153,12 +147,10 @@ rock
 psychedelic
 classic rock
 rock
-60s
+1960s
 blues rock
 classic
 classic rock
-cool
-favorite
 fucking awesome
 jim morrison
 ohmydamn
@@ -168,7 +160,7 @@ rock
 the doors
 psychedelic
 psychedelic rock
-60s
+1960s
 blues
 blues rock
 psychedelic
@@ -185,22 +177,21 @@ progressive rock
 psychedelic
 psychedelic rock
 psychedelic rock
-60s
+1960s
 psychedelic rock
 blues
 rock
 classic rock
-60s
+1960s
 classic rock
 psychedelic rock
 rock
-60s
+1960s
 california
 rock
 classic rock
-epic
 <3
 classic rock
-60s
+1960s
 psychedelic
 usa

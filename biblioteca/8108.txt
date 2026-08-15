@@ -14,5 +14,4 @@ fusion
 guitar
 jam band
 jazz
-modern blues
 blues

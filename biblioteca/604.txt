@@ -8,14 +8,11 @@ singer-songwriter
 indie
 norwegian
 acoustic
-chillout
+chill out
 indie
 lounge
 indie folk
-kings of convenience
-love it
 special
-favorite
 buy this
 coffeeshop
 piano
@@ -27,28 +24,23 @@ indie
 indie
 norwegian
 indie
-chillout
+chill out
 norwegian
-seen live
 acoustic
-chillout
+chill out
 jukebox project
 acoustic
 indie
 indie pop
 norwegian
-indie indie pop acoustic mellow norwegian alternative indie rock folk scandinavian
 acoustic
 ambient
-beautiful
-chillout
+chill out
 folk
 indie rock
-lovely
 mellow
 piano
 relax
-relaxing
 rock
 singer-songwriter
 alternative
@@ -57,9 +49,7 @@ blissrock
 experimental
 indie
 <3
-i love it
 omg
 sugary
-sweet
 talented
 acoustic

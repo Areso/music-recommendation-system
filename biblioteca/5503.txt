@@ -4,23 +4,22 @@ idm
 songs for gil
 electronic
 ambient
-chillout
+chill out
 ambient
 chill
-chillout
+chill out
 downtempo
 dub
 electronic
-electronica
 experimental
 idm
 relax
 techno
-trip-hop
+trip hop
 ambient
 downtempo
 ambient
-chillout
+chill out
 electronic
 house
 1992
@@ -36,20 +35,18 @@ ambient
 dub
 1990s
 ambient
-electronica
+electronic
 england
 uk
 ambient
-chillout
+chill out
 dreampop
-electronica
+electronic
 experimental
 idm
 ambient
-electronica
-chillout
 electronic
-electronica
+chill out
 electronic
-seen live
+electronic
 todaysart

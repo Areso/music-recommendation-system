@@ -1,7 +1,6 @@
 alternative
 alternative rock
 bass
-cool
 guitar
 hardcore
 independent
@@ -10,4 +9,4 @@ metal
 new media
 progressive rock
 rock
-screamo
+scream

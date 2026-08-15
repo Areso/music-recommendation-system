@@ -1,6 +1,6 @@
 rain
+1960s
 1970s
-60s
 soul
 soul
 soul
@@ -9,14 +9,14 @@ soul
 funk
 motown
 oldies
-rnb
+r'n'b
 soul
 soul
 1970s
 american
 funk
 oldies
-rnb
+r'n'b
 soul
 1965
 oldies
@@ -25,11 +25,10 @@ soul
 choreographed dance moves
 finger snapping
 handclaps
-marimba
 tambourine
-60s
+1960s
 rhythm and blues
 soul
-60s
-60s
+1960s
+1960s
 motown

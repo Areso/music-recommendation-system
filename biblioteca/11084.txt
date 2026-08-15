@@ -4,13 +4,12 @@ metal
 new wave
 psychedelic
 spanish
-synth pop
+synth-pop
 electronic
 1990s
 latin
 pop
 electronic
-electronica
 erotic
 romantic
 spanish
@@ -19,5 +18,5 @@ hecho en mexico
 latin pop
 mexican
 spanish
-synth pop
+synth-pop
 mexican pop

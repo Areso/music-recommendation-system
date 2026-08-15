@@ -1,6 +1,4 @@
 british artists
-fav artists
-fav song
 ogonj
 oni pout
 po-kraftwerkski
@@ -8,7 +6,6 @@ electronic
 experimental rock
 industrial
 post-punk
-favorite
 industrial
 ebm
 electronic
@@ -17,8 +14,6 @@ industrial
 electronic
 industrial
 industrial
-cabaret voltaire
-my favorite
 new wave
 british
 english
@@ -30,7 +25,7 @@ factory records
 sheffield
 psychosis
 avant-garde
-electronica
+electronic
 england
 experimental
 uk

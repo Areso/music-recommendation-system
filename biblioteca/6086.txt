@@ -5,7 +5,6 @@ dance
 trance
 electronic
 dance
-favorite
 trance
 dance
 danish
@@ -13,6 +12,6 @@ electronic
 techno
 trance
 dance
-electronica
+electronic
 rave
 trance

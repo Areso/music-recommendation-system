@@ -2,7 +2,7 @@ college rock
 pub rock
 punk
 1970s
-80s
+1980s
 british
 new wave
 new wave
@@ -12,19 +12,17 @@ singer-songwriter
 mod
 alternative
 new wave
-80s
+1980s
 british
 cover
 demo
 downbeat
-fave
 live
 liverpool
 indie rock
 singer-songwriter
-best songs of the 70s
 1970s
-80s
+1980s
 alternative rock
 new wave
 singer-songwriter

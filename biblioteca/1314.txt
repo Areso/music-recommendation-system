@@ -10,4 +10,4 @@ futurepop
 industrial
 ebm
 industrial
-synthpop
+synth-pop

@@ -4,8 +4,7 @@ rain
 trance
 album rock
 college rock
-new discovery
-80s
+1980s
 alternative
 british
 classic rock
@@ -15,7 +14,7 @@ progressive rock
 progressive rock
 rock
 1970s
-80s
+1980s
 classic rock
 progressive rock
 progressive rock
@@ -33,8 +32,6 @@ rock
 ambient
 male vocalist
 cover
-listen to
-song
 bad day
 bobbi
 dick
@@ -48,17 +45,15 @@ tony
 late night tunes
 inspirational
 uplifting
+1980s
 1990s
-80s
 british
 rock
 uk
 pop
-progressive pop
 progressive rock
-80s
+1980s
 acoustic
-favorite song
 mellow
 new wave
 pop

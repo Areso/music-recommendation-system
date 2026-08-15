@@ -7,7 +7,7 @@ dance
 electronic
 trance
 dance
-electronica
+electronic
 house
 progressive trance
 techno
@@ -37,7 +37,7 @@ techno
 jessica sutta
 electronic
 dance
-electronica
+electronic
 progressive house
 progressive trance
 rave

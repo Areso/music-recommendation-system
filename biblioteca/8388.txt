@@ -1,24 +1,20 @@
 1980s
 1990s
 2000s
-80s
 alternative
 alternative rock
 ambient
-avantgarde
+avant-garde
+brit pop
 british
-britpop
 dance
-darkwave
+dark wave
 depeche mode
 disco
-electro
 electro-industrial
 electronic
 england
 experimental
-goth
-goth rock
 gothic
 gothic rock
 indie
@@ -28,9 +24,7 @@ new wave
 post-punk
 singer-songwriter
 synth
-synth pop
-synthpop
+synth-pop
 techno
 uk
 viking quest
-we love the 80s

@@ -1,4 +1,3 @@
 country
-favorite
 soundtrack
 walk the line soundtrack

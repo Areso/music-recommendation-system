@@ -1,4 +1,2 @@
 electronic
-electronica
-synth pop
-synthpop
+synth-pop

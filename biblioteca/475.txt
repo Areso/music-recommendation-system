@@ -8,7 +8,6 @@ hip-hop
 rap
 rap
 eminem
-favorite
 hip-hop
 rap
 hip-hop
@@ -24,10 +23,8 @@ singer-songwriter
 hip-hop
 rap
 hip-hop
-love
 male vocalist
 rap
-sexy
 soundtrack
 eminem
 hip-hop
@@ -35,9 +32,7 @@ rap
 eminem
 hip-hop
 hot
-legend
 male vocalist
-masterpiece
 rap
 slim shady
 rap
@@ -46,24 +41,18 @@ rap
 detroit
 hip-hop
 rap
-beautiful
-passion
 assertive
-awesome
 banger
 beast
 catchy
 classic
-cool
 crazy
 dope
 dope cut
-favorite
 fiya
 freestyle
 g-unit
 good shit
-great lyricists
 hard
 hilarious
 humor
@@ -86,64 +75,43 @@ hip-hop
 rap
 hip-hop
 50 cent
-cashis
 eminem
-lloyd banks
 rock
 catchy
 duet
 hip-hop
-love
-love at first listen
 urban
 american idol
-awesome
 brazilian
 hip-hop
 pop
+r'n'b
 rap
 remix
-rnb
 singer-songwriter
 under 2000 listeners
 hip-hop
 rap
 1990s
-aftermath
 american
-d12
 detroit
-detroit rap
 em
 eminem
 funny
 hip-hop
-marshall mathers
-mathers
 rap
-recovery
-sexy
 shady
-shady records
 slim shady
-weezy
-hiphop
-seen live
+hip-hop
 american
 hip-hop
-hiphop
 rap
 eminem
 hip-hop
 rap
 hip-hop
 rap
-best rapper
-devil
 eminem
-legend
-lovable
-most hated
 superman
 hip-hop
 pop
@@ -159,25 +127,21 @@ hip-hop
 rap
 soundtrack
 rap
-beautiful
 hip-hop
 hip-hop
 rap
 english
 female
 male
-sexy
 better than kmad
 hip-hop
 rap
 hip-hop
-love
 rap
-rnb
+r'n'b
 lpa
 cult movie songs
 duet
-legend
 oscar winning songs
 hip-hop
 hip-hop
@@ -191,14 +155,11 @@ american
 hip-hop
 pop
 rap
-best rapper alive
 hip-hop
 rap
 eminem
 hip-hop
 rap
-rapper
-la lluvia xd
 hip-hop
 rap
 soundtrack
@@ -214,14 +175,12 @@ hip-hop
 dr. dre
 em
 eminem
-favorite
 gangsta rap
 hip-hop
 legal drug
 mr mathers
+r'n'b
 rap
-rnb
-sexy
 shady
 slim shady
 hip-hop
@@ -239,7 +198,6 @@ hip-hop
 pop
 rap
 2010s
-amazing
 hip-hop
 rap
 rap

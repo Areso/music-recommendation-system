@@ -4,7 +4,6 @@ sufi
 turkce
 turkish
 coran
-holy quran
 quran
 rahmanin bulbulleri
 malaysia idol

@@ -1,4 +1,4 @@
-jpop
+j-pop
 anime
 female vocalist
 japanese
@@ -7,4 +7,3 @@ japan
 anime
 j-pop
 japanese
-jpop

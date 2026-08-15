@@ -2,7 +2,6 @@ alternative
 nu metal
 rapcore
 ballad
-love it
 melancholic
 rock ballad
 nu metal
@@ -22,7 +21,6 @@ metal
 acoustic
 ballad
 cover
-favorite
 metal
 nu metal
 sad
@@ -62,8 +60,6 @@ rock
 1990s
 2000s
 american
-favorite
-limp bizkit
 live
 metal
 nu metal
@@ -73,5 +69,4 @@ alternative rock
 metal
 nu metal
 rock
-seen live
 nu metal

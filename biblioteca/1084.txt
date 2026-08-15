@@ -1,30 +1,27 @@
 electronic
-electronica
 new wave
+synth-pop
 synth wave
-synthpop
 electronic
-synthpop
+synth-pop
 club
 dance
 depeche mode
 ebm
-electro
-electropop
+electronic
+electronic-pop
 industrial
 information society
-synthpop
+synth-pop
 dance
 alternative
 dance
 danceable
-darkwave
+dark wave
 depeche mode
 ebm
-electro
 electro-industrial
 electronic
-electronica
 futurepop
 industrial
 information society
@@ -32,5 +29,4 @@ male vocalist
 new wave
 provision
 synth
-synth pop
-synthpop
+synth-pop

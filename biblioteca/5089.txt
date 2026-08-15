@@ -1,16 +1,14 @@
-jpop
+j-pop
 female
 j-pop
 japanese
 vocalist
 female vocalist
 japanese
-japanese pop
-fun
+j-pop
 j-pop
 romantic
 j-pop
-ai otsuka
 asian
 asian pop
 cute
@@ -21,8 +19,5 @@ j-pop
 japan
 japanese
 japanese music
-japanese pop
-jpop
-jpop favorites
 pop
 summer

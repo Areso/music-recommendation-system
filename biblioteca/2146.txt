@@ -1,4 +1,4 @@
-electronica
+electronic
 experimental
 idm
 ambient
@@ -6,13 +6,10 @@ experimental
 idm
 atmospheric
 electronic
-electronica
-epic
 psybient
 trance
-chillout
+chill out
 electronic
-electronica
 idm
 minimal
 wonderful through headphones
@@ -23,8 +20,6 @@ braindance
 tron
 ambient
 electronic
-electronica
 experimental
 experimental
-favorite artist
 idm

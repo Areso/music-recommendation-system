@@ -6,7 +6,6 @@ experimental
 ambient
 electronic
 experimental
-favorite
 glitch
 idm
 industrial

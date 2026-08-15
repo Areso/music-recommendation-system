@@ -9,7 +9,6 @@ post-rock
 instrumental
 post-metal
 post-rock
-dat bass
 experimental
 instrumental
 post-rock
@@ -18,6 +17,5 @@ ambient
 experimental
 instrumental
 post-rock
-postrock
 progressive
 progressive rock

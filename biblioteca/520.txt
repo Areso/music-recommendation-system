@@ -1,10 +1,8 @@
 dance
 electronic
-electronica
 hypnotic
 dance
 electronic
-electronica
 trance
 electronic
 beat
@@ -12,17 +10,16 @@ scifi
 1990s
 ambient
 british
-chillout
+chill out
 dance
 downtempo
-electronica
+electronic
 idm
 instrumental
 pop
-trip-hop
+trip hop
 techno
 big beat
 electronic
-electronica
 hard dance
 techno

@@ -1,14 +1,14 @@
 rain
-60s
+1960s
 classic rock
-60s
+1960s
 british
 british invasion
 classic rock
 easy listening
 oldies
 soft rock
-60s
+1960s
 british
 pop
 60s pop
@@ -18,18 +18,18 @@ rock
 manchester
 oldies
 psychedelic
-rock n roll
+rock'n'roll
 1963
 1964
 1965
 1966
 1967
 1969
-60s
+1960s
 classic rock
 oldies
 1970s
-60s
+1960s
 classic rock
 british invasion
 classic rock

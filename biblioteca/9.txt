@@ -10,7 +10,6 @@ techno
 terrorbanana
 war
 industrial
-seen live
 industrial
 dark electro
 ebm
@@ -18,8 +17,6 @@ industrial
 ebm
 electronic
 industrial
-seen live
-ultimate favorite
 industrial
 ebm
 electro-industrial
@@ -30,7 +27,7 @@ prejebeno
 industrial
 ebm
 ebm
-electro
+electronic
 industrial
 dark electro
 ebm

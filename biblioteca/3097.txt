@@ -2,7 +2,6 @@ miserable
 rain
 alternative
 alternative
-favorite
 pop
 pop rock
 rock

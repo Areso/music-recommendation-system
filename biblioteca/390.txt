@@ -2,7 +2,6 @@ j-rock
 j-pop
 japanese
 visual kei
-favorite
 ballad
 strings
 j-rock

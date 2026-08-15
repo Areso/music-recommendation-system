@@ -5,10 +5,8 @@ beat
 dancefloor
 deep
 dope
-electro
 electrofunk
 electronic
-electronica
 euphoric
 funk
 live
@@ -17,7 +15,6 @@ mix
 mutek
 performance
 rhythm
-seen live
 soul
 techno
 underground

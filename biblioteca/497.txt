@@ -1,7 +1,7 @@
 alternative
 alternative rock
 nu metal
-hardrock
+hard rock
 alternative
 alternative
 nu metal
@@ -45,7 +45,6 @@ rock
 guerilla
 alternative
 alternative rock
-awesome
 nu metal
 rock
 metal
@@ -61,7 +60,6 @@ rock
 alternative
 alternative
 nu metal
-seen live
 emo
 rapcore
 rock
@@ -73,7 +71,6 @@ nu metal
 <3
 2000s
 nu metal
-seen live
 nu metal
 nu metal
 rock

@@ -1,13 +1,11 @@
-christmas blend
-guilty pleasure
+christmas
 rain
 female vocalist
-female vocals
 folk
 singer-songwriter
 folk
 singer-songwriter
-60s
+1960s
 acoustic
 female vocalist
 folk
@@ -15,9 +13,9 @@ singer-songwriter
 female vocalist
 folk
 singer-songwriter
+1960s
 1970s
-60s
-80s
+1980s
 female vocalist
 folk
 singer-songwriter
@@ -25,11 +23,8 @@ canadian
 female vocalist
 folk
 all the best
-best songs of the 70s
 christmas
 female artists
-legend
-songs to listen to
 folk
 canadian
 classic rock
@@ -42,4 +37,3 @@ canadian
 canadian
 brooke fraser
 folk
-joni mitchell

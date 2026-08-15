@@ -5,5 +5,4 @@ relax
 spacy downtempo
 trance
 vocal trance
-ikebana
 ambient

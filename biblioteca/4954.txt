@@ -1,4 +1,1 @@
-animal grindcore
 grindcore
-zoocore
-dogcore

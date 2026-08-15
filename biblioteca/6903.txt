@@ -3,13 +3,11 @@ hip-hop
 rap
 dope
 dope cut
-favorite
 good shit
 hip-hop
 humor
 ill
 neat
-nice
 phat
 poignant
 real talk
@@ -21,5 +19,5 @@ hip-hop
 rap
 jams
 hip-hop
-hiphop
+hip-hop
 real hip-hop

@@ -1,6 +1,6 @@
 futurepop
 futurepop
-synthpop
+synth-pop
 electronic
 futurepop
 ebm
@@ -8,8 +8,8 @@ ebm
 electronic
 futurepop
 industrial
-synthpop
+synth-pop
 ebm
 industrial
 ebm
-synthpop
+synth-pop

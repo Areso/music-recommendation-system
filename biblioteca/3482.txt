@@ -18,7 +18,6 @@ classic rock
 folk
 pop
 rock
-seen live
 american
 classic rock
 rock
@@ -33,5 +32,4 @@ veronica mars
 folk
 rock
 soft rock
-favorite band
 1970s

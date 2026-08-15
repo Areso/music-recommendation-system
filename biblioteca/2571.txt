@@ -1,10 +1,9 @@
-80s
+1980s
 dance
 disco
 female vocalist
 pop
 summer
-popfun
 new wave
 dance-pop
 disco
@@ -14,13 +13,13 @@ british
 disco
 new wave
 singer-songwriter
-synthpop
+synth-pop
 1981
 british
 english
-80s
+1980s
 female vocalist
-80s
+1980s
 dance
 female vocalist
 new wave
@@ -32,16 +31,15 @@ boys names
 cover
 atmospheric
 dance
-80s
+1980s
 pop
 female vocalist
-80s
-80s i like
-80s
+1980s
+1980s
 dance
 female vocalist
 pop
-80s
+1980s
 british
 female vocalist
 girl group

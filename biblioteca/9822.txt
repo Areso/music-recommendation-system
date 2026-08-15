@@ -1,12 +1,12 @@
-80s
+1980s
 classic rock
 hard rock
 rock
 hair metal
-80s
+1980s
 classic rock
 rock
-80s
+1980s
 hair metal
 hard rock
 rock
@@ -23,6 +23,6 @@ hard
 hard rock
 hard rock
 love song
-80s
+1980s
 hair metal
 american

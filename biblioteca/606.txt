@@ -10,17 +10,14 @@ indie
 acoustic
 downtempo
 folk
-love it
 swedish
 indie
 acoustic
 folk
-seen live
 singer-songwriter
 acoustic
 folk
 indie
-seen live
 singer-songwriter
 swedish
 acoustic
@@ -31,7 +28,7 @@ pop
 the vampire diaries
 acoustic
 ambient
-chillout
+chill out
 downtempo
 folk
 indie folk
@@ -43,9 +40,7 @@ mellow
 singer-songwriter
 acoustic
 alsolike
-favorite
 folk
 indie
 singer-songwriter
 swedish
-check out later

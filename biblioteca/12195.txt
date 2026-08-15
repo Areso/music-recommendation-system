@@ -1,12 +1,10 @@
 acid jazz
-brasil
 brazil
 brazilian
-chillout
+chill out
 deep house
 downtempo
 electronic
-electronica
 female vocalist
 funk
 jazz
@@ -15,4 +13,3 @@ samba
 soul
 cover
 cover
-fave

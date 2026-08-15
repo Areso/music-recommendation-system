@@ -12,8 +12,8 @@ noise
 noise pop
 noise rock
 usa
+1980s
 1990s
-80s
 alternative
 post-hardcore
 alternative
@@ -23,5 +23,3 @@ experimental
 indie rock
 noise pop
 space rock
-awesome-ness
-the songs that make me sick with butterflies

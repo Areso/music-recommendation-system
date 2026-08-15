@@ -1,5 +1,5 @@
 ambient
-drum and bass
+d'n'b
 experimental
 idm
 ambient
@@ -13,43 +13,41 @@ idm
 ambient
 experimental
 ambient
-electronica
+electronic
 experimental
 idm
 ambient
 ambient
 ambient
-electronica
+electronic
 experimental
 idm
 ambient
 electronic
 idm
-ultimate favorite
 braindance
 noise
 trippy
 ambient
-electronica
+electronic
 ambient
 electronic
 idm
 ambient
-drum and bass
-electro
+d'n'b
+electronic
 experimental
 idm
 mellow
 techno
 electronic
-electronica
+electronic
 electronic
 experimental
 idm
 warp
 ambient
 electronic
-electronica
 experimental
 idm
 aana
@@ -58,13 +56,10 @@ acid
 downtempo
 soundtrack
 ambient
-chillout
+chill out
 downtempo
-electro
 electroclash
 electronic
-electronica
-favorite
 headphones
 idm
 minimal
@@ -82,7 +77,7 @@ remix
 song with samples
 albentcore
 ambient
-electronica
+electronic
 acid
 electronic
 atmospheric
@@ -95,19 +90,17 @@ techno
 braindance
 drone
 tron
-chillout
+chill out
 electronic
-electronica
 idm
 minimal
 ambient
 electronic
-favorite artist
 idm
 sleeptronica
 1990s
 ambient
-electronica
+electronic
 england
 uk
 british
@@ -116,6 +109,5 @@ ambient
 electronic
 ambient
 electronic
-electronica
 experimental
 uk

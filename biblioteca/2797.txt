@@ -1,20 +1,20 @@
 1990s
 rock
 hard rock
-80s
+1980s
 hair metal
 hard rock
 rock
-80s
+1980s
 classic rock
 rock
+1980s
 1991
 1993
-80s
 glam metal
 hair metal
 hard rock
-80s
+1980s
 classic rock
 hard rock
 american
@@ -22,7 +22,7 @@ hard rock
 classic rock
 hard rock
 pop
-80s
+1980s
 classic rock
 hard rock
 rock

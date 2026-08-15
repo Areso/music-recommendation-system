@@ -3,5 +3,5 @@ experimental
 metalcore
 post-hardcore
 progressive metal
-screamo
+scream
 post-hardcore

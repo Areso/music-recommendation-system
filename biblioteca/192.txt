@@ -1,11 +1,9 @@
 pop
-legend
 classic rock
 dance
 pop rock
 rock
-legend
-christmas blend
+christmas
 duet
 2000s
 4/4
@@ -17,7 +15,7 @@ singer-songwriter
 classic rock
 pop
 singer-songwriter
-80s
+1980s
 christmas
 love song
 mellow
@@ -29,9 +27,7 @@ adult contemporary
 album rock
 soft rock
 ballad
-beautiful
 classic rock
-love
 piano
 pop
 singer-songwriter
@@ -50,7 +46,7 @@ classic rock
 british
 glam rock
 singer-songwriter
-80s
+1980s
 charmed
 classic rock
 emo
@@ -58,12 +54,11 @@ pop
 rock
 christmas
 cover
-long track
 classic rock
 piano rock
 pop
 1970s
-60s
+1960s
 pop
 rock
 matell
@@ -75,9 +70,8 @@ classic rock
 piano
 hidden gem
 loved at first listen
-masterpiece
 personal
-powerfull
+powerful
 terribly beautiful
 pop
 english
@@ -88,9 +82,9 @@ british
 english
 male vocalist
 1970s
+1980s
 1990s
 2000s
-80s
 classic rock
 pop
 rock
@@ -102,12 +96,10 @@ rock
 singer-songwriter
 1970
 the beatles
-best christmas songs
 duet
 oscar winning songs
-favorite song
+1980s
 1990s
-80s
 british
 rock
 singer-songwriter
@@ -122,9 +114,8 @@ listened more than 10 times in a row
 old time rock n roll
 title is a full sentence
 1970s
+1980s
 1990s
-80s
 pop
 classic rock
-epic
 1970s

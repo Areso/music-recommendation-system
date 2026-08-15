@@ -1,13 +1,13 @@
 ambient
-chillout
+chill out
 ethereal
 melancholy
 new age
-relaxing
+relax
 ambient
-chillout
+chill out
 ambient
-chillout
+chill out
 ambient
 ambient
 ambient
@@ -28,11 +28,11 @@ ambient
 new age
 ambient
 celtic
-chillout
+chill out
 new age
 ambient
 celtic
-chillout
+chill out
 new age
 classical
 new age

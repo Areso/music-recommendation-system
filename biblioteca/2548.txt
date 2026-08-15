@@ -2,7 +2,6 @@ female vocalist
 pop
 2000s
 all time hit
-brasil
 brazil
 brazilian
 catchy
@@ -19,62 +18,52 @@ sing along
 club
 dance
 diva
-electro pop
-electropop
-electrropop
+electronic-pop
 female vocalist
 female vocals
 house
-love at first listen
-music
 pop
 pop music
 remix
 singer-songwriter
-wanessa camargo
 wanessa
 club
 dance
 diva
-electro pop
+electronic-pop
 female vocalist
 female vocals
 house
 pop
 pop music
 american idol
-brasil
+brazil
 brazilian
 dance
 female vocalist
 pop
+r'n'b
 remix
-rnb
 singer-songwriter
 under 2000 listeners
 wanessa
 club
 dance
-electro pop
+electronic-pop
 female vocalist
 female vocals
 house
 pop
 pop music
-rnb
-amazing
+r'n'b
 american
-beautiful
-best
 bitch
 dance
 diva
-electro pop
+electronic-pop
 female vocalist
 female vocals
-guilty pleasure
 pop
-sexy
 brazilian
 brazilian music
 female vocalist
@@ -83,7 +72,7 @@ dance
 female vocalist
 pop
 dance
-eletro pop
+electronic-pop
 female vocalist
 pop
 gothic

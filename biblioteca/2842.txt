@@ -1,7 +1,7 @@
 blues
 blues
 1970s
-80s
+1980s
 blues
 american
 blues
@@ -24,7 +24,6 @@ guitar
 guitar virtuoso
 blues
 blues rock
-stevie ray vaughan
 texas blues
 blues
 blues rock
@@ -35,12 +34,11 @@ rock
 rockabilly
 blues
 1970s
-80s
+1980s
 classic rock
 guitar solo
 blues rock
 bluesrock
-awesome guitar jams
 blues
 blues rock
 blues rock guitarist
@@ -51,7 +49,6 @@ guitar virtuoso
 instrumental
 instrumental blues
 rock
-i love my dad taste
 blues
 blues rock
 top100

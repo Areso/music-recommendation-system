@@ -11,9 +11,8 @@ drone
 ambient
 avant-garde
 drone
-electronica
+electronic
 ambient
-beautiful
 ambient
 drone
 experimental

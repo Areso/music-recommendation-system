@@ -7,13 +7,10 @@ assertive
 banger
 catchy
 classic
-cool
 crazy
 dope
-favorite
 gangsta rap
 good shit
-great lyricists
 hard
 hip-hop
 neat
@@ -40,10 +37,8 @@ hip hop/rap
 hip-hop
 rap
 hip-hop
-best
-chillout
+chill out
 classic
-cool
 funny
 jazzy
 lol
@@ -55,10 +50,8 @@ gangsta rap
 1990s
 hip-hop
 rap
-black rap
 west coast rap
 egzamin
-life goes on
 1990s
 gangsta rap
 hip-hop

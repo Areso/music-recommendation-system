@@ -3,6 +3,5 @@ canadian
 independent
 progressive rock
 rock
-rock 'n' roll
-rock and roll
+rock'n'roll
 unsigned

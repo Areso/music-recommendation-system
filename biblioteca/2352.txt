@@ -4,7 +4,6 @@ hard rock
 rain
 alternative
 rock
-favorite
 solid
 alternative
 alternative rock
@@ -35,7 +34,6 @@ post-grunge
 alternative
 alternative metal
 alternative rock
-awesome
 classic rock
 grunge
 melancholic

@@ -12,7 +12,6 @@ pop
 rock
 american idol
 female vocalist
-give in to me
 american idol
 pop
 american idol
@@ -20,6 +19,5 @@ female vocalist
 pop
 american idol
 female vocalist
-nice
 pop
 american idol 8

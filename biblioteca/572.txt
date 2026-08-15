@@ -1,5 +1,5 @@
 blues
-rb
+r'n'b
 jazz
 soul
 blues
@@ -23,8 +23,8 @@ american
 blues
 jazz
 soul
-60s
-rnb
+1960s
+r'n'b
 blues
 jazz
 rhythm and blues
@@ -34,14 +34,14 @@ blues
 jazz
 soul
 soul
-60s
+1960s
 blues
 cover
 funk
 jazz
 rhythm and blues
 soul
-50s
+1950s
 blues
 cover
 rhythm and blues

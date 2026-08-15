@@ -1,17 +1,16 @@
 ambient
 ambient
-chillout
+chill out
 world
-chillout
+chill out
 new age
 world
 ambient
-chillout
+chill out
 new age
 ambient
-chillout
+chill out
 electronic
-electronica
 new age
 native
 new age
@@ -28,12 +27,11 @@ new age
 ambient
 new age
 relax
-chillout
+chill out
 world
 ambient
-amazing
 breathtaking
-chillout
+chill out
 dreamy
 ethnic
 ethnic chill

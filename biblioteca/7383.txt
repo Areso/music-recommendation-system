@@ -1,7 +1,6 @@
 post-rock
 psychedelic
 shoegaze
-beautiful
 brazilian bands
 experimental
 instrumental rock
@@ -13,4 +12,4 @@ post-rock
 experimental
 post-rock
 sinewave
-alternativo
+alternative

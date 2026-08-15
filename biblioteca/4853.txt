@@ -1,15 +1,15 @@
 electronic
-trip-hop
+trip hop
 acid jazz
+d'n'b
 dark
 deep
-drum and bass
-electro
+electronic
 experimental
 idm
 jazz
 ninja tune
-trip-hop
+trip hop
 ninja tune
 electronic
 idm
@@ -20,4 +20,4 @@ turntablism
 electronic
 idm
 jazz
-trip-hop
+trip hop

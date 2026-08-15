@@ -1,6 +1,6 @@
 post-hardcore
 post-hardcore
-screamo
+scream
 post-hardcore
 post-hardcore
 post-hardcore
@@ -10,7 +10,7 @@ progressive
 mathcore
 post-hardcore
 hardcore
-screamo
+scream
 experimental
 progressive
 mathcore
@@ -18,12 +18,12 @@ post-hardcore
 progressive metal
 experimental
 rock
-screamo
+scream
 experimental
 hardcore
 post-hardcore
 progressive
-screamo
+scream
 math rock
 mathcore
 math rock
@@ -36,4 +36,4 @@ progressive rock
 experimental
 hardcore
 post-hardcore
-screamo
+scream

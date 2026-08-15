@@ -5,49 +5,30 @@ popstars
 pop
 pop
 dance
-electro
 electronic
-sexy
 pop
 dance
 british
-cheesy
-cheryl cole
 dance
 female vocalist
-girlgroups
 gold
-legend
-pure pop
 national treasure
-better than the a-side
-sexy yes yes yes
 ballad
 cover
 british
-beautiful
-better than the a-side
-fuck-track
-polydor sucks
 pop
 british
 female vocalist
 pop
 baranyiz loves it
-good girls aloud track
 pop
 girl group
-filth
 female vocalist
 pet shop boys
 pop
 pop singles
 good old times
-great memories with my geeem
-great memories with my siss
-songs that remind me of summer 07-08
 summer song
-best christmas songs
 raven girls top 20
 british
 female vocalist
@@ -55,18 +36,15 @@ pop
 dance
 girl band
 pop
-amazing
 dance
 female
 female vocalist
 dance
-i love dancing about to this like a complete and utter idiot
 pop
 upbeat
 dance
-seen live
+brit pop
 british
-britpop
 dance
 pop
 british
@@ -78,14 +56,10 @@ singer-songwriter
 girlsband
 pop
 vocalist
-amazing
 dance
 girl group
 pop
-amazing
 2000s
-amazing
-awesome
 british
 bubblegum
 catchy
@@ -94,11 +68,11 @@ dance-pop
 disco
 easy listening
 electronic
-electropop
+electronic-pop
 england
-europop
+euro-pop
 female vocalist
-funky
+funk
 gay
 girl group
 girls aloud
@@ -106,8 +80,6 @@ group
 happy
 hot
 russian pop
-seen live
-sexy
 uk
 dance
 popstars: the rivals

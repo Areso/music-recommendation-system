@@ -1,14 +1,8 @@
 cybergrind
-discocore
-electronic deathcore
 experimental
-experimental deathcore
 grindcore
 hardcore
-meinhundcore
 metalcore
-screamo
-synthcore
+scream
 trancecore
 deathcore
-electrocore

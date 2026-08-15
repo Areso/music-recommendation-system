@@ -1,4 +1,3 @@
 metalcore
 metalcore
-metaldeath-core
 metal

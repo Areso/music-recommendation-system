@@ -14,7 +14,6 @@ rock
 acoustic
 alternative
 ballad
-beautiful
 hard rock
 metal
 rock
@@ -38,12 +37,9 @@ grunge
 hard rock
 2000s
 alternative metal
-awesome
 grunge
 male vocalist
 melancholic
 post-grunge
-favorite song
-songs that rocked my world :p
 hard rock
 alternative rock

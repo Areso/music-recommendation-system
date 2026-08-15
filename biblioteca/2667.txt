@@ -1,11 +1,10 @@
-electronica
+electronic
 house
 idm
 experimental
 idm
 ambient
 electronic
-electronica
 experimental
 idm
 drill n bass
@@ -13,20 +12,16 @@ experimental
 idm
 breakbeat
 breakcore
-chillout
-electro
+chill out
 electronic
-electronica
 experimental
 headphones
 idm
 minimal
 techno
 wonderful through headphones
-beautiful
 breakbeat
 electronic
-electronica
 idm
 jazz
 melodic
@@ -38,15 +33,10 @@ ambient
 idm
 pop
 ambient
-awesome
-beautiful
-brilliant
-chillout
+chill out
 cinematic
 electronic
-electronica
 experimental
-favorite
 glitch
 idm
 melancholy

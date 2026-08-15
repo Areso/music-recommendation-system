@@ -1,5 +1,5 @@
 acoustic guitar
-brasil
+brazil
 classical guitar
 composer
 guitar
@@ -9,11 +9,10 @@ brazilian
 male vocalist
 mpb
 bossa nova
-brasil
+brazil
 brazilian
 instrumental
 jazz
 mpb
 samba
-seen live
 singer-songwriter

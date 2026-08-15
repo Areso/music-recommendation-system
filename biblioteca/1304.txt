@@ -1,6 +1,6 @@
 ebm
 german
-synthpop
+synth-pop
 ebm
 electronic
 futurepop
@@ -8,4 +8,4 @@ german
 ebm
 ebm
 industrial
-synthpop
+synth-pop

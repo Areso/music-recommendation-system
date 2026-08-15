@@ -14,7 +14,6 @@ popular
 singer-songwriter
 soft rock
 american idol
-kris allen
 american idol
 male vocalist
 american idol
@@ -43,5 +42,4 @@ soft rock
 soul
 male vocalist
 singer-songwriter
-great cover
 american idol 8

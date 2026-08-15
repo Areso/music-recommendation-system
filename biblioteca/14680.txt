@@ -1,5 +1,5 @@
 remix
-synthpop
+synth-pop
 electronic
 electronic
 german
@@ -8,7 +8,6 @@ cult
 dark
 deep
 deep-electro
-electro
 electro minimalist
 electroclash
 electronic
@@ -16,5 +15,4 @@ idm
 neo-electro
 neo-pop
 new wave
-synthpop
-too cool for normal tags
+synth-pop

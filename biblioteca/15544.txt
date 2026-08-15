@@ -1,13 +1,13 @@
-80s
+1980s
 funk
 pop
 rock
 singer-songwriter
 soul
 soul
-80s
+1980s
 funk
-80s
+1980s
 american
 single
 slowies
@@ -16,7 +16,6 @@ male vocalist
 cover
 funk
 soul
-80s
-love
+1980s
 pop
 singer-songwriter

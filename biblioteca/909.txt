@@ -1,8 +1,6 @@
 female vocalist
-sexy
 singer-songwriter
 pop
-delta goodrem
 ballad
 female vocalist
 sad
@@ -27,9 +25,7 @@ female
 female vocalist
 pop
 singer-songwriter
-australia
-awesome voice
-beautiful
+australian
 diva
 piano
 pop

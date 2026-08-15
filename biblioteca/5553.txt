@@ -6,7 +6,6 @@ singer-songwriter
 acoustic
 ambient
 acoustic
-beautiful
 indie
 sad
 singer-songwriter
@@ -16,10 +15,10 @@ indie
 garden state soundtrack
 buy this
 sxsw2006
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -29,7 +28,6 @@ post-punk
 rock
 singer-songwriter
 u2
-my own private sunshine
 indie
 singer-songwriter
 pretty little liars

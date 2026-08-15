@@ -1,9 +1,9 @@
 electronic
-chillout
+chill out
 downtempo
 jazz
 lounge
-chillout
+chill out
 downtempo
 female vocalist
 jazz
@@ -16,11 +16,11 @@ jazz
 lounge
 nu jazz
 relax
-trip-hop
+trip hop
 vocal
 jazz
 nu jazz
 downtempo
-electronica
+electronic
 lounge
-trip-hop
+trip hop

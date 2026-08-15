@@ -1,7 +1,6 @@
 christian rock
 christian
 christian rock
-crunk rock
 rock
 rock
 alternative rock
@@ -10,4 +9,4 @@ alternative
 punk rock
 rock
 dance
-electro
+electronic

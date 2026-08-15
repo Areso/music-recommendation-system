@@ -2,5 +2,4 @@ cover
 jazz
 jazz
 contemporary jazz
-favorite
 jazz

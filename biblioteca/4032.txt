@@ -2,7 +2,6 @@ electronic
 beat
 dancey
 disco
-electro
 electronic
 new wave
 poppy

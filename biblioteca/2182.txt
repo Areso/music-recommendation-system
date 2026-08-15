@@ -1,8 +1,6 @@
 alternative
 pop
 rock
-favorite
-favorite song
 rock
 alternative
 female vocalist

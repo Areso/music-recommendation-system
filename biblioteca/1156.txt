@@ -1,14 +1,11 @@
-epic
 electronic
-electronica
 idm
 trance
 ambient
 electronic
-electronica
 techno
 ambient
-chillout
+chill out
 dance
 techno
 trance
@@ -17,31 +14,27 @@ cover
 dance
 edit
 electronic
-fave
 remix
 song with samples
 soundtrack
 ambient
-chillout
+chill out
 electronic
-electronica
 1990s
 2000s
 british
-electro
 electronic
 experimental
 blues
 idm
 1997
 electronic
-seen live
 ambient
 electronic
 idm
 ambient
-chillout
-electronica
+chill out
+electronic
 idm
 ambient
 breakbeat
@@ -53,5 +46,5 @@ house
 idm
 progressive house
 techno
-chillout
+chill out
 techno

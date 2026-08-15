@@ -1,13 +1,11 @@
-brasil
+brazil
 brazilian
 mpb
-brasil
 brazil
 brazilian
 disco
+1960s
 1970s
-60s
-brasil
 brazil
 brazilian
 male vocalist
@@ -15,15 +13,13 @@ singer-songwriter
 brazilian
 singer-songwriter
 bossa nova
-love
 mpb
 singer-songwriter
-awesome
 bossa nova
 brazilian
 mpb
 samba
-brasil
+brazil
 male vocalist
 mpb
 bossa nova
@@ -36,17 +32,16 @@ musica popular brasileira
 bossa nova
 mpb
 bossa nova
-brasil
 brazil
 brazilian
 folk
 mpb
 1970s
+1980s
 1990s
-80s
 avant-garde
 blues
-chillout
+chill out
 jazz
 pop
 psychedelic

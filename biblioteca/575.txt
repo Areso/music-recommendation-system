@@ -1,10 +1,10 @@
-80s
+1980s
 blues
 cover
 female vocalist
 funk
 jazz
-rnb
+r'n'b
 soul
 soul
 top 40
@@ -16,10 +16,9 @@ jazz
 rhythm and blues
 soul
 diva
-queen of soul
 soul
 tunes for a brother
-60s
+1960s
 soul
 blues
 female vocalist
@@ -51,7 +50,7 @@ gospel
 jazz
 rhythm and blues
 soul
-60s
+1960s
 jazz
 rhythm and blues
 soul

@@ -2,5 +2,4 @@ country
 country pop
 country
 female vocalist
-perfect lyrics
 new country

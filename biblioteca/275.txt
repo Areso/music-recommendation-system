@@ -5,5 +5,4 @@ piano
 singer-songwriter
 soul
 tweet
-awesome
 phat

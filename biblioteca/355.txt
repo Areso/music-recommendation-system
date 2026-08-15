@@ -9,13 +9,10 @@ rock
 singer-songwriter
 acoustic
 easy listening
-love at first listen
 mellow
 acoustic
 cute
-love
 magic
-sweet
 singer-songwriter
 acoustic
 folk
@@ -25,31 +22,18 @@ singer-songwriter
 folk
 acoustic
 indie
-love
 male vocalist
 pop
 pop rock
 singer-songwriter
 acoustic
-21st century girl
-ate my heart
-beautiful voice
-bjmeligafui
 classic
 dance
 fuck
-guitar playing boys
 happy
-hm
 jazz
-mraz
-my pop music
 new
-qq
-sexy
-songs to monkey it up
 summer
-uuuuuuuuuuuuuaaaaau
 acoustic
 mellow
 happy
@@ -61,8 +45,7 @@ singer-songwriter
 f4nt4stic
 epically romantic
 singer-songwriter
-awesome
-chillout
+chill out
 good mood music
 good mood songs
 pop singles
@@ -81,17 +64,14 @@ pop rock
 rock
 singer-songwriter
 lpa
-makes me smile like an idiot
 oh so catchy
 summer song
 these songs are just amazing
-wake up song
+wake up
 raven girls top 20
 acoustic
-awesome
-chillout
+chill out
 indie rock
-love
 mellow
 pop
 pop rock
@@ -108,15 +88,12 @@ pop
 quirky
 singer-songwriter
 pop
-sweet
 just chillin
 pop
 seen in concert
-seen live
 folk
 jason
 male vocalist
-mraz
 pop
 acoustic
 alternative
@@ -126,13 +103,12 @@ acoustic
 alternative
 pop
 acoustic rock
-love
 pop
 rock
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -143,6 +119,5 @@ rock
 singer-songwriter
 u2
 jukebox project
-favorite
 live music archive
 lmfao

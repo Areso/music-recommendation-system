@@ -1,4 +1,4 @@
-christmas blend
+christmas
 christmas
 college rock
 folk rock
@@ -6,9 +6,8 @@ punk
 folk
 punk
 soundtrack
-favorite
 punk
-80s
+1980s
 alternative
 rock
 christmas
@@ -21,7 +20,7 @@ folk
 irish
 punk
 rock
-80s
+1980s
 england
 folk
 uk
@@ -29,4 +28,4 @@ post-punk
 folk
 irish
 punk
-xmas
+x-mas

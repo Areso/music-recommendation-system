@@ -2,24 +2,22 @@ alternative
 electronic
 indie
 new wave
-synthpop
-synthpop
+synth-pop
+synth-pop
 alternative
 british
 dance
 electronic
 male vocalist
-synthpop
+synth-pop
 british
 electronic
-synth pop
+synth-pop
 alternative
 ballad
-beautiful
-chillout
+chill out
 electronic
 indie
-love at first listen
 male vocalist
 pop
 sad
@@ -28,42 +26,41 @@ electronic
 male vocalist
 electronic
 new wave
-synthpop
+synth-pop
 hip-hop
-sexy
 urban
 indie
-synthpop
-electropop
-electronica
-synthpop
+synth-pop
+electronic-pop
+electronic
+synth-pop
 electronic
 new wave
-synthpop
+synth-pop
 british
 dance
 electronic
 pop
-synthpop
+synth-pop
 british
 electronic
-synthpop
+synth-pop
 british
 electronic
 british
 electronic
 new wave
-synthpop
+synth-pop
 visual kei
 electronic
 new wave
-synthpop
+synth-pop
 electronic
-synthpop
+synth-pop
 british
 electronic
 the vampire diaries
 new wave
-synthpop
-synthpop
+synth-pop
+synth-pop
 uk

@@ -7,16 +7,15 @@ ambient
 experimental
 idm
 ambient
-electronica
+electronic
 experimental
 idm
 ambient
 electronic
-electronica
 idm
 minimal
 techno
-electronica
+electronic
 experimental
 idm
 ambient
@@ -30,26 +29,21 @@ electronic
 experimental
 idm
 remix
-electro
 electronic
-electronica
-favorite
 headphones
 idm
 ambient
 berep shows the love
 ambient
 chill out
-electro
+electronic
 idm
 techno
 idm
 iron jesus
 idm
 ambient
-awesome
-brilliant
-chillout
+chill out
 dreamy
 glitch
 melancholy

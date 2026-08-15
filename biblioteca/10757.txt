@@ -6,6 +6,5 @@ love-rock
 pop rock
 punk
 rock
-rock-pop
 romantic rock
 sertse

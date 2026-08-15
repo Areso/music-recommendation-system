@@ -1,9 +1,8 @@
-amazing
 ambient
 ambient lounge
 atmospheric
 chill
-chillout
+chill out
 electronic
 emotional
 female vocalist
@@ -14,13 +13,13 @@ psychill
 trance
 ambient
 atmospheric
-chillout
+chill out
 electronic
 chill
 dance
 dream
 easy listening
-electro
+electronic
 goa
 mellow
 psychedelic
@@ -28,7 +27,7 @@ relax
 techno
 top 20
 trance
-trip-hop
+trip hop
 electronic
 21st century
 art music
@@ -41,7 +40,7 @@ downbeat
 female vocalist
 1990s
 ambient
-chillout
+chill out
 downtempo
 dub
 electronic
@@ -51,5 +50,5 @@ lounge
 techno
 trance
 ambient
-chillout
+chill out
 psychedelic

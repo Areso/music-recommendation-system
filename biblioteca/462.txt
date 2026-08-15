@@ -1,10 +1,8 @@
 dance
 pop
 rock
-seen live
 british
-rnb
-sexy
+r'n'b
 pop
 pop
 ballad
@@ -12,10 +10,10 @@ english
 male
 dance
 pop
-rnb
+r'n'b
 boyband
+brit pop
 british
-britpop
 pop
 party
 boyband
@@ -26,22 +24,11 @@ none
 british
 dance
 pop
-rnb
-beautiful
-beautiful sad songs
-best song ever
-could listen to this forever
+r'n'b
 depressing
 emotional
-fav song
 fucking awesome
-hurts when i listen to it
-i could listen to this forever
-love
-love it
-makes me cry
 melancholic
 melancholy
 pain
 sad
-songs i absolutely love

@@ -1,11 +1,8 @@
 country
 folk
-awesome
 country
-legend
 country ladies
 country
-favorite song
 1981
 country
 country
@@ -29,7 +26,6 @@ singer-songwriter
 musicteam motivational
 catchy
 country
-love
 country
 singer-songwriter
 90210

@@ -1,4 +1,4 @@
-central asia
+central asian
 dance
 ethnic pop
 female
@@ -11,8 +11,5 @@ pop
 pop-folk
 turk
 turkic world
-uzbek
-uzbek pop
-uzbekistan
 world
 world pop

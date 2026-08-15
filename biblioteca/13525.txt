@@ -1,3 +1,2 @@
-angular
 happy
 alternative rock

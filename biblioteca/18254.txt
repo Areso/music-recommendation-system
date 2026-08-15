@@ -1,10 +1,9 @@
 ambient
-chillout
+chill out
 electronic
-electronica
 idm
 ambient
-chillout
-electronica
+chill out
+electronic
 launge
 vfsix

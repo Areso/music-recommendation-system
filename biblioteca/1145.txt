@@ -13,7 +13,6 @@ alternative
 alternative metal
 hard rock
 metal
-seen live
 metal
 alternative metal
 hard rock
@@ -50,7 +49,7 @@ better than metallica
 acoustic
 alternative metal
 american
-chillout
+chill out
 hard rock
 heavy metal
 melancholic
@@ -62,7 +61,6 @@ post-grunge
 soundtrack
 acoustic
 cover
-favourite bands
 stone sour
 alternative metal
 emotional
@@ -78,10 +76,8 @@ alternative
 loved
 rock
 metal
-00s rock
 2000s
 american
-favorite
 hard rock
 live
 nu metal

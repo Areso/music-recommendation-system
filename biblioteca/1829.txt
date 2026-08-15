@@ -1,5 +1,4 @@
-70s jazz
-chillout
+chill out
 funk
 jazz
 pop
@@ -13,6 +12,6 @@ disco
 funk
 jazz
 pop
-rnb
+r'n'b
 soul
 funk

@@ -1,7 +1,6 @@
 ogonj
 oni pout
 po-kraftwerkski
-favorite
 new rave
 electronic
 indie
@@ -11,16 +10,14 @@ barkbarkdisco
 electronic
 dance
 dance-punk
-electro pop
 electronic
-electronica
-electropop
+electronic-pop
 indie
 rock
 alternative rock
 clever
 electronic
-electrorock
+electronic rock
 indie
 irony
 dance

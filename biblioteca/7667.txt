@@ -1,5 +1,5 @@
 alternative
-electronica
+electronic
 indie
 pop
 rock
@@ -8,7 +8,6 @@ french
 indie pop
 pop
 rock
-sweet
 french
 chill
 dance

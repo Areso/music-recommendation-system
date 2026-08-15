@@ -3,15 +3,13 @@ electronic
 jazz
 acid jazz
 electronic
-electronica
-chillout
+chill out
 downtempo
 electronic
-electronica
 idm
 jazz
 nu jazz
-trip-hop
+trip hop
 acid jazz
 nu jazz
 abstract
@@ -21,7 +19,7 @@ berep shows the love
 mistagged artist
 electronic
 nu jazz
-trip-hop
+trip hop
 whitenoize
 acid jazz
 electronic

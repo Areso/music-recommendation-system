@@ -1,7 +1,6 @@
 baroque
 classical
 vocal
-clasica
 classic
 classical
 baroque

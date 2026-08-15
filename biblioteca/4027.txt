@@ -1,5 +1,4 @@
-electro
-electronica
+electronic
 french
 techno
 experimental
@@ -9,11 +8,10 @@ songs for gil
 electronic
 french
 techno
-electro
-electro
+electronic
+electronic
 minimal
 techno
 deepclash
 electronic
-electronica
 french

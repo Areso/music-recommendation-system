@@ -1,6 +1,6 @@
 hip-hop
+r'n'b
 rap
-rnb
 dance
 gossip girl
 hip-hop
@@ -10,14 +10,14 @@ female vocalist
 hip-hop
 male vocalist
 pop
+r'n'b
 rap
-rnb
 addiction
 hip-hop
+r'n'b
 rap
-rnb
 funk
-rnb
+r'n'b
 hip-hop
 hip-hop
 jet set radio future

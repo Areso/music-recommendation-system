@@ -2,12 +2,9 @@ piano
 romantic
 instrumental
 piano
-beautiful
 classical
 instrumental
 melancholic
-perfect
-clasica
 classic
 classical
 classical
@@ -26,7 +23,6 @@ piano
 romantic
 classical
 <3
-best free stuff
 instrumental
 piano
 romantic

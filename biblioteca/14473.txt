@@ -2,7 +2,6 @@ acoustic
 alternative
 brazilian
 folk
-heart
 indie
 lo-fi
 mellow

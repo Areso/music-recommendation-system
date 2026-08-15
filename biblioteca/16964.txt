@@ -2,4 +2,3 @@ ebm
 electro-industrial
 industrial
 noise
-sexy

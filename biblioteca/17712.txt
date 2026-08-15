@@ -8,7 +8,5 @@ j-pop
 japan
 japanese
 japanese music
-jpop
-jpop favorites
 pop
 hello project

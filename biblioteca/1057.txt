@@ -1,7 +1,6 @@
 ballad
 2007
 2009
-ewa farna
 female vocalist
 pl
 polish
@@ -10,7 +9,6 @@ pop
 pop rock
 rock
 female vocalist
-nice
 polish
 pop
 rock

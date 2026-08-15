@@ -3,6 +3,5 @@ halloween
 singer-songwriter
 folk
 indie
-awesome-ness
 comedy
 humor

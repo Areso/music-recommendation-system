@@ -4,7 +4,6 @@ ambient
 indie
 poetry
 ambient
-beautiful
 dreamy
 ethereal
 experimental
@@ -35,15 +34,13 @@ indie
 alternative
 alternative rock
 ambient
-beautiful
-chillout
+chill out
 dreamy
 experimental
 folk
 indie
 indie rock
 rock
-beautiful
 experimental
 indie
 dream pop

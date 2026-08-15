@@ -1,5 +1,4 @@
 1970s
-brasil
 brazil
 brazilian
 jazz
@@ -9,16 +8,16 @@ soul
 brazilian
 mpb
 soul
-brasil
+brazil
 funk
 soul
-brasil
+brazil
 brazilian
 funk
 mpb
 soul
 bossa nova
-brasil
+brazil
 funk
 mpb
 pop
@@ -33,7 +32,7 @@ funk
 soul
 funk
 mpb
-brasil
+brazil
 funk
 mpb
 soul

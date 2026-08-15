@@ -6,23 +6,17 @@ central point
 chef musinum
 dark ambient
 dark electro
-dark music
 downtempo
 ebm
-electro
 electro-industrial
-electro trance
 electro trip
 electronic
-electronica
 experimental
 fucking selfdeep
 independent
 industrial
 instrumental
-lestfm artist
 lostfreeq
-low tempo
 massive attack
 new beat
 nu jazz
@@ -34,12 +28,10 @@ poetic rock
 polish
 post-jazz
 progressive trance
-psychadelic
 psychedelic
 psytrance
 skinny puppy
 soundtrack
-techno trance
 trance
 trip beat
-trip-hop
+trip hop

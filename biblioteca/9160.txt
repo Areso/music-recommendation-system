@@ -1,8 +1,8 @@
 british
 hip-hop
 pop
+brit pop
 british
-britpop
 cover
 female vocalist
 indie
@@ -16,8 +16,8 @@ jazz
 soul
 indie
 pop
+brit pop
 british
-britpop
 crazy
 funk
 pop
@@ -26,11 +26,10 @@ american
 female
 female vocalist
 pop
-rnb
+r'n'b
 dj
 funk
 hip-hop
 pop
 hip-hop
 british
-awesome-ness

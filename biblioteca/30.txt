@@ -1,9 +1,7 @@
 1990s
 synth
-synthpop
-seen live
+synth-pop
 absolute disco
-my fav fun
 nejlepsi
 ogonj
 ohm sweet ohm
@@ -16,10 +14,9 @@ touching song
 true synthpop
 electronic
 electronic
-loveliness
-synth pop
+synth-pop
 industrial
-80s
+1980s
 ambient
 dance
 dark
@@ -31,36 +28,32 @@ industrial
 metal
 new wave
 psychedelic
-sexy
-synth pop
+synth-pop
 trance
-and one
 industrial
 ebm
-darkwave
+dark wave
 electronic
 experimental
 gothic
 industrial
 new romantic
 new wave
-synthpop
+synth-pop
 electronic
 ebm
 electronic
 futurepop
-sexy song
-synthpop
+synth-pop
 ebm
 futurepop
 german
-synthpop
+synth-pop
 ebm
 futurepop
 industrial
-newman-esque
-synthpop
-synthpop
+synth-pop
+synth-pop
 alternative
 beat
 drums
@@ -68,7 +61,7 @@ electronic
 german
 ebm
 futurepop
-synthpop
+synth-pop
 ebm
 ebm
-synthpop
+synth-pop

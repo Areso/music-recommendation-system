@@ -1,6 +1,6 @@
 minimal
 techno
-electronica
+electronic
 techno
 acid
 minimal
@@ -11,5 +11,5 @@ deep-clash
 minimal
 minimal
 canada
-electronica
-electronica
+electronic
+electronic

@@ -1,6 +1,6 @@
 indie
-electro pop
 electronic
+electronic-pop
 indie
 indie rock
 electronic
@@ -11,7 +11,7 @@ indie
 british
 dance
 electronic
-electropop
+electronic-pop
 indie
 pop
 2000s
@@ -21,20 +21,19 @@ electronic
 indie
 indie rock
 pop
-britpop
-electropop
+brit pop
+electronic-pop
 <3
 british
 dance
 electronic
-electropop
+electronic-pop
 pop
 electronic
 indie
 british
 electronic
 indie
-seen live
 electronic
 indie
 indie pop
@@ -46,18 +45,17 @@ indie
 indie pop
 4m4zinq
 f4nt4stic
-seen live
 addiction
 british
 dance
-eletropop
+electronic-pop
 pop
 indie
 gay
 danceable
 british
 electronic
-electropop
+electronic-pop
 female vocalist
 indie
 electronic
@@ -71,7 +69,7 @@ manchester
 electronic
 indie
 oh so catchy
-wake up song
+wake up
 british
 electronic
 female vocals
@@ -87,64 +85,58 @@ female vocalist
 indie
 pop
 2008
-my fav songs
 electronic
-electropop
+electronic-pop
 british
 electronic
 indie
-seen live
 uk
 neon space
 oh electropop
 electronic
-electropop
+electronic-pop
 alternative
 alternative pop
 indie
-favorite
 british
 electronic
-seen live
 alternative
 alternative rock
-britpop
+brit pop
 dance
 dance-punk
 disco
-electro
-electro-rock
 electronic
-electronica
-electropop
+electronic-pop
+electronic rock
 gossip girl
 indie
+indie electronic
 indie pop
 indie rock
-indietronica
 new rave
 new wave
 pop
 pop rock
 rock
-synthpop
+synth-pop
 british
 electronic
 female vocalist
 indie
 female vocalist
 indie
+brit pop
 british
-britpop
 dance
 electronic
-electropop
+electronic-pop
 indie
 indie pop
 pop
 british
 electronic
-electropop
+electronic-pop
 female vocalist
 indie
 2000s
@@ -167,9 +159,8 @@ indie
 pop
 tinosoft
 alternative
-electro
+electronic
 female
 indie
-electropop
-love
+electronic-pop
 very good

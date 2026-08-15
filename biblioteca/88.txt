@@ -3,12 +3,11 @@ electronic
 hip-hop
 indie
 rock
-electronica
+electronic
 hip-hop
 indie
 rock
 electronic
-damon albarn
 electronic
 indie
 indie pop
@@ -29,30 +28,26 @@ electronic
 hip-hop
 alternative rock
 british
-chillout
+chill out
 dance
 electronic
 soul
-electro
 electronic
 hip-hop
 rock
-gorillaz
 alternative
 pop
 alternative
 electric
 rock
-cool
 electronic
 hip-hop
 pop
 alternative
 electronic
-sexy song
 2000s
 alternative
-britpop
+brit pop
 dance
 electronic
 experimental
@@ -60,10 +55,9 @@ indie
 indie rock
 rock
 alternative
-cool
 country
 rock
-trip-hop
+trip hop
 alternative hip-hop
 alternative
 electronic
@@ -72,10 +66,9 @@ alternative
 oui fm
 alternative
 electronic
-electronica
 indie
 english
-chillout
+chill out
 electronic
 indie
 alternative
@@ -84,25 +77,22 @@ electronic
 indie
 rock
 alternative
-chillout
-cool
+chill out
 electronic
 experimental
 funk
 rock
-trip-hop
+trip hop
 hip-hop
-monkeyrock
 alternative
 rock
-animals
 boys names
 cops
 famous persons
 dance
 electronic
 quirky
-britpop
+brit pop
 pop
 alternative
 hip-hop
@@ -111,7 +101,6 @@ rock
 alternative
 electronic
 alternative
-seen live
 alternative
 electronic
 indie
@@ -131,37 +120,25 @@ hip-hop
 pop
 united kingdom
 daring
-edgy
 electronic
-feel good inc
 hip-hop
 2010
 alternative
 alternative rock
-amazing
-awesome
 british
-chillout
-cool
+chill out
 dance
-electro
 electronic
 experimental
 fucking awesome
-fun
 indie
 indie rock
-love at first listen
 rock
-sweet
 alternative
 electronic
 hip-hop
 indie
 rock
-trip rock
-awesome-ness
 the oc
 tinosoft
-favorite song
 uk

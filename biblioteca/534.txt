@@ -19,7 +19,6 @@ alternative
 alternative rock
 american
 california
-favorite
 female vocalist
 new wave
 no doubt
@@ -39,7 +38,6 @@ electronic
 female vocalist
 indie
 mellow
-sexy
 female vocalist
 pop
 pop rock
@@ -48,27 +46,20 @@ alternative
 alternative rock
 charmed
 pop
-guilty pleasure
 1990s
 female vocalist
 francais
 french
-french rap
-rap francais
 alternative rock
 pop rock
 1990s
 alternative rock
-just a girl
 1990s
 favoritas
-favorite
 girl shit
 new wave
 no doubt
-no doubt - the singles 1992-2003
 pop
-popgroup
 power pop
 punk
 rock
@@ -98,7 +89,6 @@ pop
 pop rock
 pop rock
 rafa
-seen live
 alternative
 rock
 gwen stefani
@@ -106,10 +96,10 @@ alternative
 punk
 top 40
 pop
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -119,7 +109,6 @@ post-punk
 rock
 singer-songwriter
 u2
-greatest sad songs
 alternative
 female vocalist
 pop
@@ -129,7 +118,6 @@ pop
 wicked women
 pop
 emotional
-makes me wanna dance
 ska
 female vocalist
 cover

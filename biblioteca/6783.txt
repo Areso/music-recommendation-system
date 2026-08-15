@@ -1,5 +1,3 @@
 artists
-electro pop
-favorite
-guilty pleasure
+electronic-pop
 american

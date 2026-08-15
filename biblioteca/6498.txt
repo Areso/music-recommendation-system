@@ -2,7 +2,7 @@ alternative
 ambient
 big beat
 cantonese
-chillout
+chill out
 chinese
 dark
 ebm
@@ -21,5 +21,5 @@ rock
 singer-songwriter
 soundtrack
 techno
-trip-hop
+trip hop
 world

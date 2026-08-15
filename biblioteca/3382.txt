@@ -1,17 +1,17 @@
-brasil
+brazil
 pop
 rock
 ska
-brasil
+brazil
 brazilian
 brazilian rock
 mpb
 rock
-brasil
+brazil
 brazilian
 brazilian rock
 mpb
-brasil
+brazil
 brazilian
 brazilian rock
 mpb
@@ -19,6 +19,3 @@ rock
 brazilian
 reggae
 rock
-seen live
-seen live
-brazilian ska

@@ -1,5 +1,4 @@
 dance
 electronic
 synth
-synth pop
-synthpop
+synth-pop

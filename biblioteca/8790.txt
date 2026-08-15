@@ -1,28 +1,22 @@
 electronic
-favorite
-electro
 electroclash
 electronic
-electronica
 dance
 electronic
 gossip girl
 electronic
-electronica
 electronic
 electronic
 electronic
-ultimate favorite
 electronic
 breakbeat
 dance
 techno
 electronic
 big beat
-electronica
+electronic
 dance
 electronic
-electronica
 beat
 cover
 soundtrack
@@ -31,8 +25,8 @@ techno
 trance
 1990s
 ambient
-chillout
+chill out
 dance
 new wave
-synthpop
-trip-hop
+synth-pop
+trip hop

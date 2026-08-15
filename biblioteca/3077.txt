@@ -1,6 +1,6 @@
 dance
-electropop
+electronic-pop
 pop
-trip-hop
-britpop
-electropop
+trip hop
+brit pop
+electronic-pop

@@ -1,14 +1,14 @@
 folk
-60s
+1960s
 acoustic guitar
 classic rock
 folk
 singer-songwriter
 folk
 singer-songwriter
-60s
+1960s
 folk
-60s
+1960s
 british
 folk
 psychedelic
@@ -17,7 +17,7 @@ singer-songwriter
 1966
 1968
 1969
-60s
+1960s
 acoustic
 folk
 folk rock
@@ -28,11 +28,11 @@ listened more than 10 times in a row
 classic rock
 folk
 folk
-60s
+1960s
 classic rock
 psychedelic
-60s
-60s
+1960s
+1960s
 psychedelic
 singer-songwriter
 uk

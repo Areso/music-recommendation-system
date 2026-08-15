@@ -1,9 +1,7 @@
-0 play yet
 2008
 2009
 2010
 asian
-c-ute
 cute
 female vocalist
 happy
@@ -11,5 +9,4 @@ hello project
 hello project kids
 j-pop
 japanese
-jpop
 pop

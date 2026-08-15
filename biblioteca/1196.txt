@@ -20,7 +20,6 @@ hardcore
 metalcore
 death metal
 deathcore
-unanswered
 death metal
 deathcore
 brutal death metal
@@ -30,5 +29,4 @@ metalcore
 deathcore
 grindcore
 metalcore
-fucking beast
 good shit

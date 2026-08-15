@@ -17,5 +17,5 @@ electronic
 ambient
 dub
 dub
-electronica
+electronic
 techno

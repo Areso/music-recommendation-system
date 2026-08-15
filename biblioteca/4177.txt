@@ -7,7 +7,6 @@ rock
 alternative
 alternative rock
 american
-awesome
 hard rock
 indie
 rock
@@ -23,8 +22,6 @@ pop rock
 sad
 soundtrack
 smallville
-beautiful
-love at first listen
 4m4zinq
 alternative rock
 alternative
@@ -47,7 +44,6 @@ happy
 pop rock
 singalong
 hoy tengo ganas de llorar
-idolo
 alternative
 alternative rock
 christian rock
@@ -55,12 +51,9 @@ rock
 jukebox project
 alternative
 alternative rock
-beautiful
 christian
 rock
 death song
-favorite
-favorite bands and artists
 rock
 soul searching
 soundtrack

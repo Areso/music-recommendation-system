@@ -3,4 +3,3 @@ folk
 singer
 singer-songwriter
 american idol 7
-jason castro

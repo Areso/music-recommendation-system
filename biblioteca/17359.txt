@@ -1,12 +1,10 @@
-alger
 algeria
 amazigh
 ambient
 arabic
-arabica
 bellydance
 desert
-electro
+electronic
 female vocalist
 kabyle
 maghrebi
@@ -14,7 +12,6 @@ marrakech
 mediterrania
 new age
 oran
-orient
 oriental
 rabat
 rai

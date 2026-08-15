@@ -7,10 +7,8 @@ rock
 alternative
 alternative rock
 british
-favorite
 indie
 indie rock
-love
 new wave
 post-punk
 rock
@@ -19,7 +17,7 @@ alternative
 indie
 new wave
 post-punk
-synthpop
+synth-pop
 alternative
 british
 indie
@@ -37,18 +35,15 @@ rock
 indie
 addictive
 amazing singer
-beautiful
 creepy but amazing
 dramatic
 hypnotic
-love at first listen
 song for rides
 to sing
 alternative
 british
 post-punk revival
 beatles julia
-cool
 2000s
 indie
 rock
@@ -65,13 +60,10 @@ piano
 single
 slowies
 british
-electro
+electronic
 indie
 new wave
-sythpop
-awesome
 cool as
-fantastic
 indie
 alternative rock
 british
@@ -82,26 +74,18 @@ alternative
 indie
 indie rock
 melancholy
-electro
 electronic
-favorite
 new wave
-papillon
 rock
-running song
-uuaaj
 alternative
+brit pop
 british
-britpop
 indie
 indie rock
 post-punk
 uk
 indie rock
-i want to dance in my underwear
-idolo
 inlove
-fave
 british
 indie
 experimental
@@ -120,9 +104,7 @@ rock
 alternative
 depeche mode
 electronic
-electronica
-synth pop
-synthpop
+synth-pop
 indie
 indie rock
 alternative
@@ -134,7 +116,6 @@ alternative
 other great tracks
 the vampire diaries
 twilight
-editors
 indie
 post-punk revival
 twilight

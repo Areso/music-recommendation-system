@@ -1,5 +1,4 @@
 asian
-central asia
 central asian
 dance
 etno
@@ -10,7 +9,7 @@ kyrgyzstan
 male
 male vocalist
 pop
-rnb
+r'n'b
 turk
 turkic
 turkic world

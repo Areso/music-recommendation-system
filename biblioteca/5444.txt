@@ -8,5 +8,3 @@ alternative
 indie
 instrumental
 instrumental rock
-perfect
-toto

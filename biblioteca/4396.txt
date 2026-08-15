@@ -1,7 +1,5 @@
-electronica
+electronic
 experimental
-my angular favourites
-my indie friends
-trip-hop
-electronica
+trip hop
+electronic
 lounge

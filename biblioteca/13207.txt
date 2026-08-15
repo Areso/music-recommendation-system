@@ -1,7 +1,5 @@
 alternative
 electronic
-electronica
 male vocalist
 new wave
-synth pop
-synthpop
+synth-pop

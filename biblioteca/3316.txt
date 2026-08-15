@@ -1,6 +1,5 @@
 dance
 hip-hop
-love
 party
 rap
 reggae
@@ -19,15 +18,13 @@ hip-hop
 hip-hop
 pop
 reggae
-sean paul
-great moments at et7
 summer song
 viaje de egresados
 hip-hop
+r'n'b
 rap
-rnb
 hip-hop
-r and b
+r'n'b
 rap
 top 40
 dance
@@ -35,6 +32,5 @@ dancehall
 hip-hop
 rap
 reggae
-sean paul
 handclaps
 melrose place

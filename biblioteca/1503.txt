@@ -1,6 +1,5 @@
 electronic
 british
 dance
-eletropop
-ghettotech
+electronic-pop
 pop covers

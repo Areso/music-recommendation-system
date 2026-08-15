@@ -16,8 +16,6 @@ slow
 pop
 1990s
 ballad
-beautiful
-love
 male vocalist
 pop
 pop rock
@@ -25,7 +23,7 @@ rock
 1990s
 pop
 1990s
-forever in heart
+forever
 pop
 rock
 sexiest man in the world
@@ -45,7 +43,6 @@ rock
 1990s
 pop
 rock
-favorite
 road trip
 alternative
 australian

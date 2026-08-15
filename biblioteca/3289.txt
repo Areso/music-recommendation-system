@@ -1,7 +1,6 @@
-80s
+1980s
 belgian
 ebm
-fav artists
 electronic
 industrial
 ebm
@@ -10,9 +9,7 @@ industrial
 ebm
 electronic
 industrial
-electro
 electronic
-electronica
 1990s
 club
 energetic
@@ -29,5 +26,4 @@ ebm
 industrial
 ebm
 electronic
-electronica
 industrial

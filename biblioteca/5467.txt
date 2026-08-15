@@ -1,5 +1,4 @@
 <3
-love at first listen
 dance
 dance-pop
 latin pop
@@ -8,4 +7,4 @@ pop
 pop rock
 singer-songwriter
 teen pop
-electronica
+electronic

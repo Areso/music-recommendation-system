@@ -4,7 +4,7 @@ disco
 seventies
 soul
 1970s
-80s
+1980s
 disco
 funk
 pop
@@ -13,18 +13,18 @@ american idol
 brazilian
 funk
 pop
+r'n'b
 remix
-rnb
 singer-songwriter
 under 2000 listeners
 80s pop
 happy
 hit
 popular
-60s
+1960s
 disco
 funk
 pop
-rnb
+r'n'b
 pop
 soul

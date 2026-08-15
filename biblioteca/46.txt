@@ -1,5 +1,4 @@
-christmas blend
-ballet
+christmas
 classical
 romantic
 classical
@@ -7,7 +6,6 @@ romantic
 classical
 inspiration
 romantic
-tchaikovsky
 the best classical opera and film scores
 classical
 instrumental

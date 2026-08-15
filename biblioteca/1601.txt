@@ -1,21 +1,19 @@
 female
-rnb
+r'n'b
 soul
 female vocalist
 pop rock
 dance
 female vocalist
 hot
-rnb
+r'n'b
 rock
-sexy
 singer-songwriter
 soul
-favorite
 female vocalist
 pop
 pop rock
-rnb
+r'n'b
 female vocalist
 soul
 1990s
@@ -46,7 +44,7 @@ pop
 soul
 emotional
 female vocalist
-powerfull voices
+powerful voice
 weekly top artists
 weekly top tracks
 soul

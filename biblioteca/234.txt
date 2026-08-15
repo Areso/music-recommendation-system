@@ -11,7 +11,6 @@ alternative
 backstage rock shop artist
 grunge
 seattle sound
-mosh song
 grunge
 rock
 1990s
@@ -29,7 +28,6 @@ alternative rock
 cover
 grunge
 hard rock
-my 500 essential songs
 nem existe mais
 grunge
 1990s
@@ -37,7 +35,6 @@ acoustic
 alternative rock
 cover
 indie
-love
 punk
 singer-songwriter
 1990s
@@ -68,7 +65,6 @@ male vocalist
 rock
 usa
 grunge
-awesome
 rock
 1990s
 alternative
@@ -84,7 +80,6 @@ alternative
 alternative rock
 grunge
 rock
-alternativerock
 alternative rock
 grunge
 grunge
@@ -98,18 +93,14 @@ grunge
 acoustic
 alternative
 american
-favorite
-favourite artists
 grunge
 indie
 instrumental
-kurt cobain
 nirvana
 1990s
 alternative
 charmed
 rock
-albums i own
 memories
 alternative
 grunge
@@ -130,28 +121,19 @@ grunge
 alternative
 grunge
 1991
-80s y 90s
 90s rock
-all time favorite
-all time favourites
 alternative
 alternative rock
 american
-best
 catchy
 classic
 classic rock
-favorite
-favourite songs
-good
-good songs
 good stuff
 grunge
 grunge rock
 hard rock
 indie
 indie rock
-love
 male vocalist
 nostalgia
 pop
@@ -159,7 +141,6 @@ punk
 punk rock
 rock
 seattle
-top rock songs
 upbeat
 usa
 grunge
@@ -196,11 +177,9 @@ alternative
 alternative rock
 grunge
 rock
-favorite
 grunge
 nirvana
 punk
-kurt cobain
 1990s
 alternative rock
 grunge
@@ -212,8 +191,6 @@ gabbacore
 1990s
 alternative
 better than metallica
-favorite
-favourite bands
 grunge
 seattle
 alternative rock
@@ -228,12 +205,9 @@ hard rock
 indie
 punk rock
 rock
-best songs of the 90s
-legend
 rock
 as
 musica boa
-tags
 alternative
 grunge
 rock
@@ -250,7 +224,6 @@ grunge
 1990s
 grunge
 1990s
-amazing
 grunge
 rock
 underground
@@ -272,13 +245,12 @@ punk
 alternative
 noise
 punk
-cool
 funny
 lol
 grunge
 alternative rock
 club
-electro
+electronic
 grunge
 punk
 remix
@@ -286,29 +258,22 @@ grunge
 rock
 grunge
 ohmydamn
-birth year
-jammin
 outrageous
 nirvana
 grunge
 acoustic
 alternative
 alternative rock
-amazing
-awesome
-beautiful
 classic
 classic rock
-cool
 experimental
 fucking awesome
-genius
 hard rock
 progressive rock
 psychedelic
 sad
+1980s
 1990s
-80s
 grunge
 1990s
 alternative rock
@@ -321,7 +286,6 @@ grunge
 alternative
 alternative rock
 rock
-epic
 1990s
 <3
 alternative rock
@@ -329,11 +293,9 @@ rock
 alternative
 alternative rock
 grunge
-kurt cobain
 overrated
 alternative rock
 grunge
-kurt cobain
 gluhie 90e
 grunge
 usa

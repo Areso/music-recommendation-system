@@ -1,7 +1,6 @@
 hard rock
 1970s
 rock
-legend
 rock
 amazing vocal
 british
@@ -12,23 +11,23 @@ rock
 glam rock
 hard rock
 progressive rock
-rock 'n' roll
-poprock
-80s
+rock'n'roll
+pop rock
+1980s
 classic rock
 hard rock
 classic rock
 classic rock
 rock
-80s
+1980s
 classic rock
 rock
-80s
+1980s
 rock
 classic rock
 glam rock
 hard rock
-80s
+1980s
 glam rock
 hard rock
 rock
@@ -36,11 +35,10 @@ alternative
 british
 rock
 progressive rock
-80s
+1980s
 ballad
 british
 classic rock
-love
 piano
 soundtrack
 alternative
@@ -54,10 +52,10 @@ british
 classic rock
 male vocalist
 rock
-80s
+1980s
 classic rock
 1970s
-80s
+1980s
 classic rock
 glam rock
 male vocalist
@@ -67,11 +65,10 @@ british
 pop
 pop rock
 rock
-favorite
 rock
 classic rock
 1970s
-80s
+1980s
 <3
 british
 classic rock
@@ -91,32 +88,30 @@ hard rock
 heavy rock
 progressive rock related
 rock
-80s
+1980s
 hard rock
 british
 hard rock
 progressive rock
-80s
+1980s
 classic rock
 hard rock
+1980s
 1990s
-80s
 alternative
 classic rock
 pop
-80s
+1980s
 classic rock
 hard rock
 rock
-queen
 rock
-80s
+1980s
 classic rock
 rock
-80s
+1980s
 classic rock
 rock
-seen live
 1970s
 1980s
 happy
@@ -124,7 +119,6 @@ popular
 seventies
 wtf
 1970s
-awesome
 classic rock
 rock
 classic rock
@@ -139,37 +133,34 @@ rock
 1989
 1991
 1970s
-80s
-anthemic
+1980s
+anthem
 majestic
 nostalgia
-80s
+1980s
 classic rock
 glam rock
 hard rock
 rock
-80s
+1980s
 rock
-they will rock you
 british
 hard rock
 rock
 classic rock
 glam rock
-i love freddie mercury
-love
 classic rock
 rock
 classic rock
 1991
 1992
 1970s
-80s
+1980s
 classic rock
 just could not get any better
 classic rock
 classic rock
-80s
+1980s
 rock
 b-side
 christmas
@@ -178,52 +169,43 @@ rock
 single
 english
 1970s
-80s
+1980s
 hard rock
 rock
 british
 europa
 europe
-favorite
 gay as hell
-love
 male vocalist
 romantic
-sexy
-one of the best songs in existence
-the greatest rock band of all time
 classic rock
 rock
 classic rock
 hard rock
-best christmas songs
-80s
+1980s
 british
 male vocalist
 pop
 pop rock
 progressive rock
-rock and roll
+rock'n'roll
 soundtrack
 hard rock
 1970s
-80s
+1980s
 oldies
 uk
 classic
-gay music
-make me feel better
 rock
 classic rock
 rock
-80s
+1980s
 classic rock
 rock
 1970s
-80s
+1980s
 classic rock
 rock
-queen
 classic rock
 hard rock
 rock
@@ -231,13 +213,11 @@ rock
 classic rock
 soundtrack
 top 40
-love
-80s
+1980s
 classic rock
 hard rock
 rock
 classic rock
-this is my favorite song in the world
 gold
 piano
 classic rock
@@ -246,8 +226,8 @@ piano
 pop
 pop rock
 progressive rock
-80s
-80s
+1980s
+1980s
 hard rock
 classic rock
 pop
@@ -256,23 +236,17 @@ rock
 jukebox project
 classic rock
 1970s
+1980s
 1990s
-80s
 classic rock
 funk
 hard rock
 heavy metal
 progressive rock
 old but good
-amazing
-beautiful
-brilliant
 classic
 classic rock
-epic
 fucking awesome
-fun
-genius
 happy
 hard rock
 oldies
@@ -281,18 +255,16 @@ progressive rock
 sad
 uk
 1970s
-80s
+1980s
 classic rock
-legend
 rock
-80s
-epic
+1980s
 hard rock
 classic rock
 hard rock
 progressive rock
 rock
-80s
+1980s
 classic rock
 hard rock
 rock
@@ -300,17 +272,14 @@ progressive rock
 love song
 overplayed
 rock
-epic
 1980s
-80s
 80s rock
 classic
-epic
 hard rock
 heavy
 speed metal
 thrash metal
-xmas
+x-mas
 1970s
 classic rock
 glam rock

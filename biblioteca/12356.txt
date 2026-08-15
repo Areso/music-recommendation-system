@@ -3,7 +3,6 @@ alternative rock
 american
 ballad
 british
-china
 chinese
 choral
 christian
@@ -29,7 +28,6 @@ indie pop
 indie rock
 latin
 live
-local
 metal
 musical
 nu metal

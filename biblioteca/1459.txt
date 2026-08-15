@@ -1,35 +1,21 @@
 country
 country pop
 country
-legend
 miserable
-amazing
 american
 american idol
-best of 2009
 carrie underwood
-carrie underwood favourite
 country
 country divas
-country favorites
 country rock
 diva
-favorite
 female
 female country
 female singer
 female vocalist
-female vocals
 grammy winner
-idol
-my fav girls
-my favorite artists
 singer-songwriter
-the best of pop
-fav female singers
-fav tracks
 american idol
-favorite country music female
 american idol
 country
 pop
@@ -52,28 +38,20 @@ carrie underwood
 2000s
 country
 pop
-nick and haylie
 country
 female vocalist
 pop
 blond
-quitter
 american idol
 country
-great song
-my favorite
 new country
 pop
 country
-country to the core
 feel good
 traditional country
 western swing
 drive
-great memories with my geeem
-great memories with my siss
 rainy day
-songs that remind me of summer 07-08
 songs to make florchuchizz cry
 summer song
 these songs are just amazing
@@ -86,7 +64,6 @@ country
 american idol
 country
 pop
-amazing
 american
 female
 female vocalist
@@ -97,10 +74,8 @@ american
 catchy
 country
 country pop
-favorite
 female vocalist
 inspirational songs
-love
 pop
 american idol
 country

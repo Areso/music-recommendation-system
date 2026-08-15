@@ -3,11 +3,11 @@ swedish
 electronic
 ebm
 futurepop
-synthpop
+synth-pop
 industrial
 electronic
 futurepop
-synthpop
+synth-pop
 ebm
 industrial
-synthpop
+synth-pop

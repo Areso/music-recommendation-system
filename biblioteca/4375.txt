@@ -13,7 +13,4 @@ rock
 punk
 punk rock
 alternative rock
-cool
-favorite
-good
 poppunk

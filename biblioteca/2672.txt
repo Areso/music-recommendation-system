@@ -1,10 +1,9 @@
 ambient
 idm
 electronic
-electronica
 experimental
 idm
-electronica
+electronic
 idm
 melancholy
 wonderful through headphones
@@ -20,6 +19,6 @@ downtempo
 idm
 instrumental
 noise
-trip-hop
+trip hop
 thick as fuck
 alsolike

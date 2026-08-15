@@ -9,7 +9,7 @@ deconstruction
 deep
 deep-electro
 drag
-electro
+electronic
 experimental
 frauen und technik
 hip-hop
@@ -19,7 +19,7 @@ neo-pop
 new electro
 new wave
 post-electroclash
-synthpop
+synth-pop
 witch chill
 witch-clash
 witch house
@@ -27,15 +27,13 @@ witch house
 ambient
 american
 avant-garde
-chillout
+chill out
 downtempo
 electronic
-electronica
 experimental
 idm
 lo-fi
 shoegaze
-best song ever
 electronic
 indie
 witch house

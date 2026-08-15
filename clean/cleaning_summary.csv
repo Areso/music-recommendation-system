@@ -13,15 +13,15 @@ friendships,directed rows,25434
 friendships,undirected edges,12717
 tags,raw tag IDs,11946
 tags,basic normalized keys,11801
-tags,final canonical keys in lookup,11658
-tags,used canonical tags,9468
-tags,approved review pairs merged,141
+tags,final canonical keys in lookup,11486
+tags,used canonical tags,9297
+tags,approved review pairs merged,321
 tags,approved review pairs kept separate,22
 tags,approved review pairs flagged,73
-tags,content-model eligible tags,3690
+tags,content-model eligible tags,3500
 tag assignments,raw events,186479
 tag assignments,orphan events removed from analysis,1538
 tag assignments,valid event rows,184941
-tag assignments,unique cleaned votes,183969
+tag assignments,unique cleaned votes,182133
 timestamps,pre-2005 anomalies retained,5
-content profile,artists with eligible profile,11842
+content profile,artists with eligible profile,11839

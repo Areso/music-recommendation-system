@@ -1,9 +1,7 @@
-seen live
 alternative
 rock
 alternative
 alternative rock
-love
 rock
 indie
 acoustic
@@ -20,7 +18,7 @@ piano rock
 alternative
 rock
 alternative
-chillout
+chill out
 love song
 piano
 tbu
@@ -33,7 +31,6 @@ alternative rock
 indie
 rock
 inlove
-quod me nutrit me destruit
 alternative
 rock
 alternative
@@ -42,4 +39,3 @@ piano
 piano rock
 alternative
 piano rock
-lovely

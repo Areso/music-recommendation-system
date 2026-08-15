@@ -1,4 +1,3 @@
-my angular favourites
 indie
 indie rock
 american
@@ -11,11 +10,8 @@ avant-garde
 experimental
 post-rock
 experimental
-seen live
 songs ive obsessed over
-favorite
 for work
-song
 indie
 indie
 post-rock

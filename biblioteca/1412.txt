@@ -1,7 +1,6 @@
 1970s
 classic rock
 progressive rock
-legend
 rock
 1970s
 classic rock
@@ -11,7 +10,6 @@ hard rock
 hard rock
 progressive rock
 california
-guilty pleasure
 rain
 classic rock
 classic rock
@@ -39,7 +37,6 @@ heavy metal
 classic rock
 acoustic
 alternative
-beautiful
 blues
 british
 classic rock
@@ -68,53 +65,38 @@ hard rock
 rock
 progressive rock
 rock
+1960s
 1969
 1970s
 1971
-60s
 70s rock
 acoustic
 alternative
-awesome
-awesome guitar jams
-awesomeness in the form of sound
-beautiful
 blues
 blues rock
 british
-chillout
+chill out
 classic
 classic rock
 cowbell
 drums
-epic
-favorite
-favourite songs
 folk
 folk rock
 guitar
-guitar god
 guitar virtuoso
 hard rock
 harmonica
 instrumental
 jimmy page
 led zeppelin
-led zeppelin tracks
-love
 male vocalist
 melancholic
 progressive rock
 psychedelic
 psychedelic rock
 rock
-rock and roll
 rock ballad
-rock n roll
-songs that make me sad in a good way
-things i like
-tolkien
-zeppelin
+rock'n'roll
 1970s
 classic rock
 guitar virtuoso
@@ -145,9 +127,8 @@ hard rock
 classic rock
 hard rock
 hard rock
-60s
+1960s
 classic rock
-the best rock band ive ever heard
 fucking epic
 1970s
 hard rock
@@ -186,15 +167,13 @@ psychedelic
 1970s
 aggressive
 classic
-male vocals
+male vocalist
 old school
-powerfull
+powerful
 classic rock
 alternative
-beautiful
 british
 folk
-genius
 powerful
 psychedelic
 old school
@@ -222,8 +201,6 @@ boa
 boa musica
 grande banda
 melhor banda do mundo
-muito boa mesmo
-tags
 hard rock
 rock
 british
@@ -231,19 +208,14 @@ classic rock
 hard rock
 heavy metal
 progressive rock
-rock and roll
-rock n roll
+rock'n'roll
 classic rock
 hard rock
 rock
 1970s
-led zeppelin - immigrant song
-led zeppelin - stairway to heaven
 progressive rock
 psychedelic rock
-i love my dad taste
 classic rock
-love
 1970s
 classic rock
 hard rock
@@ -272,9 +244,8 @@ progressive rock
 rock
 jukebox project
 70ss
-heavy blues rock
+1960s
 1970s
-60s
 acoustic
 blues
 blues rock
@@ -305,9 +276,9 @@ oldies
 progressive rock
 psychedelic
 psychedelic rock
-rock n roll
+rock'n'roll
+1960s
 1970s
-60s
 hard rock
 classic rock
 hard rock
@@ -324,7 +295,6 @@ alternative rock
 1970s
 classic rock
 led zeppelin
-epic
 other great tracks
 classic rock
 classic rock
@@ -332,7 +302,5 @@ blues rock
 classic rock
 1970s
 classic
-classic rock favorites
-epic
 blues rock
 uk

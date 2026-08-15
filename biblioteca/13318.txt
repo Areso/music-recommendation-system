@@ -1,7 +1,7 @@
 ambient
 eldad
 trumpet
-chillout
+chill out
 contemporary jazz
 downtempo
 electronic
@@ -10,5 +10,4 @@ fusion
 instrumental
 jazz
 jazz fusion
-favorite artist
 jazz fusion

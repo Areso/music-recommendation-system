@@ -1,7 +1,5 @@
 arabic
 gnawa
-gnawa diffusion
-gnawa tradition
 arabic
 africa
 african

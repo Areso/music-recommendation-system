@@ -1,11 +1,11 @@
 2000s
-brasil
+brazil
 female vocalist
 folk
 indie
 singer-songwriter
 folk
-brasil
+brazil
 brazilian
 female vocalist
 indie
@@ -26,11 +26,8 @@ lo-fi
 brazilian
 folk
 indie
-tchubaruba
 folk rock
 indie
-atoron
-seen live
 acoustic
 female vocalist
 singer-songwriter
@@ -38,10 +35,8 @@ mellow
 brazilian
 female vocalist
 folk
-seen live
 folk
 indie
-new folk
 acoustic
 brazilian
 folk

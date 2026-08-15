@@ -3,7 +3,7 @@ brazilian
 experimental
 jazz
 world
-brasil
+brazil
 composer
 experimental
 eldad

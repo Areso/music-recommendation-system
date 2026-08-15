@@ -1,11 +1,11 @@
+1960s
 1970s
+1980s
 1990s
 2000s
-60s
-80s
 blues
 british
-chillout
+chill out
 classic rock
 funk
 male vocalist
@@ -16,7 +16,7 @@ rock
 classic rock
 rock
 classic rock
-60s
+1960s
 classic rock
 blues
 blues rock
@@ -25,13 +25,13 @@ rock
 soul
 cover
 classic rock
-60s
+1960s
 rock
 1992
-80s
+1980s
 ballad
 blues
-rnb
+r'n'b
 the beatles
 blues
 classic rock

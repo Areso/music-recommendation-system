@@ -1,7 +1,5 @@
 alternative
-animals
 musical genres
-questions
-religion
+religious
 canadian
 rock

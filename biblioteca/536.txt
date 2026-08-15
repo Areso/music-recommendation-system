@@ -2,7 +2,6 @@ pop punk
 punk
 punk rock
 rock
-guilty pleasure
 pop punk
 punk rock
 rock
@@ -18,7 +17,6 @@ punk rock
 electronic
 punk rock
 rock
-funy
 punk rock
 pop punk
 punk
@@ -46,15 +44,13 @@ pop punk
 catchy
 punk rock
 punk rock
-good charlotte
 punk
 rock
 punk
 punk rock
 ex-love
-guilty pleasure
 loved tracks
-male vocals
+male vocalist
 memories
 punk rock
 rock
@@ -71,19 +67,16 @@ alternative
 male vocalist
 punk rock
 2000s
-awesome
 male vocalist
 not emo
 pop punk
 pop rock
-all time favorite
 punk
 punk rock
 rock
 alternative
 american
 male vocalist
-nice
 pop punk
 punk
 punk rock
@@ -104,7 +97,6 @@ punk rock
 rock
 alternative rock
 emo
-good charlotte
 pop rock
 punk
 punk rock
@@ -112,5 +104,4 @@ rock
 punk rock
 pop punk
 alternative rock
-electronica
-good charlotte
+electronic

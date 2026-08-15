@@ -13,7 +13,7 @@ hard rock
 jazz
 jazz rock
 progressive rock
-rock and roll
+rock'n'roll
 blues
 classic rock
 rock
@@ -34,7 +34,7 @@ guitar blues
 guitar virtuoso
 instrumental
 instrumental blues
-80s
+1980s
 classic rock
 melancholic
 romantic

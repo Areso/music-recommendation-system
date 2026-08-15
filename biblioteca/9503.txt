@@ -2,4 +2,4 @@ alternative
 dark wave
 indie
 new wave
-synthpop
+synth-pop

@@ -1,10 +1,8 @@
 classic rock
 folk
 singer-songwriter
-guilty pleasure
-outlaw country
 acoustic
-alt-country
+alternative country
 country
 country gospel
 cowboy
@@ -12,7 +10,7 @@ folk - folkrock - altcountry
 rockabilly
 singer-songwriter
 traditional country
-60s
+1960s
 american
 blues
 classic rock
@@ -20,7 +18,6 @@ folk
 male vocalist
 singer-songwriter
 country
-favorite song
 classic rock
 folk
 americana
@@ -29,8 +26,6 @@ folk
 acoustic
 country
 country
-and you wish you could hide
-sadjes
 folk
 singer-songwriter
 country
@@ -58,8 +53,6 @@ singer-songwriter
 classic rock
 country
 drinking
-great song
-my favorite
 the shield
 cover
 country
@@ -71,8 +64,6 @@ country
 folk
 rock
 western
-best christmas songs
-legend
 country
 country
 classic rock
@@ -81,10 +72,10 @@ singer-songwriter
 country
 folk
 rap
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -98,20 +89,15 @@ johnny cash
 old but good
 acoustic
 classic rock
-rock n roll
+rock'n'roll
 singer-songwriter
-50s
+1950s
 folk
 songwriter
 country
 cover
-beautiful
-bitter sweet
-i melted
-love at first listen
+bittersweet
 memories
-mine
-songs i absolutely love
 tiger
 blues rock
 johnny cash

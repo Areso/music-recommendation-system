@@ -1,5 +1,4 @@
 alternative
-electro
 electronic
-electropop
+electronic-pop
 indie

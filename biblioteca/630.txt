@@ -1,7 +1,6 @@
 classic rock
 singer-songwriter
 classic rock
-guilty pleasure
 album rock
 folk rock
 hard rock
@@ -11,11 +10,11 @@ folk rock
 singer-songwriter
 classic rock
 rock
+1960s
 1970s
+1980s
 1990s
 2000s
-60s
-80s
 classic rock
 country
 rock
@@ -33,7 +32,7 @@ rock
 singer-songwriter
 classic rock
 rock
-alt-country
+alternative country
 classic rock
 folk
 folk rock
@@ -42,12 +41,10 @@ rock
 singer-songwriter
 classic rock
 folk rock
-neil young
 rock
 singer-songwriter
 classic rock
 rock
-optimistic view while experiencing pessimism
 classic rock
 singer-songwriter
 guitar solo
@@ -62,22 +59,17 @@ rock
 1970s
 singer-songwriter
 rock
-60s
-best songs in the world
-legend
+1960s
 movie songs
 aman tanrim
 bi daha dinlicem
 classic rock
 folk
 folk rock
-old man
 sxsw2006
 classic rock
 folk rock
 singer-songwriter
-favorite
-favorite artist
 folk
 mellow
 folk

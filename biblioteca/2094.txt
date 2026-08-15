@@ -10,26 +10,23 @@ j-pop
 k-pop
 korean
 kpop dance
-rnb
+r'n'b
 vocal
-whip my hair
 j-pop
 k-pop
 dance
-favorite
 female vocalist
 j-pop
 k-pop
 pop
 electronic
-80s
+1980s
 electronic
 house
 urban
 catchy
 dance
 korean
-sexy
 boa
 pop
 female vocalist
@@ -45,8 +42,6 @@ j-music
 j-pop
 japanese music
 jmusic
-jpop
-amazing
 female
 female vocalist
 pop
@@ -63,12 +58,10 @@ j-pop
 japanese
 asian
 female vocalist
-japanese pop
+j-pop
 k-pop
 korean
-kpop
 pop
-rnb
-sexy
+r'n'b
 weekly top tracks
 j-pop

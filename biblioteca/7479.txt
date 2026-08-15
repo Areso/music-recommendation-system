@@ -3,8 +3,8 @@ electronic
 broken-clash
 chill witch
 chillwave
-electro
 electroclash
+electronic
 in the chillwave family
 in the witch house family
 neo-electro
@@ -16,7 +16,6 @@ witch house
 10s
 2000s
 electronic
-electronica
 experimental
 lo-fi
-synthpop
+synth-pop

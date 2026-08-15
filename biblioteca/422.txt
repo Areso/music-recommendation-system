@@ -1,15 +1,14 @@
 alternative
-brasil
+brazil
 brazilian
 mpb
 brazilian
 rock
 alternative
-brasil
+brazil
 brazilian
 mpb
-brasil
-seen live
+brazil
 brazilian
 samba
 alternative rock
@@ -18,7 +17,6 @@ folk
 indie
 indie rock
 relax
-relaxing
 jazz
 lounge
 soul

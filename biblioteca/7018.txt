@@ -1,20 +1,17 @@
 ambient
 ambient
-chillout
+chill out
 downtempo
 electronic
-electronica
 experimental
 noise
 ambient
-chillout
+chill out
 dark
 dark ambient
 deep
 downtempo
-electro
 electronic
-electronica
 idm
 minimal
 psychedelic
@@ -24,7 +21,7 @@ relax
 trance
 ambient
 downtempo
-chillout
+chill out
 ethnic chill
 mellow
 world fusion

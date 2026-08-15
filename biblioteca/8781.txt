@@ -1,7 +1,7 @@
 trance
-chillout
+chill out
 dance
-electronica
+electronic
 house
 progressive trance
 techno
@@ -11,18 +11,17 @@ dance
 techno
 vocal trance
 club
-electronica
+electronic
 energetic
 beat
 progressive trance
 dance
 electronic
-electronica
 house society
 romantic
 techno
 trance
 trance
-electronica
+electronic
 trance
 urban

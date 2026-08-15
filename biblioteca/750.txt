@@ -5,23 +5,21 @@ horns
 singer-songwriter
 soul
 1970s
-rb
+r'n'b
 setenta
 seventies
-rnb
-beautiful
+r'n'b
 blues
 funk
 jazz
-love
-rnb
+r'n'b
 sad
 singer-songwriter
 soul
 funk
 singer-songwriter
 soul
-60s
+1960s
 classic rock
 oldies
 soul
@@ -36,4 +34,3 @@ male vocalist
 soul
 soul
 soul
-favorite song

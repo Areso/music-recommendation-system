@@ -7,7 +7,6 @@ alternative
 classic rock
 psychedelic
 rock
-my fav fun
 experimental rock
 proto-punk
 classic rock
@@ -17,13 +16,13 @@ classic rock
 proto-punk
 psychedelic
 rock
+1960s
 1970s
-60s
 classic rock
 psychedelic
 classical
 psychedelic
-60s
+1960s
 alternative
 avant-garde
 experimental
@@ -41,7 +40,7 @@ psychedelic
 psychedelic rock
 soundtrack
 alternative
-avantgarde
+avant-garde
 classic rock
 new wave
 psychedelic
@@ -49,13 +48,12 @@ rock
 viking quest
 art rock
 experimental rock
-60s
+1960s
 alternative
 classic rock
 rock
 alternative
 classic rock
-classic sixties
 psychedelic
 dream pop
 dreamy
@@ -69,11 +67,8 @@ proto-punk
 psychedelic
 rock
 alternative
-cool
-demais
 noise
 psychedelic
-favorite
 alternative
 experimental
 proto-punk
@@ -83,16 +78,14 @@ rock
 rock
 classic rock
 guitar solo
-the velvet underground
 psychedelic
 all the best
-best songs of the 60s
-60s
+1960s
 classic rock
 mellow
 psychedelic
+1960s
 1970s
-60s
 alternative
 american
 classic rock
@@ -108,7 +101,7 @@ spiritual
 alternative
 proto-punk
 1970s
-80s
+1980s
 psychedelic
 classic rock
 classic rock
@@ -122,16 +115,13 @@ punk
 rock
 alternative
 alternative rock
-brilliant
 classic
 classic rock
 experimental
-fun
 oldies
 psychedelic
 psychedelic rock
-rock and roll
-rock n roll
+rock'n'roll
 1970s
 avant-garde
 rock
@@ -141,11 +131,11 @@ classic rock
 classic rock
 psychedelic rock
 rock
+1960s
 1970s
-60s
 other great tracks
 art rock
 psychedelic
-60s
+1960s
 psychedelic
 usa

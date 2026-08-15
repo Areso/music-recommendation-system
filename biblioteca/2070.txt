@@ -1,7 +1,7 @@
 italian
 rock
+1980s
 1990s
-80s
 cantautore
 cantautori
 italian rock
@@ -12,4 +12,3 @@ italian
 italian
 pop
 rock
-vasco

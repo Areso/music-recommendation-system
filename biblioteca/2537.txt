@@ -3,7 +3,7 @@ alternative
 experimental
 lo-fi
 rock
-britpop
+brit pop
 singer-songwriter
 lo-fi
 alternative
@@ -14,5 +14,5 @@ lo-fi
 male vocalist
 singer-songwriter
 britpop 90s generation
-britpop
+brit pop
 heartbroke

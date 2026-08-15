@@ -10,7 +10,6 @@ indie
 rock
 singer-songwriter
 alternative rock
-beautiful
 british
 female vocalist
 indie
@@ -38,28 +37,24 @@ singer-songwriter
 aana
 acoustic
 british
-cool
 descoperiri
 female vocalist
 indie rock
-love it
 alternative
 anti-folk
 barkbarkdisco
 jeffrey lewis
-favorite
 female vocalist
 queer as folk
 female vocalist
 cesar
-riot grrl
+riot grrrl
 alternative
 female vocalist
 rock
 singer-songwriter
 alternative rock
 indie rock
-seen live
 singer-songwriter
 1990s
 2000s
@@ -72,10 +67,10 @@ singer-songwriter
 female vocalist
 alsolike
 rock
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -90,15 +85,9 @@ female vocalist
 alternative
 alternative rock
 atmospheric
-awesome
-beautiful
-brilliant
 british
-cool
-genius
 indie
 indie rock
-perfect
 piano
 progressive rock
 rock
@@ -114,7 +103,6 @@ riot grrrl
 british
 female vocalist
 cover
-seen live
 rock
 british
 female vocalist

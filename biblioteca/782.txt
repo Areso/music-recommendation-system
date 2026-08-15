@@ -1,7 +1,5 @@
 chef musinum
-electro
 electronic
-electronica
 experimental
 lostfreeq
 new beat
@@ -10,9 +8,9 @@ deep
 downtempo
 psychedelic
 ambient
-chillout
+chill out
 psychill
-chillout
+chill out
 downtempo
 electronic
 psychill

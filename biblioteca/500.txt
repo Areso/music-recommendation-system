@@ -24,7 +24,7 @@ emo
 hard rock
 hardcore
 metal
-screamo
+scream
 metal
 metalcore
 hardcore
@@ -32,12 +32,11 @@ hardcore
 emo
 hardcore
 metalcore
-screamo
+scream
 emocore
 metal
-screamo
+scream
 metal
-seen live
 heavy metal
 metal
 metalcore
@@ -45,14 +44,10 @@ hardcore
 metalcore
 emocore
 metalcore
-seen live
-bullet for my valentine
-emo-metalcore
 metalcore
 good bands
 the fucking best
 acoustic
-awesome
 heavy metal
 male vocalist
 melodic hardcore
@@ -62,8 +57,7 @@ not emo
 nu metal
 romantic
 metalcore
-screamo
-0 play yet
+scream
 metalcore
 metalcore
 metalcore
@@ -74,8 +68,7 @@ metalcore
 heavy metal
 alternative
 metalcore
-screamo
+scream
 metalcore
-love at first listen
 post-hardcore
 pretty fucking awesome

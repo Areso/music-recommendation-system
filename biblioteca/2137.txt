@@ -1,16 +1,14 @@
 alternative
-electro pop
 electronic
+electronic-pop
 indie pop
 indie rock
 rock
 indie
 indie
-synth indie rock
 alternative
 electronic
 indie
-seen live
 2000s
 british
 electronic
@@ -19,23 +17,20 @@ indie pop
 alternative
 electronic
 indie
-electropop
+electronic-pop
 indie rock
-seen live
-electropop
+electronic-pop
 indie pop
 alternative
 british
 electronic
 indie
-synth indie rock
 indie
 alternative
 british
 electronic
 indie
 rock
-synth indie rock
 british
 indie rock
 british
@@ -43,7 +38,7 @@ electronic
 indie
 alternative
 electronic
-electropop
+electronic-pop
 indie
 indie rock
 pop
@@ -51,15 +46,13 @@ pop
 2000s
 british
 electronic
-electronica
 indie
+indie electronic
 indie pop
 indie rock
-indietronica
 male vocalist
 2010
 alternative rock
-awesome
 dance
 electronic
 happy

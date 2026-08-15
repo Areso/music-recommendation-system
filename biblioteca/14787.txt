@@ -1,6 +1,5 @@
 ballad
 dance
 disco
-eletropop
-kt
+electronic-pop
 party

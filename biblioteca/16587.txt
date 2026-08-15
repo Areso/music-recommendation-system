@@ -3,4 +3,4 @@ folk
 hip
 rock
 solo
-talent
+talented

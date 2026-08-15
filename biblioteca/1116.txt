@@ -8,7 +8,7 @@ alternative
 alternative rock
 indie
 rock
-kickass
+kick ass
 chills
 indie
 alternative rock
@@ -52,7 +52,6 @@ rock
 1990s
 alternative rock
 better than metallica
-favorite song
 funk metal
 good bands
 alternative
@@ -60,20 +59,15 @@ alternative rock
 rock
 miscellaneous
 american
-chillout
-love
+chill out
 romantic
-dig
 silversun pickups
-sunday drive time
 pop
 rock
 alternative
 alternative rock
-fave
 rock
 alternative
-favorite song
 mellow
 rock
 seen in concert
@@ -89,7 +83,6 @@ rock
 1990s
 90s rock
 american
-favorite
 incubus
 rock
 1990s
@@ -97,4 +90,4 @@ alternative rock
 funk
 post-grunge
 rock
-chillout
+chill out

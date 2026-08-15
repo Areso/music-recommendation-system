@@ -4,4 +4,3 @@ cover
 marisa mix
 punk
 punk
-awesome-ness

@@ -2,19 +2,17 @@ oni pout
 true synthpop
 artists
 duran duran
-favorite
 duran duran
-electro
-nicky rhodes
+electronic
 pop
 dd solo
 electronic
-synthpop
+synth-pop
 british
 duran duran
 electronic
 pop
-synthpop
+synth-pop
 british
 english
 electronic

@@ -1,14 +1,11 @@
 electronic
-electronica
 soundtrack
 antonio zitarelli
 avant-garde
 blues
 carlo conti
 indie
-italia
 italian
-italiana
 italy
 jazz
 jazz core
@@ -22,5 +19,4 @@ steve albini
 steve piccolo
 thrangh
 underground
-zach galifianakis
 zu

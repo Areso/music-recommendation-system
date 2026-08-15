@@ -2,7 +2,6 @@ alternative
 british
 dance
 electronic
-electronica
 female
 female vocalist
 indie
@@ -12,18 +11,14 @@ pop
 electronic
 interesting
 electronic
-my electro feelings
 neon space
 dance
-electro
-electropop
+electronic
+electronic-pop
 female vocalist
 triple j
-cool
-fun
 alternative
 electronic
 female vocalist
 indie
 indie rock
-mine

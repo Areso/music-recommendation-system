@@ -5,24 +5,15 @@ classical
 classical
 instrumental
 classical
-beautiful
 classical
 instrumental
 classical
-au temps des favorites
 ballad
 chanson
-check out
 european
 european music
-favorite
-favorite album
-guilty pleasure
-light
-love
 love song
 loved
-lovesongs
 melodic
 piano
 romantic
@@ -36,14 +27,12 @@ romantic
 classic
 instrumental
 piano
-chillout
+chill out
 instrumental
 piano
 classical
 deutsch
 instrumental
-makes me want to die in the good way
-music
 piano
 classical
 instrumental
@@ -74,7 +63,6 @@ classical
 classic
 classical
 composer
-genius
 instrumental
 orchestral
 piano

@@ -2,11 +2,11 @@ addictive
 catchy
 dance
 electronic
-electropop
+electronic-pop
 female vocalist
 k-pop
 dance-pop
-electropop
+electronic-pop
 pop
 teen pop
 2009
@@ -14,4 +14,3 @@ dance
 female vocalist
 k-pop
 korean
-kpop

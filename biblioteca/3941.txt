@@ -1,10 +1,7 @@
 1982
 1985
-fav artists
-fav song
 instrumental
-new wave artists
-new wave songs
+new wave
 alternative dance
 new romantic
 post-punk
@@ -12,10 +9,10 @@ alternative
 instrumental
 new wave
 post-punk
-80s
+1980s
 new wave
-80s
+1980s
 post-punk
 scottish
-80s
+1980s
 new wave

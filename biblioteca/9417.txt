@@ -6,6 +6,6 @@ simon
 wca
 retro
 soundtrack
+1960s
 1970s
-60s
-80s
+1980s

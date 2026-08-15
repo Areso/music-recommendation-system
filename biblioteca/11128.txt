@@ -8,7 +8,7 @@ ambient
 dark
 dark ambient
 dub
-electro
+electronic
 idm
 minimal
 techno

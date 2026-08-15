@@ -8,7 +8,6 @@ dark
 female vocalist
 indie
 rock
-sexy
 creep
 gothic
 dark cabaret
@@ -21,7 +20,7 @@ industrial
 electronic
 industrial rock
 dark wave
-goth
+gothic
 female vocalist
 metal
 alternative
@@ -31,15 +30,12 @@ gothic
 gothic rock
 female vocalist
 gothic
-goth
+gothic
 industrial
 industrial metal
 instrumental
 prejebeno
-sinth
-victoriandustrial
 violin
-violindustrial
 female vocalist
 gothic
 2000s
@@ -56,14 +52,10 @@ gothic
 gothic rock
 gothic
 gothic
-victorian industrial
 cover
 alternative
 englisch
 female vocalist
 gothic
 violin
-love at first listen
-mine
 sanna
-gothic industrial

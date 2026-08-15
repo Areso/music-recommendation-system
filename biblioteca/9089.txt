@@ -1,6 +1,6 @@
 anime
 female vocalist
-electronica
+electronic
 j-pop
 japanese
 anime
@@ -12,4 +12,3 @@ j-pop
 j-rock
 japan
 japanese
-jpop

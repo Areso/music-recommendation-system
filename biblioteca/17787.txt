@@ -6,9 +6,6 @@ rock
 <3
 alternative rock
 canadian
-cool
-favorite
-good
 happy
 rock
 romantic

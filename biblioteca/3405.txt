@@ -1,7 +1,6 @@
 dreamy
-fave
 atmospheric rock
-darkwave
+dark wave
 gothic
 ambient
 progressive rock
@@ -13,7 +12,7 @@ melancholic
 acoustic
 alternative
 ambient
-trip-hop
+trip hop
 alternative
 doom metal
 progressive rock

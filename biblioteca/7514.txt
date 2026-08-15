@@ -1,7 +1,6 @@
 ebm
-electro
+electro punk
 electronic
-electropunk
 brett
 electro-industrial
 ebm
@@ -9,5 +8,5 @@ electronic
 electronic
 2000s
 ebm
-electro
+electronic
 industrial

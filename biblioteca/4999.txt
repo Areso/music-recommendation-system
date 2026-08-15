@@ -1,8 +1,8 @@
 british
 indie
-britpop
+brit pop
 mod
-britpop
+brit pop
 baggy
 colors
 days
@@ -13,9 +13,8 @@ rock
 1990s
 alternative
 alternative rock
+brit pop
 british
-britpop
-fun
 indie
 indie rock
 rock

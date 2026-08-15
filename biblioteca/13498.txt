@@ -1,12 +1,9 @@
 ambient
-chillout
+chill out
 downtempo
-electronica
-enstrumental
+electronic
 ethnic
-etnik
 experimental
-fight club
 independent
 indie
 instrumental
@@ -19,7 +16,7 @@ world music
 ambient
 electronic
 ambient
-chillout
+chill out
 downtempo
 electronic
-trip-hop
+trip hop

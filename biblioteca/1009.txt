@@ -8,7 +8,6 @@ electronic
 trance
 dance
 electronic
-electronica
 house
 progressive trance
 techno
@@ -23,7 +22,6 @@ electronic
 trance
 dance
 techno
-cool
 dance
 trance
 dance
@@ -31,8 +29,6 @@ electronic
 dance
 electronic
 trance
-tiesto
-tiesto - cary brothers - ride
 trance
 instrumental
 electronic
@@ -45,14 +41,13 @@ dance
 electronic
 pop
 electronic
-faggotari
 dance - trance
 electronic
 trance
 vocal trance
 electronic
 techno
-electronica
+electronic
 techno
 trance
 progressive trance

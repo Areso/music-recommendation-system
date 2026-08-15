@@ -1,11 +1,11 @@
 electronic
 alternative dance
-britpop
+brit pop
 indie pop
 female vocalist
 indie pop
 british
-electronica
+electronic
 indie pop
 pop
 cover
@@ -19,7 +19,6 @@ dance
 demo
 edit
 electronic
-fave
 female
 female vocalist
 indie
@@ -36,7 +35,7 @@ dream pop
 1990s
 ambient
 atmospheric drum and bass
-chillout
+chill out
 classic house
 dance
 downtempo
@@ -46,4 +45,4 @@ house
 indie rock
 pop
 techno
-trip-hop
+trip hop

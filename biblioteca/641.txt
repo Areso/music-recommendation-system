@@ -3,13 +3,10 @@ female vocalist
 latin
 melancholic
 pop
-favorite
-love
 sad
 pop
 female vocalist
 italian
-laura pausini
 pop
 female vocalist
 italian
@@ -31,4 +28,3 @@ pop
 corta venas
 dedicadas
 depre
-seen live

@@ -10,10 +10,10 @@ new wave
 irish
 new wave
 rock
-80s
+1980s
 acoustic rock
 alternative
-britpop
+brit pop
 grunge
 indie
 indie pop
@@ -23,8 +23,7 @@ post-punk
 rock
 singer-songwriter
 u2
-80s
+1980s
 new wave
 punk
 rock
-epic

@@ -1,3 +1,2 @@
 country
-favorite
 soundtrack

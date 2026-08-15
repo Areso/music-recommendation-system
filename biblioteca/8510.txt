@@ -7,7 +7,7 @@ techno
 descoperiri
 idm
 minimal
-electronica
+electronic
 idm
 techno
 avant-garde
@@ -16,8 +16,8 @@ deconstruction
 deep-clash
 deepclash
 drag
-electro
 electroclash
+electronic
 idm
 neo-electro
 witch house

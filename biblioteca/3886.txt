@@ -1,6 +1,6 @@
 zadrotstvo
 ambient
-chillout
+chill out
 classic
 classical
 dark ambient
@@ -26,7 +26,6 @@ soundtrack
 turkce
 turkish
 1990s
-fave
 instrumental
 soundtrack
 eldad
@@ -36,8 +35,8 @@ movie songs
 chillwave
 in the chillwave family
 witch house
+1980s
 1990s
-80s
 avant-garde
 blues
 downtempo
@@ -46,7 +45,7 @@ jazz
 lounge
 psychedelic
 ambient
-chillout
+chill out
 ambient
 instrumental
 jazz

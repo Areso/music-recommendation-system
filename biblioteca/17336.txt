@@ -1,5 +1,4 @@
 africa
-alger
 algeria
 ambient
 amor
@@ -8,7 +7,6 @@ berber
 desert
 folk
 kabyle
-love
 maghreb
 marrakech
 north africa

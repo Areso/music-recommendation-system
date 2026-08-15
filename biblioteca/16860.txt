@@ -1,6 +1,6 @@
 alternative
 ambient
-chillout
+chill out
 dance
 drums
 electronic
@@ -16,11 +16,9 @@ world
 ambient
 downtempo
 electronic
-electronica
 indian
 world
-amazing
-chillout
+chill out
 dreamy
 fascinating
 world

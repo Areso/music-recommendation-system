@@ -1,4 +1,4 @@
-electronica
+electronic
 french
 alternative
 catchy
@@ -6,13 +6,11 @@ gossip girl
 indie
 indie pop
 indie rock
-love at first listen
 indie
 electronic
 indie
 indie pop
 rock
-seen live
 electronic
 indie pop
 rock
@@ -22,15 +20,13 @@ indie
 electronic
 indie
 classic rock
-folk prog
 hard prog
 hard rock
 progressive rock
-rock and roll
+rock'n'roll
 indie
 indie pop
 indie pop
-seen live
 alternative rock
 indie pop
 indie rock
@@ -40,9 +36,9 @@ optimistic
 catchy
 feel good
 quiet
-relaxing
+relax
 danceable
-electro
+electronic
 french
 soundtrack
 electronic
@@ -52,7 +48,6 @@ french
 indie pop
 rock
 six feet under soundtrack
-prog folk romania
 progressive folk
 progressive rock
 indie
@@ -61,31 +56,24 @@ alternative
 alternative
 indie pop
 rock
-seen live
 alternative
 alternative rock
 dance
 disco
 electronic
-electronica
-electropop
+electronic-pop
 indie
+indie electronic
 indie pop
 indie rock
-indietronica
 pop
 rock
 indie
 indie-romantic
-beautiful
-brilliant
-cool
 electronic
 indie rock
-lovely
 mellow
-relaxing
-sweet
+relax
 french
 dance
 electronic

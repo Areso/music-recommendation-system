@@ -19,10 +19,9 @@ ethereal
 experimental
 indie
 shoegaze
-trip-hop
+trip hop
 bark
 barkbarkdisco
-favorite
 1990s
 ambient
 shoegaze
@@ -35,7 +34,6 @@ female vocalist
 indie
 indie rock
 ambient
-chillout
-favorite
+chill out
 melancholy
 shoegaze

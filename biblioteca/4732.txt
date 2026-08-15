@@ -1,32 +1,28 @@
 electroclash
-synthpop
-electro
+synth-pop
 electroclash
+electronic
 house
 alternative
-chillout
+chill out
 dance
-electro
 electronic
-synthpop
-trip-hop
+synth-pop
+trip hop
 alternative
-electro
+electronic
 indie
-synthpop
-favorite
+synth-pop
 dance
 electronic
 mellow
 piano
-sexy
 tyler adam
-fischerspooner
 dance
-electro
-electro
+electronic
 electroclash
-electropop
+electronic
+electronic-pop
 indie
 performance
 2000s
@@ -34,13 +30,11 @@ lyrics
 electronic
 beat
 dance party
-electro
-fun
-love at first listen
+electronic
 new york
 quirky
 american
-synth pop
+synth-pop
 electronic
 avant-garde
 chillwave
@@ -49,14 +43,11 @@ dark disco
 deconstruction
 deep-electro
 deepclash
-e-l-e-c-t-r-o
 neo-pop
 electronic
-my electro feelings
 electronic
-electronica
-seen live
+electronic
 dance
-synthpop
+synth-pop
 electronic
 other great tracks

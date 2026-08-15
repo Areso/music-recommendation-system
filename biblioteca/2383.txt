@@ -3,7 +3,6 @@ metal
 metalcore
 nu metal
 russian alternative
-seen live
 alternative
 modern metal
 nu metal
@@ -13,8 +12,6 @@ alternative
 emo
 nu metal
 female vocalist
-emofuck
-xyuta
 metalcore
 alternative rock
 metalcore
@@ -22,5 +19,4 @@ nu metal
 russian alternative
 metalcore
 metalcore
-seen live
 russia

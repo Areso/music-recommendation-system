@@ -4,17 +4,16 @@ german
 trance
 trance
 ambient
-chillout
+chill out
 club
 dance
-electro
 electronic
 house
 trance
 club
 cover
 male
-chillout
+chill out
 eurodance
 german
 house
@@ -28,12 +27,10 @@ electronic
 german
 techno
 trance
-electronica
+electronic
 dance
 trance
 <3
-atb
-awesome track
 dance
 electronic
 dance
@@ -44,7 +41,7 @@ vocal trance
 dance
 electronic
 trance
-chillout
+chill out
 dance
 electronic
 techno
@@ -52,7 +49,7 @@ trance
 vocal trance
 special
 dance
-chillout
+chill out
 dance
 progressive house
 progressive trance
@@ -62,7 +59,6 @@ trance
 dance
 electronic
 german
-seen live
 dance
 trance
 rafa
@@ -74,5 +70,4 @@ vocal trance
 dance
 electronic
 trance
-atb
 paul oakenfold

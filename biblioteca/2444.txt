@@ -4,8 +4,7 @@ american
 marisa mix
 singer-songwriter
 1990s
-rb
-my 500 essential songs
+r'n'b
 album rock
 soft rock
 american
@@ -14,9 +13,8 @@ new york
 classic rock
 piano
 singer-songwriter
-bronx
 singer-songwriter
-80s
+1980s
 1970s
 1983
 pop
@@ -29,9 +27,8 @@ american
 male vocalist
 singer-songwriter
 storytelling
-masterpiece
 classic
-80s
+1980s
 acoustic
 classic rock
 male vocalist
@@ -43,7 +40,7 @@ soundtrack
 american
 classic rock
 rock
-80s
+1980s
 rock
 ragtime
 progressive rock

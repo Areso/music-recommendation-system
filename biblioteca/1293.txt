@@ -1,12 +1,12 @@
 ebm
 german
-synthpop
+synth-pop
 futurepop
-synthpop
+synth-pop
 ebm
 electronic
 ebm
 electronic
 futurepop
 industrial
-synthpop
+synth-pop

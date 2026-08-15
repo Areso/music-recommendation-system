@@ -1,5 +1,4 @@
 doom
-doomviolence
 evil
 grindcore
 powerviolence

@@ -1,17 +1,17 @@
-80s
+1980s
 ska
 ska punk
 ska revival
 ska
 two-tone
-80s
+1980s
 british
 new wave
 reggae
 ska
 ska
 ska revival
-80s
+1980s
 british
 punk
 reggae
@@ -21,7 +21,7 @@ punk
 reggae
 ska
 two-tone
-80s
+1980s
 ska
 ska
 two-tone
@@ -35,10 +35,10 @@ mod
 sex
 ska
 transport
-80s
+1980s
 ska
+1980s
 2 tone
-80s
 british
 english
 ska
@@ -49,7 +49,6 @@ ska
 two-tone
 uk
 life on mars
-outsiders
 ska
 british
 new wave and eighties

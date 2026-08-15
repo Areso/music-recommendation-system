@@ -8,4 +8,3 @@ instrumental
 classical
 cuerdas
 classical
-franz schubert

@@ -1,28 +1,24 @@
 british artists
-fav artists
-new wave artists
-beautiful sounds
+new wave
 dark
-80s
+1980s
 new wave
 dance-pop
-80s
+1980s
 new wave
 pop
-synthpop
+synth-pop
 artists
 duran duran
-favorite
 oriental
-80s
-electro pop
+1980s
+electronic-pop
 new romantic
 new wave
-80s
-i want back to the 80s
+1980s
 new romantic
 new wave
-80s
+1980s
 british
 hot
 new romantic
@@ -32,19 +28,16 @@ stylish
 duran duran
 duran duran
 experimental
-fave
 instrumental
 remix
 slowies
-80s
+1980s
 english
-favorite
-80s
+1980s
 new romantic
 new wave
-synth pop
-synthpop
-80s
+synth-pop
+1980s
 pop
 babs
 bad day
@@ -59,7 +52,7 @@ roy
 tula
 wally
 modern-classic
-80s
+1980s
 duran duran
 new wave
 new wave and eighties

@@ -1,9 +1,8 @@
-electronica
+electronic
 new age
 progressive rock
 ambient
 electronic
-electronica
 electronic
 instrumental
 progressive rock
@@ -19,17 +18,17 @@ instrumental
 japanese
 krautrock
 new age
-remixed
+remix
 soundtrack
-80s
+1980s
 alternative
 atmospheric
 electronic
 instrumental
 new wave
 pop
-synthpop
-electronica
+synth-pop
+electronic
 ladytronica
 relaxing muscles
 ambient
@@ -38,14 +37,13 @@ ambient
 electronic
 ambient
 ambient
-chillout
+chill out
 electronic
-electronica
 experimental
 instrumental
 ambient
 experimental
 space rock
-electronica
+electronic
 soundtrack
 electronic

@@ -27,16 +27,15 @@ composer
 italian
 piano
 ambient
-beautiful
 instrumental
 piano
-relaxing
+relax
 classical
 instrumental
 piano
 classical
 ambient
-chillout
+chill out
 classical
 instrumental
 italian

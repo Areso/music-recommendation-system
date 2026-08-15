@@ -7,7 +7,6 @@ rock
 indie rock
 swedish
 acoustic
-awesome
 indie
 indie rock
 rock
@@ -17,7 +16,6 @@ indie rock
 rock
 swedish
 garage rock
-best indie ever
 garage rock
 indie rock
 swedish
@@ -25,9 +23,8 @@ alternative
 indie rock
 dance with somebody
 2000s
-rock n roll
+rock'n'roll
 soundtrack
-indie balladen
 indie rock
 melancholy
 indie
@@ -52,7 +49,6 @@ indie rock
 rock
 acoustic
 alternative rock
-amazing
 dance
 dreamy
 indie

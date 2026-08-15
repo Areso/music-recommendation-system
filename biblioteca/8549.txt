@@ -1,8 +1,8 @@
 album rock
 power pop
 soft rock
+1960s
 1970s
-60s
 british
 classic rock
 british
@@ -14,7 +14,7 @@ british
 welsh
 1970s
 classic rock
-rock and roll
+rock'n'roll
 soft rock
 1970s
 classic rock

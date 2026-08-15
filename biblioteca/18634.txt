@@ -1,5 +1,4 @@
-goth
-goth rock
+gothic
 gothic rock
 10s
 broken-clash
@@ -11,4 +10,3 @@ british
 new wave
 post-punk
 shoegaze
-awesome

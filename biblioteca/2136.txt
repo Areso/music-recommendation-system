@@ -24,7 +24,6 @@ singer-songwriter
 chanson francaise
 french
 singer-songwriter
-animals
 cars
 colors
 food
@@ -35,7 +34,7 @@ chanson francaise
 riot boii
 french
 1970s
-80s
+1980s
 downtempo
 electronic
 jazz
@@ -47,7 +46,7 @@ pop
 singer-songwriter
 french
 friends
-60s
+1960s
 french
 french pop
 france

@@ -15,9 +15,9 @@ soul
 diva
 blues
 blues
-chillout
+chill out
 funk
-rnb
+r'n'b
 sad
 soul
 jazz
@@ -46,10 +46,8 @@ chill
 female vocalist
 mellow
 neo-soul
-sexy
 soul
 female vocalist
-beautiful
 british
 defiant
 female vocalist
@@ -60,7 +58,6 @@ women
 amy winehouse
 pop
 <3
-amazing
 female vocalist
 soul
 blues
@@ -71,7 +68,6 @@ jazz
 soul
 as
 diva
-tags
 soul
 british
 female vocalist
@@ -89,7 +85,6 @@ jazz
 politeconomist realife soundtrack
 singer-songwriter
 soul
-awesome
 british
 funk
 soul
@@ -111,13 +106,11 @@ soul
 2000s
 soul
 the best songs of the world
-beautiful
 british
 female vocalist
-relaxing
+relax
 soul
 female vocalist
-albums i own
 english
 female
 soul
@@ -130,8 +123,7 @@ soul
 good mood music
 good mood songs
 jazz
-kickass
-want to see live
+kick ass
 british
 female vocalist
 funk
@@ -143,23 +135,16 @@ female vocalist
 soul
 ich liebe dich
 jazz
-favourite female artists
 jazz
 soul
 soul
-amazing
-rnb
+r'n'b
 soul
 british
-awesome
 british
 can't live without
-favorite
-favorite artist
-favorite song
 female vocalist
 jazz
-love
 pop
 soul
 pop
@@ -169,14 +154,13 @@ jazz
 singer-songwriter
 soul
 q sexy
-riot grrl
+riot grrrl
 british
 female vocalist
 jazz
 pop
 soul
 british
-fave
 female vocalist
 funk
 jazz
@@ -193,36 +177,22 @@ jazz
 soul
 acoustic
 alternative
-amazing
 ambient
 atmospheric
-awesome
-beautiful
-brilliant
 british
-chillout
-cool
+chill out
 cute
 dance
 dreamy
-epic
 folk
 fucking awesome
-fun
-genius
 happy
 indie
-love at first listen
-lovely
 mellow
-perfect
 relax
-relaxing
 rock
 sad
 singer-songwriter
-songs i absolutely love
-sweet
 uk
 rehab
 soul
@@ -231,7 +201,7 @@ soul
 jazz
 pop
 female vocalist
-powerfull voices
+powerful voice
 weekly top artists
 weekly top tracks
 british

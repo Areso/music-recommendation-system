@@ -1,13 +1,11 @@
 ebm
 futurepop
 italian
-electro
 electronic
-synthpop
+synth-pop
 techno
 trance
 ebm
-xp8 ebm futurepop
 futurepop
 ebm
 dance
@@ -19,17 +17,13 @@ ebm
 electronic
 futurepop
 industrial
-synthpop
-synthpop
-chillout
+synth-pop
+synth-pop
+chill out
 ebm
-electro
 electronic
-electronica
-favorite
 friends
 industrial
 italian
-seen live
 techno
 trance

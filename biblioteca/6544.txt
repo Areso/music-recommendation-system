@@ -1,38 +1,32 @@
 electronic
-electronica
-electropop
+electronic-pop
 indie
 dance-pop
-synth pop
+synth-pop
 electronic
-electronica
-fun
 indie
 new wave
 quirky
-synthpop
+synth-pop
 trance
-synthpop
-electro
+synth-pop
 electroclash
 electronic
-electronica
-electropop
+electronic-pop
 indie
-synth pop
-synthpop
+synth-pop
 cover
-electro
-electro pop
 electroclash
 electronic
-synthpop
+electronic-pop
+electronic
+synth-pop
 female vocalist
-electropop
+electronic-pop
 neon space
 oh electropop
 bliss
 dream pop
 dreampop
 female vocalist
-synthpop
+synth-pop

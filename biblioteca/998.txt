@@ -1,8 +1,6 @@
 new wave
 british artists
-fav artists
-synthpop artists
-my pleasuredome
+synth-pop
 po-kraftwerkski
 the beowulfs choice
 electronic
@@ -10,16 +8,13 @@ new wave
 alternative dance
 new romantic
 80s pop
-synthpop
+synth-pop
 level one
-80s
+1980s
 new wave
-synth pop
-synthpop
-beautiful
-favorite tracks
+synth-pop
 new wave
-80s
+1980s
 british
 new wave
 cover
@@ -28,43 +23,41 @@ experimental
 instrumental
 new romantic
 new wave
-omd
-synthpop
+synth-pop
 electronic
 new wave
-synth pop
-synthpop
+synth-pop
+synth-pop
 mad about
 random songs
 new wave
-synthpop
-80s
+synth-pop
+1980s
 new wave
-synthpop
+synth-pop
 80s pop
 old
 1008
-80s
+1980s
 new wave
-80s
+1980s
 electronic
 new wave
-80s
-synthpop
-80s
+1980s
+synth-pop
+1980s
 electronic
-80s
+1980s
 cities
 death
-drugs
 famous persons
-religion
+religious
 science
-80s
+1980s
 new wave
-synthpop
+synth-pop
 new wave
-80s
+1980s
 new wave
 alternative
 b-side
@@ -74,29 +67,26 @@ new wave
 piano
 slowies
 soundtrack
-80s
-synth pop
-80s
+1980s
+synth-pop
+1980s
 new romantic
 new wave
-synth pop
-synthpop
-my loving
+synth-pop
 new wave
-80s
+1980s
 electronic
 new wave
-synthpop
+synth-pop
 factory records
 blitz playlist
-80s
+1980s
 electronic
 new wave
 pop
-80s
+1980s
 british
 electronic
-synth pop
-synth pop
-favorite band
-80s
+synth-pop
+synth-pop
+1980s

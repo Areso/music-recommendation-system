@@ -1,24 +1,19 @@
 assertive
-awesome
 beast
 brooklyn
 classic
-cool
 d-block
 dope
 east coast rap
-favorite
 fiya
 freestyle
 gangsta rap
 good shit
-great lyricists
 hard
 ill
 mean
 neat
 new york shit
-nice
 poignant
 rap
 raw
@@ -28,7 +23,6 @@ ruff ryders
 sick
 solid
 superb
-sweet
 the good stuff
 the truth
 urban

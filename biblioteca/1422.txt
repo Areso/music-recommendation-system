@@ -1,4 +1,4 @@
-60s
+1960s
 psychedelic
 1970s
 classic rock
@@ -9,8 +9,8 @@ psychedelic
 psychedelic rock
 jam
 classic rock
+1960s
 1970s
-60s
 classic rock
 guitar solo
 rock
@@ -19,16 +19,15 @@ folk
 psychedelic
 psychedelic rock
 rock
-rock n roll
-60s
+rock'n'roll
+1960s
 acoustic
 classic rock
 folk
 mellow
-i love my dad taste
 classic rock
 rock
 jukebox project
-80s
+1980s
 classic rock
 psychedelic rock

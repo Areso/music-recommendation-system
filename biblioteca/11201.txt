@@ -1,6 +1,5 @@
 ambient
 electronic
-electronica
 experimental
 idm
 minimal
@@ -11,7 +10,6 @@ leaf
 minimalism
 ambient
 electronic
-electronica
 idm
 minimal
 techno

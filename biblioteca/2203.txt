@@ -3,8 +3,7 @@ trancecore
 post-hardcore
 electronic
 post-hardcore
-screamo
-technocore
+scream
 trancecore
 post-hardcore
 electronic
@@ -12,7 +11,7 @@ post-hardcore
 trancecore
 electronic
 post-hardcore
-screamo
+scream
 trancecore
 post-hardcore
 trancecore

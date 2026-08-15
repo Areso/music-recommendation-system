@@ -1,22 +1,21 @@
 new age
-new ag
 acoustic
 ambient
 chill
-chillout
+chill out
 downtempo
 ethereal
 female vocalist
 medieval
 mellow
 new age
-relaxing
+relax
 soundtrack
-christmas blend
+christmas
 rain
 female vocalist
 ambient
-chillout
+chill out
 ambient
 new age
 pagan
@@ -27,14 +26,14 @@ classical
 emo
 pop
 celtic
-chillout
+chill out
 female
 new age
 new age
 vocal
 new age
 ambient
-chillout
+chill out
 pop
 new age
 female vocalist
@@ -61,16 +60,16 @@ new age
 female vocalist
 celtic
 female
-synthpop
+synth-pop
 ambient
 celtic
-chillout
+chill out
 female vocalist
 instrumental
 new age
 christmas
 mellow
-80s
+1980s
 ambient
 celtic
 female vocalist
@@ -87,7 +86,6 @@ celtic
 new age
 celtic
 new age
-relax music
 world music
 female vocalist
 tinosoft

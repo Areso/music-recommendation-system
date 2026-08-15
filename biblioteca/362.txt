@@ -6,8 +6,7 @@ piano
 singer-songwriter
 acoustic
 alternative
-beautiful
-chillout
+chill out
 indie
 piano
 sad
@@ -22,7 +21,6 @@ one tree hill
 female vocalist
 mellow
 singer-songwriter
-sam and nick au
 female vocalist
 piano
 pop
@@ -30,7 +28,6 @@ singer-songwriter
 indie
 female vocalist
 cute
-sweet
 indie
 tbu
 the vampire diaries
@@ -47,6 +44,6 @@ singer-songwriter
 90210
 melrose place
 female vocalist
-bitter sweet
+bittersweet
 in bloom
 tiger

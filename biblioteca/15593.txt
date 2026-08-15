@@ -1,5 +1,4 @@
 ambient
-darkwave
+dark wave
 experimental
-sexy song
-trip-hop
+trip hop

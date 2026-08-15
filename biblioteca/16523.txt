@@ -1,8 +1,8 @@
-chillout
+chill out
 jazz
 lounge
 bossa nova
-chillout
+chill out
 lounge
 acid jazz
 downtempo
@@ -10,7 +10,7 @@ easy listening
 jazz
 lounge
 acid jazz
-chillout
+chill out
 jazz
 lounge
 lounge

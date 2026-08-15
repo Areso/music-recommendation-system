@@ -1,6 +1,6 @@
 disco
 artists
-80s
+1980s
 dance
 instrumental
 soul
@@ -13,18 +13,17 @@ albums
 dance
 1970s
 1970s
-80s
+1980s
 american
 classic house
 dance
 disco
 female vocalist
 funk
-funky
 groove
 jazz
 oldies
 pop
-rnb
+r'n'b
 soul
 other great tracks

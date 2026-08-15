@@ -1,21 +1,19 @@
 lounge
-trip-hop
+trip hop
 vocal
 experimental
-trip-hop
+trip hop
 electronic
-trip-hop
-beautiful
+trip hop
 dreamy
 6-string bass
 acid jazz
 ambient
 archive
-chillout
+chill out
 dark pop
 downtempo
 electronic
-electronica
 emilie simon
 experimental
 female
@@ -49,7 +47,7 @@ smoke city
 smooth jazz
 theremin
 tricky
-trip-hop
+trip hop
 unkle
 urban myth club
 vfsix

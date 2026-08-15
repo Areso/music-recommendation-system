@@ -8,9 +8,7 @@ instrumental
 baroque
 classical
 classical
-sicp
-christmas blend
-clasica
+christmas
 classic
 classical
 chill
@@ -33,6 +31,5 @@ classical
 classical
 instrumental
 classical
-best free stuff
 instrumental
 deutschland

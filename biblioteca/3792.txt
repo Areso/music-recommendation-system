@@ -1,4 +1,3 @@
-tracks that own
 punk
 hardcore
 80s hardcore
@@ -10,7 +9,7 @@ reggae
 hardcore punk
 reggae
 ska
-80s
+1980s
 old school
 punk
 party

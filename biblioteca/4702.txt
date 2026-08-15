@@ -4,6 +4,5 @@ pop
 spanish
 english
 female
-sexy
 spanish
 title is a full sentence

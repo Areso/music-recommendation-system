@@ -1,6 +1,5 @@
 dance
 electronic
-electronica
 alternative
 electronic
 indie
@@ -9,59 +8,51 @@ alternative
 ambient
 british
 chill
-chillout
+chill out
 downtempo
 electronic
 ethereal
 experimental
 female vocalist
 indie
-relaxing
+relax
 singer-songwriter
-dowloan required
-electronica
+electronic
 female vocalist
 electronic
 folk
-trip-hop
-trip-hop
-electronica
-trip-hop
+trip hop
+trip hop
+electronic
+trip hop
 dance
 electronic
 experimental
 indie
 female vocalist
 glam
-love it
-sexy song
 electronic
-synthpop
+synth-pop
 electronic
-sexy
-synthpop
+synth-pop
 british
 electronic
 female electronic
-seen live
-trip-hop
+trip hop
 vocal
 electronic
 2000s
 alternative
 british
-electro
-electronica
+electronic
 stylish
 electronic
-electronica
 female vocalist
 pop
-trip-hop
+trip hop
 electronic
 female vocalist
-trip-hop
-cool
+trip hop
 electronic
 female vocalist
 british
@@ -70,11 +61,11 @@ electronic
 female vocalist
 mellow
 special
-trip-hop
+trip hop
 dance
 electronic
 female vocalist
-trip-hop
+trip hop
 house
 house md
 transport
@@ -85,21 +76,18 @@ dance
 downtempo
 electroclash
 electronic
-electronica
-electropop
+electronic-pop
 experimental
 female
 female vocalist
 indie
-sexy
-synthpop
-trip-hop
+synth-pop
+trip hop
 uk
 electronic
-electronica
 female vocalist
 electronic
-trip-hop
+trip hop
 electronic
 female vocalist
 dance
@@ -114,18 +102,14 @@ remix
 dance
 disco
 electronic
-electronica
 electronic
 female vocalist
 2008
-my fav songs
 alternative
 electronic
 pop
-seen live
 uk
 rafa
-my electro feelings
 q sexy
 electronic
 dance
@@ -133,43 +117,33 @@ dance - trance
 electronic
 ambient
 alternative
-beautiful track
-favorite
-fun
 electronic
 pop
 the vampire diaries
-best song ever
 sex
 british
 dance
 electronic
 friends
-i buy singles for b-sides like this
 dance
 electronic
-electronica
 female vocalist
-trip-hop
+trip hop
 electronic
 female vocalist
-trip-hop
+trip hop
 essential instrumental versions
 2010
 acoustic
 ambient
 atmospheric
-brilliant
-chillout
+chill out
 dance
 dreamy
-electro
 electronic
 experimental
-genius
-lovely
 mellow
-relaxing
+relax
 sad
 uk
 british
@@ -178,14 +152,12 @@ alternative
 electronic
 female vocalist
 pop
-sexy
-trip-hop
+trip hop
 dance
 electronic
-electronica
 female vocalist
-trip-hop
-electro
+trip hop
+electronic
 glam rock
 experimental
 female vocalist

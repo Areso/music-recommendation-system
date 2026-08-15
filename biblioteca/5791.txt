@@ -1,5 +1,4 @@
 ambient
-beautiful
 dark ambient
 fallout
 industrial

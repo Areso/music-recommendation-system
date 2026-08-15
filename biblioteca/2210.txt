@@ -1,6 +1,6 @@
 electronic
 post-hardcore
-screamo
+scream
 hardcore
 post-hardcore
 post-hardcore
@@ -9,14 +9,13 @@ post-hardcore
 trancecore
 crabcore
 electronic
-screamo
+scream
 trancecore
 acoustic
 instrumental
 electronic
-electronica
 post-hardcore
-screamo
+scream
 trancecore
 electronic
 metalcore

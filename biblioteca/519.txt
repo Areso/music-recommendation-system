@@ -10,13 +10,8 @@ rock
 alternative
 industrial
 metal
-ultimate favorite
 industrial metal
-agresive metal
 industrial metal
-industrial nu metal
-static-x
-favorite
 nu metal
 industrial
 industrial metal
@@ -38,14 +33,11 @@ metal
 nu metal
 2000s
 american
-favorite
 nu metal
-static-x
 industrial
 industrial metal
 industrial rock
 metal
 nu metal
-evil disco
 industrial metal
-screamo
+scream

@@ -2,4 +2,4 @@
 electronic
 pop
 swedish
-synthpop
+synth-pop

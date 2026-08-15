@@ -3,4 +3,4 @@ electronic
 funk
 german
 soundtrack
-synthesizer
+synth

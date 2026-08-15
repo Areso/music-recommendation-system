@@ -4,7 +4,7 @@ rock
 alternative
 alternative rock
 1990s
-britpop
+brit pop
 indie
 indie rock
 pop
@@ -12,7 +12,7 @@ science
 american
 rock
 1990s
-britpop
+brit pop
 classic rock
 indie
 indie rock
@@ -23,5 +23,5 @@ listened more than 10 times in a row
 1990s
 1990s
 alternative
-britpop
+brit pop
 pop

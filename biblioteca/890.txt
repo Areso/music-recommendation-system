@@ -1,5 +1,5 @@
-electro pop
 electronic
+electronic-pop
 punk pop
 electronic
 pop
@@ -10,7 +10,7 @@ electronic
 punk
 rock
 rock
-synthpop
+synth-pop
 glam
 dance
 female vocalist

@@ -5,7 +5,7 @@ female vocalist
 techno
 trance
 dance
-electro pop
+electronic-pop
 cover
 dance
 female vocalist
@@ -32,20 +32,17 @@ german
 pop
 popular
 dance-pop
-favorite
 dance
 trance
 female vocalist
-cascada
 2000s
 dance
 disco
 electronic
-fun
 glam
 party
 pop
-synthpop
+synth-pop
 techno
 trance
 dance
@@ -62,12 +59,10 @@ electronic
 female vocalist
 hot
 dance
-love it
 party time
 pop
 pop covers
 pop singles
-great memories with my siss
 oh so catchy
 summer song
 dance
@@ -79,15 +74,12 @@ dance
 female vocalist
 pop
 trance
-amazing
 dance
 female
 female vocalist
 german
 pop
 hyper
-i am in love with this song
-i love dancing about to this like a complete and utter idiot
 singalong
 dance - trance
 party
@@ -102,7 +94,6 @@ female vocalist
 germany
 pop
 trance
-chav
 dance
 female vocalist
 german
@@ -112,4 +103,3 @@ trance
 melrose place
 cute
 dance
-cascada

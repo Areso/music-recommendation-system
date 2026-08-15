@@ -1,4 +1,4 @@
-80s
+1980s
 female vocalist
 pop
 pop
@@ -6,13 +6,13 @@ pop
 disco
 eurodance
 german
-synthpop
-80s
+synth-pop
+1980s
 cyndi lauper
 dance
 pop
 vocal
-80s
+1980s
 female vocalist
 new wave
 german
@@ -21,7 +21,6 @@ pop
 female vocalist
 german
 1980s
-80s
 ballad
 cretu
 dance
@@ -35,17 +34,16 @@ gold
 melancholic
 pop
 sandra
-sexy
 new wave
 retro
-80s
+1980s
 dance
 disco
 female vocalist
-80s
+1980s
 electronic
 pop
-synthpop
+synth-pop
 depeche mode
 electronic
 dream pop

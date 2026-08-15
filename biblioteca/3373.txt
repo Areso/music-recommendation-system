@@ -9,15 +9,12 @@ emo
 indie
 pop punk
 rock
-amazing
 pop rock
 punk
 punk rock
 alternative rock
-awesome
 catchy
 defiant
-fun
 pop
 rock
 lips songs
@@ -26,7 +23,6 @@ alternative rock
 emo
 indie
 indie rock
-love
 pop punk
 pop rock
 punk
@@ -37,7 +33,6 @@ catchy
 indie
 alternative
 rock
-fantastic
 rock
 acoustic
 acoustic rock
@@ -69,7 +64,6 @@ love song
 pop punk
 singalong
 soon to be classic
-i want to dance in my underwear
 inlove
 melodic
 pop punk
@@ -98,7 +92,6 @@ pop punk
 rock
 ich liebe dich
 <3
-cool
 cute
 happy
 phoda

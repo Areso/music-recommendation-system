@@ -2,9 +2,8 @@ ambient
 idm
 ambient
 chill
-chillout
+chill out
 electronic
-electronica
 experimental
 idm
 minimal
@@ -12,7 +11,6 @@ electronic
 idm
 morr music
 ambient
-beautiful
 electronic
 idm
 iron jesus

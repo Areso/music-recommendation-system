@@ -1,13 +1,13 @@
 autumn
 morning
-60s
+1960s
 classic rock
 album rock
 british invasion
-60s
+1960s
 progressive rock
 classic rock
-60s
+1960s
 classic rock
 progressive rock
 psychedelic
@@ -18,10 +18,10 @@ rock
 british
 soft rock
 classic rock
-60s
+1960s
 classic rock
 rock
-60s
+1960s
 classic rock
 pop
 1965
@@ -30,16 +30,15 @@ pop
 1969
 1970s
 classic rock
-favorite song
 mellow
 progressive rock
 rock
 1970s
+1980s
 1990s
-80s
 blues
 british
-chillout
+chill out
 experimental
 jazz
 male vocalist
@@ -48,7 +47,7 @@ psychedelic
 rock
 singer-songwriter
 soul
-60s
+1960s
 classic rock
 progressive rock
 psychedelic

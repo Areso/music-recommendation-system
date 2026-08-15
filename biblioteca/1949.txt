@@ -1,10 +1,9 @@
 folk
-alt-country
 alternative
+alternative country
 folk
 lo-fi
 singer-songwriter
-day
 daytrotter
 alternative
 indie
@@ -14,7 +13,7 @@ bi daha dinlicem
 indie
 indie rock
 lyrics
-alt-country
+alternative country
 cover
 alternative
 indie

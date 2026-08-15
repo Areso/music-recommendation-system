@@ -24,14 +24,11 @@ hard rock
 metal
 nu metal
 nu metal
-seen live
 alternative
-amazing
 christian
 christian rock
 metal
 nu metal
-rap-rock
 rock
 alternative
 christian
@@ -47,7 +44,6 @@ nu metal
 alternative
 nu metal
 rapcore
-favorite song
 ae
 hard rock
 metal
@@ -57,7 +53,6 @@ alternative rock
 nu metal
 2000s
 american
-favorite
 nu metal
 rapcore
 alternative

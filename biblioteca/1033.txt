@@ -1,9 +1,8 @@
-runner runner
 acoustic
 alternative
 male vocalist
 pop
 powerpop
-electropop
+electronic-pop
 pop punk
 powerpop

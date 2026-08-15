@@ -1,7 +1,7 @@
 classic rock
 1970s
+1980s
 1990s
-80s
 classic rock
 hard rock
 heavy metal
@@ -9,8 +9,8 @@ rock
 heavy metal
 hard rock
 heavy metal
-rock 'n' roll
-80s
+rock'n'roll
+1980s
 classic rock
 hard rock
 heavy metal
@@ -23,14 +23,13 @@ classic rock
 german
 hard rock
 rock
-scorpions
 classic rock
 hard-heavy rock
 hard rock
 heavy metal
 hard rock
 hard rock
-80s
+1980s
 classic rock
 hard rock
 rock
@@ -41,70 +40,62 @@ hard rock
 1970s
 hard rock
 heavy metal
-scorpions
 hard rock
 hard rock
 ballad
 hard rock
 hard rock
-seen live
 classic rock
 german
 1970s
-80s
+1980s
 hard rock
 rock
 pop covers
 1970s
+1980s
 1990s
-80s
 hard rock
 metal
 rock
 hard rock
 heavy metal
 hard rock
-80s
+1980s
 heavy metal
 male vocalist
-rock n roll
+rock'n'roll
 romantic
 soft rock
 rock
-anos 80
-80s
+1980s
+1980s
 classic rock
 rock
 classic rock
 rock
 love songs suck and fairytales are not true
 power ballad
-taking over my mind
 hard rock
 pop rock
 rock
-seen live
 1970s
+1980s
 2000s
-80s
-favorite
 hard rock
 rock
 1970s
-80s
+1980s
 classic rock
 hard rock
 heavy metal
 hard rock
+1980s
 2010s
-80s
-h
 hard rock
 hard rock
 hard rock
 heavy metal
-epic
-seen live
 80s metal
 80s rock
 hair metal
@@ -114,4 +105,4 @@ heavy
 heavy metal
 metal
 pop metal
-80s
+1980s

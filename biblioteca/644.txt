@@ -3,14 +3,13 @@ electronic
 pop
 <3
 dance
-electropop
+electronic-pop
 english
 female vocalist
 new
 party
 pop
 dance
-sexy
 dance
 electronic
 trance
@@ -45,4 +44,3 @@ house
 pop
 romania
 trance
-inna

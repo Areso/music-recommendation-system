@@ -27,8 +27,6 @@ new wave
 punk
 punk rock
 rock
-favorite
-favorite song
 hyper
 pop punk
 punk
@@ -36,7 +34,6 @@ british
 punk
 punk rock
 rock
-seen live
 punk rock
 punk
 gleefully sexual

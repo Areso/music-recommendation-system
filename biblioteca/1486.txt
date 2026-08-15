@@ -4,7 +4,6 @@ female vocalist
 gossip girl
 indie
 indie pop
-sexy
 dance
 female vocalist
 alternative
@@ -13,13 +12,11 @@ crunk
 dance
 pop
 rap
-sexy
 soul
 alternative
 dub
 electronic
 punk
-seen live
 alternative
 dub
 electronic
@@ -29,7 +26,6 @@ alternative
 alternative rock
 dance
 electronic
-electronica
 indie
 indie pop
 indie rock
@@ -37,18 +33,13 @@ new wave
 rock
 the vampire diaries
 alternative
-awesome
-cool
 dance
-electro
 electronic
 experimental
 indie
 indie rock
-lovely
 rock
 singer-songwriter
-awesome-ness
 female vocalist
 female voice
 soul

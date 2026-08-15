@@ -2,7 +2,7 @@ punk
 punk rock
 punk
 punk rock
-rock 'n' roll
+rock'n'roll
 cover
 british
 classic rock
@@ -23,13 +23,13 @@ british
 classic rock
 rock
 punk
-80s
+1980s
 classic rock
 punk
 punk rock
 gold
 1970s
-80s
+1980s
 classic rock
 male vocalist
 punk
@@ -38,42 +38,36 @@ classic rock
 punk
 punk rock
 british
-favorite
 classic rock
 rock
-ultimate favorite
 british
 dub
 punk
 punk rock
 hard rock
 rock
-rock and roll
-80s
+rock'n'roll
+1980s
 classic rock
 rock
 british
 classic rock
 punk
-my teens
-80s
+1980s
 british
 cover
 rock
-never goes away
 punk rock
-my favorite
 punk
 punk
 classic rock
 punk
-80s
+1980s
 alternative
 british
 classic rock
 punk
 punk rock
-love at first listen
 1970s
 punk
 punk rock
@@ -84,14 +78,14 @@ colors
 science
 transport
 punk
-80s
+1980s
 punk
 instrumental
 remix
 english
 punk
 mainstream music that doesnt suck
-80s
+1980s
 punk
 rock
 americana
@@ -112,39 +106,32 @@ punk
 classic
 punk rock
 post-punk
-rock and roll
-favorite
-favorite song
+rock'n'roll
 punk rock
 british
 classic rock
 punk
 punk rock
 rock
-i love my dad taste
 punk rock
 british
 classic rock
-fave
 punk
 rock
 punk
 rock
-guitar hero eat my shit
 classic rock
 punk rock
 rock
 get a job
 jukebox project
-songs i sing in the shower
 british
 punk
-amazing
 old skool
 punk
 punk rock
 1970s
-80s
+1980s
 england
 lefties
 punk
@@ -154,7 +141,7 @@ british
 classic rock
 rock
 1970s
-80s
+1980s
 british
 british punk
 punk

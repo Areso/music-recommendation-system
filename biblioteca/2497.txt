@@ -1,7 +1,2 @@
 beer
-hai
 j-pop
-susu
-touhou
-utage
-iosys

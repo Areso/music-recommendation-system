@@ -3,6 +3,5 @@ pop
 rock
 singer-songwriter
 american
-favorite
 male vocalist
 vitor

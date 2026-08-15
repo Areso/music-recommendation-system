@@ -2,7 +2,7 @@ adult contemporary
 album rock
 blue-eyed soul
 soft rock
-synth pop
+synth-pop
 80s pop
 british
 classic rock
@@ -14,21 +14,19 @@ alternative
 dance
 british
 english
-favorite
 male vocalist
 1970s
+1980s
 1990s
-80s
 new wave
 rock
 soft rock
-cool
 rock
-80s
+1980s
 new wave
 oldies
 soul
 uk
 new wave
 pop
-synthpop
+synth-pop

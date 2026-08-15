@@ -1,7 +1,6 @@
 country
 rain
 summer
-favorite country music male
 american
 guitar
 indie
@@ -25,7 +24,5 @@ modern country
 singer-songwriter
 country
 traditional country
-sick sick sick
-cma awards
 country
 male vocalist

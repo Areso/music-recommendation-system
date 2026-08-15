@@ -1,21 +1,21 @@
 british
 happy
 pop
+brit pop
 british
-britpop
 electronic
 pop
 dance
-britpop
+brit pop
 alternative
 british
-chillout
+chill out
 dance
-electro
+electronic
 pop
 singer-songwriter
+brit pop
 british
-britpop
 dance
 electronic
 male vocalist
@@ -30,9 +30,9 @@ alternative
 british
 male vocalist
 singer-songwriter
-synthpop
+synth-pop
+brit pop
 british
-britpop
 dance
 electronic
 pop
@@ -51,10 +51,8 @@ electronic
 pop
 pop
 cool as
-fantastic
-funky
+funk
 pop
-great moments at et7
 lpa
 oh so catchy
 so gossip girl
@@ -63,40 +61,31 @@ boy :d
 british
 male vocalist
 pop
-seen live
-britpop
-chillout
+brit pop
+chill out
 singer-songwriter
 electronic
 mika
 pop
 pop
-fun
-guilty pleasure
 happy
 pop
 singalong
 soon to be classic
-i want to dance in my underwear
 pop
 piano
 pop
 listened more than 10 times in a row
-seen live
 electronic
 alternative
+brit pop
 british
-britpop
 electronic
 pop
+brit pop
 british
-britpop
 dance
 electronic
-amazing
-beautiful
-beautiful music
-brilliant
 british
 male vocalist
 uk
@@ -106,18 +95,15 @@ pop
 alternative
 alternative pop
 pop
-boyfriend material
-lollipop
-electronica
+electronic
+brit pop
 british
-britpop
 chill
-fun
 happy
 pop
 singer-songwriter
 tinosoft
-britpop
+brit pop
 piano
 powerpop
 singer-songwriter
@@ -125,13 +111,12 @@ fail
 happy melody
 keep ya calm
 pop
-relaxing
+relax
 sleepy time
 gossip girl
 hellcats
 melrose place
 redone
-britpop
+brit pop
 power pop
-seen live
 uk

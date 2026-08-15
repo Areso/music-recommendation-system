@@ -1,5 +1,4 @@
 asian
-central asia
 central asian
 dance
 ethnic
@@ -16,7 +15,7 @@ male
 male vocalist
 pop
 pop-folk
-rnb
+r'n'b
 rock
 traditional
 turk

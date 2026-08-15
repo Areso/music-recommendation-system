@@ -9,7 +9,7 @@ noise
 noise rock
 post-punk
 shoegaze
-synthpop
+synth-pop
 usa
 ambient
 blissrock

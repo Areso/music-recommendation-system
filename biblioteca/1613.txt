@@ -21,7 +21,6 @@ mellow
 missy elliott
 nelly furtado
 rap
-sexy
 timbaland
 top 40
 tweet
@@ -31,16 +30,13 @@ rap
 assertive
 brooklyn
 classic
-cool
 dope
 dope cut
 fiya
 good shit
 ill
-lovely
 mean
 new york shit
-nice
 phat
 poignant
 real hip-hop
@@ -49,7 +45,6 @@ roc-a-fella
 sick
 smooth
 superb
-sweet
 the good stuff
 witty
 hip-hop
@@ -58,17 +53,15 @@ east coast rap
 hip-hop
 rap
 hip-hop
+r'n'b
 rap
-rnb
 hip-hop
-hiphop
 rap
 hip-hop
 rap
 jay-z
 rap
 hip hop/rap
-jay-z -wishing on a star
 hip-hop
 rap
 jay-z
@@ -77,13 +70,12 @@ male
 jams
 hip-hop
 pop
-rnb
+r'n'b
 gossip girl
 hip-hop
-rnb
-chillout
+r'n'b
+chill out
 classic
-cool
 funny
 jazzy
 lol
@@ -93,7 +85,6 @@ east coast
 hip-hop
 2000s
 american
-favorite
 hip-hop
 egzamin
 catchy

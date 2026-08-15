@@ -2,5 +2,4 @@ alternative
 electronic
 female vocalist
 rock
-sexy
-synthpop
+synth-pop

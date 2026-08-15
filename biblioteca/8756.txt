@@ -2,7 +2,6 @@ folk
 world
 female vocalist
 folk
-acustico
+acoustic
 folk
-latinoamerica
 latin

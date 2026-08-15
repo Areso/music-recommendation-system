@@ -2,13 +2,12 @@ alternative
 ambient
 aphex twin
 avant-garde
-chillout
+chill out
 dark ambient
 dark electro
 downtempo
-electronica
-low tempo
+electronic
 nu jazz
 -pearl fashion music
 trip beat
-trip-hop
+trip hop

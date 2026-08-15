@@ -1,7 +1,4 @@
 diy
 experimental
-midwest
-passionate hardcore
-screamo
-skramz
+scream
 thrash

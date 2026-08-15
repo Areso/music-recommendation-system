@@ -7,7 +7,7 @@ hardcore
 acoustic rock
 alternative
 alternative rock
-brasil
+brazil
 brazilian
 brazilian rock
 hard rock
@@ -20,7 +20,7 @@ melodic hardcore
 not emo
 punk rock
 rock
-brasil
+brazil
 emo
 hardcore
 rock

@@ -4,7 +4,6 @@ alternative
 british
 dance
 electronic
-electronica
 uk
 electronic
 british
@@ -21,11 +20,10 @@ british
 electronic
 indie
 electronic
-electronica
 indie
 new rave
 british
 electro punk
-electro-rock
 electronic
+electronic rock
 new rave

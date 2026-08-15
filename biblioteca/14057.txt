@@ -4,16 +4,13 @@ alternative rock
 ambient
 american
 bass
-beautiful
-chillout
+chill out
 classic
-cool
 dance
 drums
-electro
 electroclash
+electronic
 female vocalist
-fun
 guitar
 hardcore
 harmonisch
@@ -24,7 +21,6 @@ indie
 indie electronic
 industrial
 lo-fi
-love
 melancholisch
 metal
 more
@@ -42,6 +38,6 @@ rock
 ska punk
 soundtrack
 super
-synth pop
+synth-pop
 techno
-trip-hop
+trip hop

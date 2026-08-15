@@ -1,19 +1,14 @@
 assertive
-awesome
 brooklyn
 catchy
 classic
-cool
 crazy
 dope cut
 east coast rap
-favorite
 gangsta rap
 good shit
-great lyricists
 hip-hop
 ill
-lovely
 lyricism
 neat
 new york shit
@@ -27,7 +22,6 @@ sick
 smooth
 solid
 superb
-sweet
 the good stuff
 the truth
 tight

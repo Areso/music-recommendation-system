@@ -6,7 +6,6 @@ progressive metal
 doom metal
 metal
 doom metal
-depressive rock
 doom metal
 progressive metal
 melancholic rock
@@ -16,7 +15,6 @@ progressive metal
 doom metal
 gothic metal
 beatiful
-depressive rock
 doom metal
 instrumental
 powerful
@@ -26,5 +24,4 @@ swedish
 arkadi
 bazarov
 doom metal
-seen live
 dark metal

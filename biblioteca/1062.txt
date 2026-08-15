@@ -1,83 +1,76 @@
 electroclash
-electropop
+electronic-pop
 10s
 2000s
 electronic
-electronica
-electropop
+electronic-pop
 melodic
 new wave
 nostalgic
 synth
+synth-pop
 synth wave
-synthpop
 british
-electropop
-synthpop
+electronic-pop
+synth-pop
 electronic
 alternative
-chillout
-electro
+chill out
 electronic
-synthpop
-trip-hop
+synth-pop
+trip hop
 00
-dazs favourites
 synth
 british
 electronic
 dream pop
 indie pop
 indie rock
-electronica
-electro
+electronic
 electronic
 indie
-synthpop
+synth-pop
 electronic
-electronica
-synthpop
+synth-pop
 electronic
 experimental
 indie
 electronic
-electropop
+electronic-pop
 dance
 electronic
-synthpop
-ultimate favorite
-chillout
+synth-pop
+chill out
 female vocalist
 electroclash
 dance
 ebm
-electro
 electroclash
-electronica
-electropop
+electronic
+electronic-pop
 female
 electronic
-electropop
+electronic-pop
 new wave
 electronic
-electropop
-synthpop
+electronic-pop
+synth-pop
 dance
-electro
+electronic
 pop
 vocal
 electronic
 electroclash
 electronic
-electropop
-synthpop
-electro pop
+electronic-pop
+synth-pop
 electroclash
+electronic-pop
 remix
 soundtrack
 electroclash
-electronica
-electropop
+electronic
+electronic-pop
 2000s
 alternative
 atmospheric
@@ -86,7 +79,6 @@ electroclash
 ladytron
 british
 dance
-electro
 electronic
 electro-indie
 electronic
@@ -94,32 +86,31 @@ ladytronica
 electronic
 female
 liverpool
-electro
 electroclash
+electronic
 female vocalist
-indietronica
+indie electronic
 progressive rock
 electronic
-electro
-electropop
+electronic
+electronic-pop
 heard on pandora
 indie
 broken-clash
 deconstruction
 electroclash
-synthpop
-my electro feelings
+synth-pop
 electronic
 female vocalist
-synthpop
+synth-pop
 electronic
-chillout
+chill out
 dance
 downtempo
 female vocalist
 idm
+indie electronic
 indie pop
-indietronica
 instrumental
 mellow
 new wave
@@ -127,35 +118,29 @@ noise
 pop
 shoegaze
 singer-songwriter
-synthpop
-trip-hop
-electronica
-synthpop
+synth-pop
+trip hop
 electronic
-electropop
-eletronic
-synthpop
-synthpop
+synth-pop
+electronic
+electronic
+electronic-pop
+synth-pop
+synth-pop
 alternative
 electronic
 female vocalist
-synthpop
+synth-pop
 electronic
 female vocalist
 electronic
 female vocalist
-synthpop
+synth-pop
 uk
 girlamazing
-best free stuff
 remix
 other great tracks
 dance party
-electric dreams
-electro
-electronica
-elektorpop
+electronic
 indie electronic
 indie pop
-this kraft works
-yeah

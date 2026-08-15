@@ -35,20 +35,14 @@ swedish
 indie
 indie pop
 pop
-seen live
-awesome
 breakup music
-chillout
+chill out
 dark songs
 good mood music
 good mood songs
 infatuation
-kickass
+kick ass
 love song
-sexy
-songs i can play
-the cardigans
-want to see live
 dream pop
 alternative
 alternative
@@ -59,7 +53,6 @@ alternative
 alternative rock
 female vocalist
 indie
-my fav songs
 pop
 rock
 scandinavia
@@ -81,7 +74,7 @@ female vocalist
 pop
 rock
 1990s
-chillout
+chill out
 dance
 downtempo
 female vocalist
@@ -93,7 +86,7 @@ pop
 progressive rock
 rock
 singer-songwriter
-trip-hop
+trip hop
 pop
 bliss
 dreampop

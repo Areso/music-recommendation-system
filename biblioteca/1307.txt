@@ -7,4 +7,4 @@ ebm
 electronic
 futurepop
 industrial
-synthpop
+synth-pop

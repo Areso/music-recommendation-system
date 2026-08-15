@@ -1,14 +1,11 @@
-1979 songs
+1979
 1980s
 1982
 1983
 1984
 1986
 british artists
-fav artists
-fav song
-new wave artists
-new wave songs
+new wave
 college rock
 1982
 alternative
@@ -32,4 +29,3 @@ new wave
 post-punk
 alternative
 new wave
-favorite band

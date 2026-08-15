@@ -13,7 +13,6 @@ jazz
 bebop
 cool jazz
 experimental
-favorite artist
 jazz
 bebop
 jazz

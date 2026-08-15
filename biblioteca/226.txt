@@ -19,7 +19,6 @@ heavy metal
 psychedelic rock
 stoner rock
 rock
-seen live
 stoner rock
 alternative
 alternative rock
@@ -51,7 +50,6 @@ rock
 acoustic
 ambient
 experimental
-genius
 noise
 psychedelic
 rock
@@ -69,7 +67,6 @@ alternative rock
 stoner rock
 as
 grande banda
-tags
 stoner rock
 2000s
 alternative
@@ -79,9 +76,7 @@ male vocalist
 punk
 rock
 alternative
-robot rock
 rock
-rock me babe
 rock
 rock
 uhull
@@ -91,7 +86,7 @@ hard rock
 rock
 alternative
 1990s
-chillout
+chill out
 indie rock
 male vocalist
 new wave
@@ -104,11 +99,8 @@ alternative rock
 hard rock
 rock
 chill
-seen live
-seen live
 british
-cool
-darkwave
+dark wave
 rock
 fucking awesome
 progressive rock
@@ -119,7 +111,6 @@ indie
 rock
 cover
 alternative
-awesome-ness
 blues
 alternative rock
 desert rock

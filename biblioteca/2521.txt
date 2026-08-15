@@ -2,7 +2,6 @@ alternative
 dance
 electronic
 funk
-sexy
 pop
 dance
 electronic
@@ -16,41 +15,34 @@ madonna
 mya
 piano
 pop
-sexy
 singer-songwriter
 top 40
 tyler adam
 dance
-electropop
+electronic-pop
 pop
 electronic
 pop
 dance
-eletropop
+electronic-pop
 electronic
-awesome
 dance
 electronic
-electropop
-fun
+electronic-pop
 pop
-sexy
 dance
 electronic
-europop
+euro-pop
 pop
 pop
 2007
 2008
-my fav songs
 dance
 electronic
 female vocalist
 pop
 swedish
 female vocalist
-robyn
-best song ever
 handclaps
 dance
 electronic
@@ -61,20 +53,17 @@ dance
 electronic
 female vocalist
 pop
-seen live
 swedish
-electropop
-synthpop
+electronic-pop
+synth-pop
 electronic
 female vocalist
 pop
 swedish
 dance
 electronic
-electronica
 female vocalist
 pop
 soul
 swedish
-favorite song
 1990s

@@ -1,14 +1,14 @@
 hip-hop
 pop
+r'n'b
 rap
-rnb
 electronic
 hip-hop
 pop
-electro pop
 electronic
+electronic-pop
 hip-hop
-rnb
+r'n'b
 2000s
 catchy
 dance
@@ -17,12 +17,10 @@ happy
 hip-hop
 pop
 rap
-love at first listen
 rap
 electronic
 pop
-seen live
-rnb
+r'n'b
 dance
 hip-hop
 pop
@@ -33,27 +31,20 @@ pop
 rap
 <3
 alternative
-amazing
 american
 dance
-favorite
 female vocalist
-heart
 hip-hop
 hot
 male vocalist
 pop
 pure
-rnb
-sexy
+r'n'b
 soul
 usa
 dance
-sexy
 <3
-amazing
 american
-awesome
 dance
 electronic
 hip-hop
@@ -69,13 +60,11 @@ pop
 hip-hop
 urban
 rap
-bep
 black eyed peas
 hip-hop
 pop
 2000s
 american
-cool
 solid
 the truth
 <3
@@ -84,53 +73,45 @@ pop
 dance
 hip-hop
 pop
+r'n'b
 rap
-rnb
 hip-hop
-chillout
-cool
+chill out
 female vocalist
 hip-hop
 jazz
 pop
-rnb
+r'n'b
 rock
 addictive
 catchy
 electronic
-fun
 guetta
 hip-hop
 let's dance
-love at first listen
-rnb
-rnb
+r'n'b
+r'n'b
 black eyed peas
 n 1 hot 100 billboard
 hip-hop
 pop
 rap
 hip-hop
-rnb
+r'n'b
 hip-hop
 black eyed peas
 pop
 hip-hop
 rap
-lo mejor
 pop
 black eyed peas
 hip-hop
-sexy
 2009
-always in my mind
 black eyed peas
 dance
 electronic
-electropop
+electronic-pop
 hip-hop
-love
-love it
 party
 party time
 personal
@@ -144,7 +125,7 @@ lpa
 oh so catchy
 summer song
 viaje de egresados
-wake up song
+wake up
 loved
 hip-hop
 black eyed peas
@@ -154,31 +135,28 @@ hip-hop
 american
 hip-hop
 pop
+r'n'b
 rap
-rnb
 hip-hop
 pop
 rap
 ballad
-bep
 black eyed peas
 crazy
 dance
 electronic
-eletropop
+electronic-pop
 female vocalist
 hip-hop
-perfect
 pop
 hip-hop
 pop
 hip-hop
 pop
+r'n'b
 rap
-rnb
 2000s
 american
-bep
 dance
 female vocalist
 fergie
@@ -186,25 +164,23 @@ funk
 hip-hop
 pop
 punk
+r'n'b
 rap
-rnb
 rock
 pop
-r and b
+r'n'b
 top 40
 dance
 hip-hop
 pop
 party
 dance
-electro
 electronic
-electropop
+electronic-pop
 hip-hop
 pop
-rnb
-synthpop
-fave tracks
+r'n'b
+synth-pop
 pop
 electronic
 hip-hop
@@ -219,10 +195,10 @@ female vocalist
 hip-hop
 male vocalist
 pop
-rnb
+r'n'b
 usa
 black eyed peas
-electropop
+electronic-pop
 hip-hop
 rap
 hip-hop

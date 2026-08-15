@@ -1,15 +1,15 @@
 spring
 blues
-rock 'n' roll
+rock'n'roll
 1970s
 american
 blues
 guitar solo
 rock
-60s
+1960s
 blues
 classic rock
-60s
+1960s
 female vocalist
 classic rock
 female vocalist
@@ -17,15 +17,14 @@ female vocalist
 blues
 classic rock
 rock
-60s
+1960s
 blues
 classic rock
 psychedelic rock
 usa
 classic rock
-favorite
 female vocalist
-60s
+1960s
 blues
 blues rock
 classic rock
@@ -33,11 +32,11 @@ feelgood
 funny
 goddesses
 sex rock
-60s
+1960s
 psychedelic
 singer-songwriter
 soul
-60s
+1960s
 blues
 blues rock
 female vocalist
@@ -56,17 +55,14 @@ classic rock
 rock
 classic rock
 old school
+1960s
 1970s
-60s
 classic rock
 oldies
-60s favorites
 classic rock
 blues
 classic rock
-best songs of the 60s
-best songs of the 70s
-60s
+1960s
 bi daha dinlicem
 blues
 blues rock
@@ -74,24 +70,22 @@ classic rock
 female vocalist
 rock
 blues rock
-female vocals
-woodstock
+female vocalist
 classic rock
 female vocalist
 blues
 classic rock
 female vocalist
 singer-songwriter
-riot grrl
+riot grrrl
 classic rock
-60s
+1960s
 classic rock
 rock
-female vocalists i actually like
 blues
 blues rock
 ohmydamn
-60s
+1960s
 blues
 blues rock
 folk
@@ -102,12 +96,12 @@ live
 classic rock
 female vocalist
 rock
-60s
+1960s
 american
 classic rock
 female vocalist
 wicked women
-60s
+1960s
 blues
 rock
 classic rock

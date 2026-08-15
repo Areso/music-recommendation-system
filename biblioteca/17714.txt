@@ -5,6 +5,4 @@ hello project
 j-pop
 japan
 japanese
-japanese pop
-jpop
 hello project

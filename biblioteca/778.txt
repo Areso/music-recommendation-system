@@ -4,7 +4,6 @@ experimental
 experimental
 idm
 electronic
-electronica
 idm
 electronic
 idm

@@ -1,5 +1,4 @@
 new rave
-wooooooaaaaahh
 indie
 new rave
 indie rock
@@ -16,7 +15,6 @@ alternative
 british
 indie
 indie rock
-klaxons
 new rave
 british
 electronic
@@ -27,14 +25,13 @@ indie rock
 alternative rock
 oui fm
 alternative rock
-britpop
+brit pop
 indie rock
 progressive rock
 british
 indie rock
 new wave
 new rave
-epic cover
 mellow
 synth
 british
@@ -43,7 +40,7 @@ indie
 british
 new rave
 british
-electro
+electronic
 indie rock
 indie
 nu rave
@@ -57,7 +54,6 @@ british
 indie
 new rave
 indie
-idolo
 neon space
 british
 indie
@@ -72,10 +68,8 @@ indie rock
 new rave
 remix
 alternative rock
-awesome
-cool
 dance
-electro
+electronic
 experimental
 psychedelic
 british

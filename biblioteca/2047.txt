@@ -1,9 +1,7 @@
 autumn
 cover
-clasica
 classic
 classical
-voice of italia
 classical
 folk
 italian

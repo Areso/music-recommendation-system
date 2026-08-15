@@ -7,9 +7,7 @@ new wave
 rock
 artists
 duran duran
-favorite
 dd solo
-sexy song
 atmospheric
 instrumental
 jazz
@@ -18,7 +16,6 @@ duran duran
 soundtrack
 british
 english
-favorite
 male vocalist
-80s
+1980s
 pop

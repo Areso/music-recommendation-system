@@ -1,28 +1,24 @@
 1985
-fav artists
-fav song
-synthpop artists
-synthpop songs
-synth pop
-80s
+synth-pop
+synth-pop
+1980s
 dance
 german
 new wave
 pop
 rock
-synth pop
-synthpop
-80s
+synth-pop
+1980s
 b-side
 instrumental
 trevor horn
 ztt
 germany
-80s
+1980s
 electronic
 german
-80s
+1980s
 electronic
 female vocalist
 german
-synth pop
+synth-pop

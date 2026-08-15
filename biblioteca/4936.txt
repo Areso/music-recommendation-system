@@ -8,8 +8,5 @@ deathcore
 experimental
 hardcore
 crust
-crustgrind
 grindcore
-this is not deathcore
-gooosecore
 grindcore

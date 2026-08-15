@@ -4,13 +4,11 @@ girl band
 girl group
 pop
 uk
-the power rangers of pop
 pop
 british
 female vocalist
-sexy
 dance
-rnb
+r'n'b
 baranyiz loves it
 pop singles
 girl band
@@ -18,13 +16,13 @@ pop
 british
 girl group
 pop
-britpop
+brit pop
 dance
 electronic
-electropop
+electronic-pop
 gossip girl
 pop rock
-rnb
+r'n'b
 teen pop
 british
 pop
@@ -36,6 +34,5 @@ female vocalist
 girl band
 pop
 pop rock
-sexy
 female voice
 jet set radio future

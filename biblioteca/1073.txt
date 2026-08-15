@@ -2,25 +2,21 @@ electronic
 1981
 1986
 electronic songs
-fav artists
-fav song
 nejlepsi
 ogonj
 oni pout
 po-kraftwerkski
 scholes song
 touching song
-electro
+electronic
 german
-synthpop
+synth-pop
 techno
 1970s
 dance
 electronic
-electronica
 electronic
-electronica
-synthpop
+synth-pop
 ambient
 dance
 electronic
@@ -28,27 +24,24 @@ german
 industrial
 new wave
 oldies
-synth pop
+synth-pop
 techno
 trance
-electro
-electronica
 electronic
-electronica
+electronic
 electronic
 electronic
 experimental
 krautrock
 progressive rock
-synth pop
+synth-pop
 electronic
-synthpop
+synth-pop
 electronic
 kraftwerk
-synthpop
+synth-pop
 1970s
 1980s
-80s
 80s pop
 approved by goku
 approved by prince vegeta
@@ -57,20 +50,17 @@ eighties
 popular
 seventies
 under two minutes
-my favorite
 electronic
-electro
+electronic
 new romantic
 new wave
-synthpop
+synth-pop
 electronic
 robots
-electro
 electronic
-electronica
 german
-synthpop
-electro
+synth-pop
+electronic
 deutsch
 electronic
 german
@@ -82,36 +72,32 @@ science
 scifi
 transport
 electronic
-electro
-synthpop
-electro
+electronic
+synth-pop
 electronic
 electronic
-electronica
 experimental
-synthpop
-electro
+synth-pop
+electronic
 techno
 experimental
 german
-electro
+electronic
 german
+1960s
 1970s
+1980s
 1990s
-60s
-80s
 dance
-electro
 electronic
 experimental
 pop
 iron jesus
 1970s
-80s
+1980s
 electronic
 german
-seen live
-synthpop
+synth-pop
 deep-clash
 deepclash
 1980s
@@ -119,23 +105,14 @@ electronic
 new wave
 electronic
 german
-seen live
-seen live
-seen live
-favorite artist
-cool
 dance
 electronic
-electronica
 synth
-synthpop
-my favorite song
+synth-pop
 electronic
 german
-synth pop
+synth-pop
 german
-electro
 electronic
-electronica
 tinosoft
-electro
+electronic

@@ -1,5 +1,4 @@
 shoegaze
-seen live
 indie
 british
 dream pop
@@ -9,7 +8,6 @@ noise
 psychedelic
 rock
 shoegaze
-synthpop
-best song ever
+synth-pop
 shoegaze
 gossip girl

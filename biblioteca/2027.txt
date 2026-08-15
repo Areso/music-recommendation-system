@@ -1,9 +1,5 @@
 new wave
 absolute disco
-my choice
-my fav fun
-my fav voice
-my pleasuredome
 nejlepsi
 ogonj
 po-kraftwerkski
@@ -19,25 +15,23 @@ dance-pop
 80s pop
 british
 new wave
-80s
+1980s
 british
 new wave
-synth pop
+synth-pop
 cover
-synthpop
-my favorite
-80s
+synth-pop
+1980s
 cover
 new wave
-80s
+1980s
 dance
 new wave
-fgth
 numbers
 war
-80s
+1980s
 english
-80s
+1980s
 b-side
 classic
 cover
@@ -52,13 +46,11 @@ rock
 slowies
 trevor horn
 ztt
-80s
-80s
+1980s
+1980s
 new wave
-synth pop
-synthpop
-song
+synth-pop
 anja1992
 pop
-80s
-xmas
+1980s
+x-mas

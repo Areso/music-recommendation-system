@@ -7,13 +7,12 @@ rain
 blues
 jazz
 blues
-chillout
+chill out
 jazz
 blues
 jazz
 voodoo women
 popular
-night and day
 diva
 female vocalist
 jazz
@@ -22,7 +21,6 @@ girl power
 political
 jazz
 jazz
-best songs of 1900 to 1950
 blues
 female vocalist
 jazz
@@ -38,5 +36,5 @@ female vocalist
 jazz
 female vocalist
 jazz
-chillout
-trip-hop
+chill out
+trip hop

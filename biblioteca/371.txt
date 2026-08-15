@@ -13,9 +13,7 @@ alternative
 <3
 alternative
 alternative rock
-awesome
 christian rock
-love
 rock
 alternative
 christian rock
@@ -23,7 +21,6 @@ rock
 alternative rock
 alternative
 alternative rock
-awesome
 christian
 christian rock
 alternative

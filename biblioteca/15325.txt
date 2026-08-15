@@ -1,6 +1,5 @@
 j-pop
 japanese
-jpop
 j-pop
 japanese
 2008
@@ -12,7 +11,4 @@ j-music
 j-pop
 japanese
 japanese music
-japanese pop
-jpop
-nami tamaki
 trance

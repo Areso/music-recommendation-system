@@ -4,10 +4,10 @@ blues
 classic rock
 rock
 classic rock
-60s
+1960s
 classic rock
 guitar virtuoso
-60s
+1960s
 blues
 classic rock
 rock
@@ -20,17 +20,16 @@ guitar virtuoso
 battlestar galactica
 classic rock
 psychedelic
-60s
+1960s
 1967
 classic rock
 psychedelic rock
 classic rock
-rock and roll
+rock'n'roll
 classic rock
 psychedelic rock
 blues
 psychedelic rock
-i love my dad taste
 classic rock
 blues
 classic rock
@@ -56,7 +55,7 @@ folk
 funk
 psychedelic
 psychedelic rock
-60s
+1960s
 guitar virtuoso
 psychedelic rock
 classic rock

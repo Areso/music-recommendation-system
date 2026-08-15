@@ -1,4 +1,3 @@
-legend
 pop
 pop
 hip-hop
@@ -6,27 +5,23 @@ hott
 justin timberlake
 pop
 pop
-rnb
+r'n'b
 pop
-fav male singers
 prince of pop
 pop
 dance
 hip-hop
 pop
-rnb
+r'n'b
 justin timberlake
 hip-hop
 male vocalist
-rnb
-sexy
+r'n'b
 urban
 male vocalist
 hip-hop
-sexy
-favorite
 hip-hop
-rnb
+r'n'b
 2000s
 american
 brandy
@@ -40,77 +35,62 @@ pop
 singer-songwriter
 timbaland
 dance
-sweet
 the good stuff
 <3
 hip-hop
 hot
 pop
-rnb
-sexy
-fave songs ever
+r'n'b
 american
 ballad
 dance
-favorite
 hip-hop
 male vocalist
 pop
-rnb
+r'n'b
 sad
-sexy
 soul
 pop
 <3
-rnb
+r'n'b
 dance
 hip-hop
 pop
-rnb
+r'n'b
 vocal
 memories
 4m4zinq
 f4nt4stic
 american
-cool
 electronic
-favorite
 pop
 pop music
 urban
 dance
 hip-hop
-rnb
-remix - paul oakenfold
+r'n'b
 dance
 disney
 male vocalist
 pop
-rnb
+r'n'b
 justin timberlake
 pop
 pop
 pop
 dance
 hip-hop
-rnb
-sexy
-legend
-masterpiece
-guilty pleasure
+r'n'b
 justin timberlake
 dance
 male vocalist
 pop
 punk
-rnb
-awesome
+r'n'b
 dance
 good mood music
 good mood songs
 happy
-sexy
-guilty pleasure
 dance with somebody
 acoustic
 dance
@@ -118,7 +98,6 @@ hip-hop
 justin timberlake
 male vocalist
 pop
-sexy
 slow
 soul
 jams
@@ -127,40 +106,35 @@ pop
 dance
 electronic
 hip-hop
+r'n'b
 rap
-rnb
 pop
 american
 dance
 male vocalist
-nice
 pop
-rnb
-sexy
+r'n'b
 pop
 dance
 top 40
 pop
 party
 rhythmalizm
-timba
 hip-hop
 justin timberlake
-love
 pop
-rnb
-sexy
+r'n'b
 2000s
 2004
 2006
 dance
 male vocalist
 pop
-rnb
+r'n'b
 usa
 dance
 pop
-rnb
+r'n'b
 pop
 dance
 pop
@@ -170,10 +144,7 @@ dance dance dance
 hip-hop
 pop
 emotional
-makes me wanna dance
-guilty pleasure
 nigger music
 justin timberlake
-rnb
-sexy
+r'n'b
 justin timberlake

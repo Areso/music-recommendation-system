@@ -3,7 +3,7 @@ ambient
 big beat
 blues
 cantonese
-chillout
+chill out
 chinese
 dance
 dark
@@ -24,4 +24,4 @@ soundtrack
 strings
 techno
 trance
-trip-hop
+trip hop

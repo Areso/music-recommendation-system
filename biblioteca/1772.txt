@@ -4,12 +4,11 @@ bluesy
 singer-songwriter
 acoustic
 blues
-chillout
+chill out
 easy listening
 female vocalist
 folk
 jazz
-love
 piano
 sad
 soul
@@ -29,7 +28,7 @@ jazz
 goddesses
 piano
 singer-songwriter
-chillout
+chill out
 easy listening
 female vocalist
 folk
@@ -38,9 +37,7 @@ mellow
 singer-songwriter
 soul
 female vocalist
-norah jones
 soft music
-wonderful world
 blues
 charmed
 female vocalist
@@ -54,17 +51,13 @@ female vocalist
 singer-songwriter
 female vocalist
 jazz
-awesome
-chillout
+chill out
 good mood music
 good mood songs
 guitar
 high school memories
 jazz
 love song
-norah jones
-sexy
-want to see live
 blues
 female vocalist
 jazz
@@ -75,8 +68,7 @@ jazz
 blues
 female vocalist
 jazz
-riot grrl
-seen live
+riot grrrl
 female vocalist
 jazz
 pop
@@ -86,5 +78,5 @@ singer-songwriter
 melrose place
 female vocalist
 alternative
-chillout
+chill out
 pop

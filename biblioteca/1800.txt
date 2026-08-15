@@ -1,22 +1,22 @@
 autumn
-chillout
+chill out
 new age
 ambient
-chillout
+chill out
 new age
 ambient
-chillout
+chill out
 descoperiri
 ethereal
 mellow
-chillout
+chill out
 ambient
 ambient
-chillout
+chill out
 new age
-electronica
+electronic
 ambient
-chillout
+chill out
 electronic
 ethereal
 new age
@@ -29,13 +29,12 @@ ethnic chill
 mythos
 world
 ambient
-chillout
+chill out
 electronic
-electronica
 ethereal
 melancholy
 sad
 ambient
-chillout
+chill out
 ethereal
 new age

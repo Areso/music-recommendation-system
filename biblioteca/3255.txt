@@ -4,7 +4,7 @@ british
 indie
 indie rock
 rock
-britpop
+brit pop
 indie
 indie rock
 male vocalist
@@ -16,10 +16,9 @@ pop
 rock
 alternative
 alternative rock
+brit pop
 british
-britpop
 indie
 indie rock
 rock
-seen live
 gossip girl

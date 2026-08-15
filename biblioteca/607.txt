@@ -1,10 +1,10 @@
-christmas blend
+christmas
 classic rock
 progressive rock
 professional
 classic rock
 progressive rock
-prog folk
+progressive folk
 progressive rock
 1970s
 classic rock
@@ -29,9 +29,8 @@ folk rock
 1970s
 british
 rock
-rock n roll
+rock'n'roll
 1969
-best christmas songs
 moonlight mile ost
 progressive
 classic rock
@@ -39,8 +38,8 @@ folk
 progressive rock
 rock
 progressive rock
+1960s
 1970s
-60s
 blues
 blues rock
 classic rock

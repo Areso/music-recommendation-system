@@ -7,4 +7,4 @@ futurepop
 ebm
 electronic
 swedish
-synthpop
+synth-pop

@@ -2,7 +2,4 @@ rain
 country
 1990s
 country
-beautiful
 country
-great song
-my favorite

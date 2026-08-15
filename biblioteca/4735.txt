@@ -1,26 +1,25 @@
 dance
-electronica
-electropop
+electronic
+electronic-pop
 house
 indie
 alternative dance
-electronica
+electronic
 indie
 deep house
 electronic
-electropop
+electronic-pop
 indie
 dark disco
 ambient
-chillout
+chill out
 dance
 downtempo
-indietronica
+indie electronic
 male vocalist
 mellow
 new wave
-synthpop
-trip-hop
-cool
-electro
+synth-pop
+trip hop
+electronic
 mellow

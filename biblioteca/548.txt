@@ -24,7 +24,7 @@ uk
 electronic
 indie
 indie pop
-synthpop
+synth-pop
 female vocalist
 female vocalist
 folk
@@ -48,21 +48,20 @@ electronic
 female vocalist
 indie
 british
-0 play yet
 indie pop
 cover
-electropop
+electronic-pop
 female vocalist
 indie
 pop
 alternative
-britpop
+brit pop
 electronic
-electropop
+electronic-pop
 indie
 indie pop
 pop
-synthpop
+synth-pop
 the vampire diaries
 electronic
 indie pop
@@ -70,8 +69,7 @@ indie pop
 atmospheric
 british
 cute
-electro
+electronic
 happy
-love at first listen
 sad
 the vampire diaries

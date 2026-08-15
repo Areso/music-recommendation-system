@@ -3,8 +3,8 @@ british
 psychedelic
 psychedelic rock
 singer-songwriter
+1960s
 1970s
-60s
 british
 classic rock
 psychedelic
@@ -22,10 +22,9 @@ psychedelic
 1970s
 drug music
 drug song
-albums i own
 psychedelic rock
+1960s
 1970s
-60s
 british
 classic rock
 psychedelic rock
@@ -33,6 +32,5 @@ uk
 indie
 a floyd
 a god on the earth
-genius
 psychedelic
 singer-songwriter

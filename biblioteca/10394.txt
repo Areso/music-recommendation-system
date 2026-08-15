@@ -1,20 +1,20 @@
 1970s
-rb
+r'n'b
 setenta
 seventies
 funk
 funk
-rnb
+r'n'b
 soul
 male vocalist
-rnb
+r'n'b
 soul
 top 40
 funk
 singer-songwriter
 soul
 soul
-rnb
+r'n'b
 vocal
 1970s
 funk
@@ -23,7 +23,6 @@ soul
 1970s
 groove
 motown
-i am a party girl here is my soundtrack
 funk
 sampled
 funk

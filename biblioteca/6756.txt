@@ -2,7 +2,7 @@
 acoustic
 ambient
 chill
-chillout
+chill out
 downtempo
 electronic
 ethereal
@@ -11,7 +11,7 @@ instrumental
 melancholy
 mellow
 new age
-relaxing
+relax
 icelandic
 icelandic
 instrumental
@@ -22,7 +22,6 @@ ambient
 icelandic
 experimental
 icelandic
-love it
 special
 krutt
 ambient
@@ -30,7 +29,6 @@ experimental
 icelandic
 instrumental
 post-rock
-seen live
 pastel
 ambient
 minimal

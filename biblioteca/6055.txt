@@ -1,7 +1,5 @@
 ambient
-electro
 electronic
 french
-synth pop
-synthpop
-synthpop
+synth-pop
+synth-pop

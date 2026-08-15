@@ -1,4 +1,3 @@
-favorite
 1990s
 alternative
 alternative rock
@@ -14,7 +13,6 @@ alternative rock
 rock
 1995
 1996
-my fav songs
 1990s
 2000s
 acoustic

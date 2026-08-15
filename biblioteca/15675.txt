@@ -1,44 +1,33 @@
-electronica
-trip-hop
+electronic
+trip hop
 ambient
 ambient
-chillout
-good
+chill out
 new age
 relax
-trip-hop
-favourite albums
+trip hop
 instrumental
-trip-hop
+trip hop
 techno brut
 ambient
-candombe
-fusion african
-amazing
 ambient
 atmospheric
-awesome
 calm
 calming
 celtic
 chill
 chill out
 chilled
-chillosophy
-chillout
 cinematic
 downtempo
 electronic
-electronica
-epic
 ethereal
 ethno
-female vocals
+female vocalist
 haunting
 idm
 instrumental
 lounge
-lovely
 melancholic
 melodic
 moody
@@ -49,7 +38,6 @@ powerful
 psybient
 psytrance
 relax
-relaxing
 sad
 sleep
 slow
@@ -59,37 +47,30 @@ space
 synth
 techno
 trance
-trip-hop
+trip hop
 triphop
 uplifting
 world
 ambient
 angelic
-beautiful
-beautiful voice
 cafe del mar
 celtic
 chill
-chillout
+chill out
 downtempo
 easy listening
 electronic
-electronica
 enigma
-epic
 ethereal
 etheric
 ethnic
 ethno
-heavenly
 hypnotic
 lounge
-lovely
 meditative
 melancholic
 mellow
 melodic
-music for my soul
 mythos
 new age
 oriental
@@ -97,12 +78,11 @@ peaceful
 psychill
 psytrance
 relax
-relaxing
 sad
 sensual
 smooth
 spiritual
-trip-hop
+trip hop
 world
 world fusion
 world music

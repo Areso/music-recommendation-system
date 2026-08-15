@@ -2,21 +2,20 @@ classic rock
 soft rock
 ultimate rock ballads
 1970s
-80s
+1980s
 new wave
 pop
 rock
-80s
-80s
+1980s
+1980s
 cover
 female vocalist
 alternative
 atmospheric
 dance
 hard rock
-pat benatar
-80s
-80s
+1980s
+1980s
 female vocalist
 rock
 female
@@ -25,13 +24,12 @@ american
 female vocalist
 lpa
 late night tunes
-80s
+1980s
 american
 classic rock
 new wave
 oldies
 pop
-amazing
 american
 classic rock
 female
@@ -43,4 +41,4 @@ singalong
 american
 female vocalist
 rock
-80s
+1980s

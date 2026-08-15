@@ -1,7 +1,6 @@
 female vocalist
 folk
 pop
-fav female singers
 relax
 sad
 country ladies
@@ -12,8 +11,6 @@ singer-songwriter
 acoustic
 female
 female vocalist
-female vocals
-love
 piano
 pop
 singer-songwriter
@@ -33,7 +30,6 @@ rock
 country
 dark
 female vocalist
-great song
 gritos ressussitadores de mortos
 pop
 powerful voice
@@ -43,7 +39,6 @@ pop
 female vocalist
 folk
 singer-songwriter
-nick y haylie
 acoustic
 piano
 female vocalist
@@ -56,9 +51,6 @@ female vocalist
 wicked women
 folk
 cool songs
-perfect
-perfect song
 valentines day
-jewel
 country
 folk

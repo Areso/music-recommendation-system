@@ -4,7 +4,6 @@ acoustic
 female vocalist
 indie
 singer-songwriter
-amy macdonald
 acoustic
 female vocalist
 pop
@@ -20,7 +19,6 @@ folk
 indie
 pop
 rock
-love it
 cover
 just could not get any better
 female vocalist

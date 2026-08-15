@@ -8,14 +8,10 @@ proto-punk
 alternative
 ambient
 electronic
-electronica
 indie
 rock
-amazing
 ambient
 atmospheric
-awesome
-beautiful
 dreamy
 psybient
 space
@@ -25,7 +21,7 @@ british
 electronic
 soundtrack
 alternative
-electronica
+electronic
 brian eno
 approved by goku
 approved by prince vegeta
@@ -39,7 +35,7 @@ electronic
 experimental
 soundtrack
 alternative
-electronica
+electronic
 relaxing muscles
 alternative
 british
@@ -55,11 +51,11 @@ hangover music
 phosphorescent
 seraphic
 ambient
-electronica
+electronic
 experimental
 instrumental
 alternative
-electronica
+electronic
 ambient
 experimental
 ambient

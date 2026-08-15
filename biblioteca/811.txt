@@ -18,8 +18,6 @@ metalcore
 swedish
 jebeno
 melodic death metal
-modern melodic death metal
-new wave of swedish melodic death metal
 swedish melodic death metal
 melodic death metal
 melodic death metal
@@ -27,8 +25,7 @@ metalcore
 hardcore
 melodic death metal
 metalcore
-screamo
-sonic syndicate
+scream
 metal
 metalcore
 melodic death metal

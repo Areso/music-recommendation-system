@@ -2,14 +2,13 @@ alternative
 alternative rock
 ambient
 aragon
-chillout
+chill out
 christian
 classical
 dance
 death metal
 deathcore
 electronic
-electronica
 emo
 emocore
 estudios teocida
@@ -32,7 +31,7 @@ progressive metal
 progressive rock
 punk
 rock
-screamo
+scream
 spain
 spanish
 spanish metal

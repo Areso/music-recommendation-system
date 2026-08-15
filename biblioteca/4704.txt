@@ -1,24 +1,21 @@
-electro pop
 electronic
+electronic-pop
 indie
 indie pop
 electronic
 indie
-best of 2008
 dance
 electronic
 indie
 electronic
 female vocalist
-awesome
 catchy
-cool
 energetic
 new wave
 indie pop
 indie rock
 new wave
-synthpop
+synth-pop
 female electronic
 british
 dance
@@ -37,35 +34,33 @@ electronic
 indie
 new wave
 raven girls top 20
-electropop
+electronic-pop
 suxx
 female vocalist
 alternative
 dance
 disco
-electro
 electronic
-electronica
-electropop
+electronic-pop
 indie
+indie electronic
 indie rock
-indietronica
 new wave
 pop
 rock
-synthpop
+synth-pop
 dance
 female vocalist
+indie electronic
 indie pop
-indietronica
 new wave
 pop
 singer-songwriter
-synthpop
+synth-pop
 alternative
 dance
 electronic
-electropop
+electronic-pop
 indie
 indie pop
 new wave
@@ -73,9 +68,8 @@ new zealand
 pop
 electronic
 pop
-chillout
+chill out
 dance
-electro
 electronic
 indie
 electronic
@@ -84,5 +78,4 @@ indie
 new wave
 synth
 brooke fraser
-new zeland
 pop

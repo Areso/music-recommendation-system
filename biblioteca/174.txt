@@ -3,7 +3,7 @@ psytrance
 trance
 electronic
 electronic
-electronica
+electronic
 goa
 psychedelic
 psychedelic trance
@@ -15,8 +15,8 @@ psytrance
 electronic
 psychedelic
 psychedelic trance
-electronica
-electro
+electronic
+electronic
 full-on
 goa
 mellow

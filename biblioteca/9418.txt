@@ -2,7 +2,7 @@
 classic rock
 funny
 southern fried rock
-60s
+1960s
 classic rock
 pop
 rock
@@ -20,7 +20,6 @@ classic rock
 oldies
 rock
 southern rock
-best songs of the 70s
 american
 classic rock
 pop

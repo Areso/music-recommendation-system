@@ -13,8 +13,8 @@ alternative
 classic rock
 rock
 folk
+1960s
 1970s
-60s
 american
 blues
 folk
@@ -23,7 +23,7 @@ singer-songwriter
 acoustic
 classic rock
 folk rock
-relaxing
+relax
 smooth
 acoustic
 cover

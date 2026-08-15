@@ -5,11 +5,10 @@ fergie
 hard rock
 rock
 slash
-80s
+1980s
 hard rock
 heavy metal
 rock
-beautiful
 hard rock
 guitar
 hard rock
@@ -23,5 +22,4 @@ god
 hard rock
 rock
 hard rock
-rock n roll
-seen live
+rock'n'roll

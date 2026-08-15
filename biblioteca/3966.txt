@@ -1,4 +1,4 @@
-80s
+1980s
 dance
 disco
 pop
@@ -10,13 +10,13 @@ disco
 eurodance
 german
 male vocalist
-synthpop
-80s
+synth-pop
+1980s
 disco
 eurodance
 lets dance
-80s
+1980s
 electronic
 new wave
-synthpop
-80s
+synth-pop
+1980s

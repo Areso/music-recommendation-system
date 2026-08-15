@@ -4,7 +4,7 @@ dance
 house
 techno
 dance
-electro
+electronic
 house
 techno
 trance
@@ -20,5 +20,4 @@ trance
 1990s
 dance
 electronic
-electronica
 trance

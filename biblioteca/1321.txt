@@ -1,10 +1,9 @@
-electro
 electronic
-synthpop
+synth-pop
 futurepop
 remix
 ebm
 futurepop
-synthpop
+synth-pop
 ebm
 industrial

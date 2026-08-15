@@ -1,6 +1,6 @@
 ambient
 downtempo
-electronica
+electronic
 idm
 ambient
 experimental
@@ -8,17 +8,15 @@ idm
 ambient
 downtempo
 electronic
-electronica
 idm
 city centre offices
-electronica
+electronic
 idm
 downtempo
 aphex twin
 autechre
-electronica
+electronic
 idm
 friends
 brainy
 idm
-my shoes are speaking

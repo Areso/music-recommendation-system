@@ -1,5 +1,5 @@
 1990s
-80s
+1980s
 female vocalist
 pop
 rock
@@ -7,7 +7,7 @@ cover
 female vocalist
 pop
 singer-songwriter
-80s
+1980s
 alternative
 british
 female vocalist
@@ -28,8 +28,6 @@ female
 female vocalist
 scottish
 oscar winning songs
-simply beautiful
-awesome
 emotion
 leftovergrooves
 pop

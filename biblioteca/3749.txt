@@ -2,7 +2,6 @@ spring
 acoustic
 blues
 easy listening
-love
 male vocalist
 piano
 soul
@@ -27,11 +26,8 @@ rock
 singer-songwriter
 2005
 2006
-my fav songs
 rock
-favorite song
 pop
 rock
 soundtrack
 piano
-seen live

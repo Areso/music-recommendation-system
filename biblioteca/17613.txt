@@ -1,18 +1,15 @@
 1970s
-80s
+1980s
 acoustic
 alternative
 alternative rock
 ambient
 american
 avant-garde
-awesome
-beautiful
 blues
-britpop
+brit pop
 classic
 classic rock
-cool
 country
 cover
 dark ambient
@@ -20,9 +17,7 @@ downtempo
 easy listening
 emo
 experimental
-favorite
 folk
-fun
 grunge
 guitar
 indie
@@ -30,7 +25,6 @@ indie pop
 indie rock
 instrumental
 lounge
-love
 male
 mellow
 new age
@@ -42,7 +36,6 @@ pop
 post-rock
 rock
 sad
-sexy
 shoegaze
 singer-songwriter
 soundtrack

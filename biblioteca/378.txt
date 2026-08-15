@@ -8,15 +8,11 @@ rock
 alternative rock
 american
 ballad
-beautiful
 dark
 depressive
 female vocals
-love it
 melancholic
 music to cry
-perfect
-perfect lyrics
 piano rock
 rock
 rock ballad
@@ -33,7 +29,6 @@ gothic rock
 rock
 <3
 excellent reason for crying
-love at first listen
 alternative rock
 nostalgic
 past tense
@@ -64,10 +59,7 @@ alternative
 female vocalist
 metal
 american
-awesome
 ballad
-beautiful
-favorite
 female vocalist
 gothic
 gothic metal
@@ -79,10 +71,8 @@ soundtrack
 alternative rock
 charmed
 classic rock
-cool
 country
 diva
-favourite songs
 female vocalist
 gothic
 gothic metal
@@ -113,33 +103,24 @@ metal
 nu metal
 rock
 alternative rock
-amy lee
 evanescence
 gothic rock
 rock
 alternative
-beautiful
 bolno
 prejebeno
 rock
-amazing
 american
 atmospheric
-beautiful
-favorite artist
-great lyricists
 haunting
 hypnotic
 sad
 terribly beautiful
 acoustic
-amazing
-beautiful
 deep
 female
 femme fronted metal
-nice female vocal
-relaxing
+relax
 rock
 alternative
 rock
@@ -185,13 +166,11 @@ rock
 female vocalist
 gothic rock
 female vocalist
-makes me cry
 rock
 female vocalist
 piano rock
 female
 female vocalist
-female vocals
 female voice
 pop
 gothic
@@ -216,15 +195,13 @@ alternative rock
 female vocalist
 rock
 usa
-masterpiece
 effy
 rock
 piano
 alternative
 alternative rock
 american
-beautiful
-chillout
+chill out
 dark
 dark rock
 electronic
@@ -234,12 +211,10 @@ female fronted
 female fronted metal
 female vocalist
 female voice
-goth
 gothic
 gothic rock
 hard rock
 industrial
-love
 melancholy
 modern rock
 new wave
@@ -247,12 +222,10 @@ piano
 pop
 power pop
 rock
-sexy
 singer-songwriter
 winter
 rock
 alternative
-epic
 epic rock
 gothic
 nu metal
@@ -263,9 +236,6 @@ female vocalist
 gothic metal
 rock
 gothic rock
-albums i own
-love at first listen
-mine
 tiger
 female vocalist
 rock

@@ -1,7 +1,5 @@
 alternative
 depeche mode
 electronic
-electronica
 male vocalist
-synth pop
-synthpop
+synth-pop

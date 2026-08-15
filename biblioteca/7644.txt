@@ -1,6 +1,5 @@
 female vocalist
 indie
-seen live
 swedish
 female vocalist
 singer-songwriter
@@ -10,7 +9,7 @@ mellow
 singer-songwriter
 acoustic
 female vocalist
-relaxing
+relax
 singer-songwriter
 acoustic
 female vocalist
@@ -22,7 +21,7 @@ indie
 pop
 singer-songwriter
 acoustic
-chillout
+chill out
 downtempo
 female vocalist
 folk

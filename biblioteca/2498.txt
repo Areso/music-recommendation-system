@@ -2,16 +2,14 @@ dance
 electronic
 techno
 bass
-hoppar
 club
 dance
 electronic
-electronica
 eurodance
 male vocalist
 pop
 trance
-eletronica
+electronic
 dance
 electronic
 dance
@@ -19,7 +17,7 @@ hooooooooot
 swedish
 dance
 dance
-electronica
+electronic
 trance
 dance
 electronic

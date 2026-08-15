@@ -12,7 +12,7 @@ singer-songwriter
 acoustic
 acoustic rock
 surf
-relaxing
+relax
 singer-songwriter
 chill
 acoustic
@@ -23,7 +23,6 @@ aana
 acoustic
 mellow
 singer-songwriter
-perfecttt
 acoustic
 acoustic rock
 singer-songwriter
@@ -34,8 +33,7 @@ acoustic
 male vocalist
 singer-songwriter
 acoustic
-chillout
-love
+chill out
 male vocalist
 mellow
 pop
@@ -54,20 +52,15 @@ cover
 acoustic
 alternative
 ambient
-awesome
-beautiful
-chillout
+chill out
 folk
 happy
 indie
-lovely
 relax
-relaxing
 rock
 sad
 singer-songwriter
-sweet
 acoustic
-chillout
+chill out
 folk
 beach music

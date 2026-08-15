@@ -1,5 +1,4 @@
 ambient
-beautiful
 experimental
 glitch
 idm

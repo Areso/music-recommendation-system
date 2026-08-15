@@ -1,6 +1,6 @@
 brazilian
+1960s
 1970s
-60s
 brazilian
 psychedelic
 brazilian rock
@@ -13,7 +13,6 @@ brazilian
 experimental
 psychedelic
 better than lady gaga
-psychedelia
 psychedelic
 rock
 originals
@@ -31,10 +30,10 @@ experimental
 mpb
 progressive rock
 rock
+1960s
 1970s
-60s
 bossa nova
-brasil
+brazil
 classic rock
 cover
 mpb
@@ -43,7 +42,6 @@ psychedelic rock
 ambient
 classic rock
 experimental
-fun
 progressive rock
 psychedelic
 psychedelic rock

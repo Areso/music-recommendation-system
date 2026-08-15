@@ -1,8 +1,5 @@
 ambient
 atmospheric
-awesome
-beautiful
-epic
 experimental
 psybient
 psychedelic

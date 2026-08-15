@@ -6,16 +6,16 @@ downtempo
 jazz
 lounge
 nu jazz
-trip-hop
+trip hop
 downtempo custom
 heard on 30 jul 06 downtempo sampler radio
-chillout
+chill out
 jazz
 dark disco
 deepclash
 electroclash
 acid jazz
-trip-hop
+trip hop
 whitenoize
 dance
 downtempo
@@ -23,9 +23,8 @@ female vocalist
 instrumental
 jazz
 lounge
-trip-hop
+trip hop
 acid jazz
-chillout
-favorite artist
+chill out
 lounge
 nu jazz

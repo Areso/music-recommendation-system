@@ -1,4 +1,4 @@
-60s
+1960s
 alternative
 classic rock
 experimental
@@ -14,4 +14,3 @@ cover
 instrumental
 pop
 pop
-legend

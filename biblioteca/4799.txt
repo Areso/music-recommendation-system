@@ -1,6 +1,6 @@
 alternative
 blues
-brasil
+brazil
 brazilian
 indie
 rock
@@ -10,4 +10,4 @@ brazilian rock
 funk rock
 hard rock
 psychedelic rock
-rock and roll
+rock'n'roll

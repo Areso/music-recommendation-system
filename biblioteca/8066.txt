@@ -8,5 +8,4 @@ jazz
 neo swing
 alternative
 jazz
-favorite
 jazz

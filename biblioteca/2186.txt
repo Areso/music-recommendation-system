@@ -4,7 +4,6 @@ deathcore
 melodic
 melodic deathcore
 metalcore
-metalcore metal
 deathcore
 metalcore
 deathcore

@@ -1,6 +1,5 @@
 avantasia
 black halo
-epic
 epica
 ghost opera
 heavy metal
@@ -16,7 +15,6 @@ progressive rock
 queensryche
 rhapsody
 rock
-rock 'n' roll
-rock and roll
+rock'n'roll
 symphonic metal
 tobias sammet

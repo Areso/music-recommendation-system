@@ -13,7 +13,7 @@ acoustic
 canadian
 epically romantic
 canadian
-indierock
+indie rock
 acoustic
 indie
 romantic
@@ -21,7 +21,6 @@ singer-songwriter
 hoy tengo ganas de llorar
 acoustic
 acoustic
-amazing
 singer-songwriter
 acoustic
 folk

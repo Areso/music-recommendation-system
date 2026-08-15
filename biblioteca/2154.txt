@@ -2,7 +2,6 @@ alternative
 alternative
 emo
 nu metal
-seen live
 alternative
 emocore
 russian alternative
@@ -13,5 +12,4 @@ nu metal
 russian
 russian alternative
 alternative
-seen live
 russia

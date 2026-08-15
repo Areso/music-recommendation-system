@@ -5,7 +5,6 @@ alternative
 rock
 indie rock
 alternative
-great bands
 indie rock
 british
 indie
@@ -18,8 +17,7 @@ female vocalist
 post-grunge
 rock
 indie rock
-seen live
-britpop
+brit pop
 garage rock
 indie
 indie rock
@@ -30,8 +28,6 @@ female vocalist
 indie
 indie rock
 male vocalist
-idolo
-rock me babe
 alternative
 rock
 indie
@@ -57,7 +53,5 @@ indie
 rock
 british
 fucking awesome
-genius
 indie
-seen live
 indie

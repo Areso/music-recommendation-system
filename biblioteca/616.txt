@@ -1,6 +1,6 @@
 idm
 ambient
-drum and bass
+d'n'b
 experimental
 idm
 idm
@@ -12,12 +12,12 @@ industrial
 jazz
 soundtrack
 techno
-trip-hop
+trip hop
 avant-garde
 squarepusher
 ambient
-drum and bass
-electro
+d'n'b
+electronic
 experimental
 idm
 drill n bass
@@ -25,14 +25,11 @@ electronic
 experimental
 idm
 warp
-chillout
+chill out
+d'n'b
 downtempo
-drum and bass
-electro
 electroclash
 electronic
-electronica
-favorite
 headphones
 idm
 minimal
@@ -43,11 +40,10 @@ idm
 electronic
 fucked up
 iron jesus
-this will make you shit your pants
 warp
 downtempo
 electronic
 experimental
-trip-hop
+trip hop
 ambient
 idm

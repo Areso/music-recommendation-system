@@ -25,7 +25,6 @@ rock
 colors
 rock
 cool as
-fantastic
 rock
 2000s
 american
@@ -44,7 +43,6 @@ pop punk
 teen days
 alternative
 rock
-violino
 alternative
 punk
 rock

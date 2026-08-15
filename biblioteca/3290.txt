@@ -1,6 +1,5 @@
-cranes
 atmospheric
-chillout
+chill out
 dream pop
 dreampop
 ethereal
@@ -8,23 +7,20 @@ female vocalist
 indie
 mellow
 shoegaze
-trip-hop
+trip hop
 bark
 barkbarkdisco
-animals
 approfondire
-best unknown bands tracks to be observed
 orgasmo
+1980s
 1990s
 2000s
-80s
 ambient
 british
-chillout
+chill out
 downtempo
 dream pop
 electronic
-electronica
 experimental
 female vocalist
 indie
@@ -32,13 +28,13 @@ new wave
 post-punk
 shoegaze
 singer-songwriter
-trip-hop
+trip hop
 recos
 dream pop
 ethereal
 female vocalist
 shoegaze
-goth
+gothic
 dream pop
 ethereal
 shoegaze

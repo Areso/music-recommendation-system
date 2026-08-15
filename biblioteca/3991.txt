@@ -1,7 +1,6 @@
 ambient
 dance
-electro
 electronic
-synthpop
-trip-hop
+synth-pop
+trip hop
 norwegian

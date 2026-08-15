@@ -1,13 +1,10 @@
 abstract
 ambient
-avantgarde
-chillout
-darkwave
+avant-garde
+chill out
+dark wave
 experimental
 idm
-lightwave
 new age
 noise
 russian
-ural
-urbanwave

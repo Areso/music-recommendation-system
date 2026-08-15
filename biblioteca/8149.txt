@@ -1,11 +1,11 @@
 ebm
 german
-synthpop
-synthpop
-synthpop
+synth-pop
+synth-pop
+synth-pop
 ebm
 futurepop
-synthpop
+synth-pop
 ebm
 industrial
-synthpop
+synth-pop

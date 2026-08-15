@@ -22,7 +22,7 @@ alternative
 grunge
 rock
 grunge
-80s
+1980s
 feelgood
 alternative rock
 grunge
@@ -55,23 +55,16 @@ alternative rock
 grunge
 rock
 grunge
-fav song
-sdsd
-awesome
 guitar solo
-harmonic
 layne staley
-make me cry
 alternative rock
 rock
 pearl jam
 1990s
 alternative rock
 atmospheric
-awesome
 emotional
 especiales
-favourite bands
 grunge
 melodia
 seattle
@@ -81,7 +74,6 @@ alternative
 alternative rock
 pop rock
 rock
-best songs of the 90s
 american
 grunge
 grunge
@@ -93,9 +85,7 @@ hard rock
 rock
 rock
 depression is kicking in
-great lyrics
 grunge
-love this song
 rock
 seattle
 alternative
@@ -105,8 +95,6 @@ grunge
 classic rock
 atmospheric
 hard rock
-sweet
-epic
 rock out
 1990s
 grunge
@@ -115,8 +103,8 @@ grunge
 hard rock
 post-grunge
 rock
+1980s
 1990s
-80s
 alternative rock
 grunge
 alternative
@@ -128,7 +116,6 @@ classic
 1990s
 grunge
 pearl jam
-best cover
 gluhie 90e
 grunge
 usa

@@ -8,7 +8,7 @@ rock
 metal
 punk
 rock
-horrorpunk
+horror punk
 metal
 alternative
 metal

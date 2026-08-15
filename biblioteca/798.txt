@@ -2,14 +2,11 @@
 british
 dance
 dance-pop
-electronica
-europop
+electronic
+euro-pop
 female
 female vocalist
-fun
 gay
-gay icon
-girl
 pop
 queen of pop
 teen pop
@@ -17,7 +14,6 @@ pop
 ballad
 dance
 female vocalist
-sexy
 singer-songwriter
 female vocalist
 british
@@ -33,7 +29,5 @@ english
 pop
 british
 gay
-my fav songs
 party
-seen live
 spice

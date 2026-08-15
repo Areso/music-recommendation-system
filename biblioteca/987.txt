@@ -1,5 +1,5 @@
 1970s
-rb
+r'n'b
 setenta
 seventies
 funk
@@ -11,12 +11,12 @@ under two minutes
 funk
 funk
 1970s
-rnb
+r'n'b
 funk
 american
 funk
 1970s
-80s
+1980s
 disco
 funk
 1970s
@@ -27,7 +27,6 @@ american
 dance
 disco
 funk
-funky
 groove
 jazz
 oldies
@@ -35,6 +34,6 @@ pop
 rhythm and blues
 soul
 funk
-rnb
+r'n'b
 soul
 1970s

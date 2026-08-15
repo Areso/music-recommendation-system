@@ -1,32 +1,28 @@
 electronic
-beautiful
-genius
 haunting
 so sad yet so beautiful
 alternative
 electronic
-synth pop
+synth-pop
 alternative
 british
 electronic
-love
 sex
 alternative
 dave gahan
 electronic
 uk
-80s
+1980s
 alternative
 new wave
 rock
-synth pop
-synthpop
+synth-pop
 electronic
 alternative
 british
 electronic
 new wave
-synth pop
+synth-pop
 depeche mode
 2000s
 british
@@ -41,28 +37,21 @@ dm
 electronic
 singer-songwriter
 as
-grande cantor
 hot
-sexy
-tags
 dave gahan
-electro-rock
 electronic
+electronic rock
 fucking great
-painfull
 rock
-sob
 alternative
 indie
 new wave
-synthpop
-hourglass
+synth-pop
 british
 cover
 electronic
 male vocalist
 rock
-seen live
 tribute
 alternative
 electronic
@@ -70,15 +59,13 @@ rock
 sexiest man in the world
 alternative
 dave gahan
-dave gahan is a sex idol
 electronic
 rock
 electronic
 alternative
 electronic
 new wave
-synthpop
-awesome
+synth-pop
 british
 depeche mode
 mute records
@@ -87,45 +74,35 @@ alternative
 electronic
 new wave
 rock
-synthpop
+synth-pop
 electronic
-synthpop
+synth-pop
 alternative
 depeche mode
-synthpop
+synth-pop
 as
 hot
-tags
 voz marcante
 depeche mode
 electronic
-favourite songs
 alternative
 electronic
 new wave
-synthpop
+synth-pop
 uk
-amazing
-darkwave
+dark wave
 depeche mode
-favorite
-favourite artists
-favourite songs
 alternative
 alternative rock
-awesome
 bloody great
-cool
 electronic
-electronica
 industrial
 melancholic
 melancholy
 new wave
 sex music
-sexy
 synth
-synthpop
+synth-pop
 yearns to be covered
 electronic
 alternative

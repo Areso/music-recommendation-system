@@ -1,2 +1,2 @@
-darkwave
+dark wave
 ethereal

@@ -1,11 +1,9 @@
-thomas newman
 ambient
 space
 chef musinum
 classic
 classical
 electronic
-electronica
 experimental
 instrumental
 jean marc toma
@@ -13,7 +11,7 @@ lostfreeq
 new beat
 soundtrack
 ambient
-chillout
+chill out
 classical
 instrumental
 soundtrack
@@ -23,7 +21,6 @@ soundtrack
 american beauty
 soundtrack
 instrumental
-filmska muzika
 soundtrack
 the best classical opera and film scores
 soundtrack

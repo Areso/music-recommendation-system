@@ -1,14 +1,12 @@
-dnb
-drum and bass
-drum n bass
+d'n'b
 alternative
 dub
-electronica
+electronic
 breakbeat
+d'n'b
 dance
-drum and bass
 hip-hop
-drum and bass
+d'n'b
 geography
 world
 dub
@@ -17,6 +15,5 @@ electronic
 hip-hop
 alternative
 electronic
-electronica
-trip-hop
+trip hop
 hip-hop

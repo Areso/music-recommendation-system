@@ -1,4 +1,3 @@
-brasil
 brazil
 brazilian
 folk
@@ -10,7 +9,7 @@ acoustic
 acoustic rock
 alternative
 alternative rock
-brasil
+brazil
 mpb
 pop rock
 mpb

@@ -1,6 +1,5 @@
 ambient
 atmospheric
-beautiful
 experimental
 indie
 melancholic

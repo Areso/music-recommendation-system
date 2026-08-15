@@ -1,10 +1,8 @@
 assertive
-awesome
 banger
 beast
 brooklyn
 classic
-cool
 crazy
 dope
 east coast rap
@@ -12,7 +10,6 @@ fiya
 freestyle
 gangsta rap
 good shit
-great lyricists
 hard
 hip-hop
 ill
@@ -20,7 +17,6 @@ lyricism
 mean
 neat
 new york shit
-nice
 phat
 poignant
 rap
@@ -29,7 +25,6 @@ real talk
 sick
 solid
 superb
-sweet
 the truth
 tight
 urban

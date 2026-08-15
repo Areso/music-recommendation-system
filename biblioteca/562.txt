@@ -1,4 +1,3 @@
-legend
 rock
 classic rock
 morning
@@ -8,34 +7,32 @@ summer
 british
 classic rock
 rock
+1960s
 1970s
-60s
 british
 classic rock
 psychedelic
 rock
 uk
+1960s
 1970s
-60s
 classic rock
 uk
 rock
+1960s
 1970s
-60s
 british
 classic rock
 british
-love
 male vocalist
 rock
-60s
+1960s
 classic rock
-tag your songs properly
 blues
 classic rock
 hard rock
 rock
-60s
+1960s
 classic rock
 british
 mod
@@ -45,40 +42,39 @@ hard rock
 classic rock
 hard rock
 rock
-rock and roll
-60s
+rock'n'roll
+1960s
 british
 hard rock
 hard rock
 british
 classic rock
 hard rock
+1960s
 1970s
-60s
 classic rock
 rock
 classic rock
 classic rock
 hard rock
 rock
-60s
+1960s
 hard rock
 rock
 rain
 proto-punk
 raw
 classic rock
+1960s
 1970s
-60s
 british
 classic rock
 hard rock
 mod
 rock
-60s
+1960s
 british
 classic rock
-csi
 house
 house md
 rock
@@ -88,7 +84,6 @@ classic rock
 hard rock
 rock
 classic rock
-out for blood
 guitar solo
 christmas
 british
@@ -103,31 +98,28 @@ british
 classic rock
 classic
 classic rock
-prog rock
+progressive rock
 classic rock
-saw them 3x
-60s
+1960s
 british
 classic rock
 hard rock
-60s
+1960s
 british
 classic rock
 rock
 neon space
 classic rock
-60s
+1960s
 classic rock
 hard rock
 rock
 british
 progressive rock
 classic rock
-favorite
-favorite artist
 rock
+1960s
 1970s
-60s
 classic rock
 hard rock
 rock
@@ -141,19 +133,16 @@ british invasion
 classic rock
 live
 rock
-awesome
 british invasion
 classic
 classic rock
-epic
 hard rock
 oldies
 progressive rock
 psychedelic
 psychedelic rock
-rock and roll
-60s
-epic
+rock'n'roll
+1960s
 england
 rock
 uk
@@ -168,6 +157,5 @@ pop
 progressive rock
 1970s
 uk
-epic
 classic rock
 tiger

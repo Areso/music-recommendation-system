@@ -1,6 +1,5 @@
-folkloric
-multiculti
-multikulti
+folk
+multicultural
 turkce
 turkish
 derd

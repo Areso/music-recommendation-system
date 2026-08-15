@@ -3,10 +3,9 @@ acoustic
 indie
 nostalgic
 acoustic
-chillout
+chill out
 folk
 indie
-love
 male vocalist
 mellow
 piano
@@ -15,7 +14,6 @@ singer-songwriter
 acoustic
 folk
 singer-songwriter
-damien
 acoustic
 ballad
 chill
@@ -25,7 +23,6 @@ singer-songwriter
 acoustic
 alternative
 ballad
-beautiful
 emotional
 indie
 indie pop
@@ -34,7 +31,6 @@ mellow
 piano
 singer-songwriter
 acoustic
-beautiful
 indie
 sad
 singer-songwriter
@@ -43,7 +39,6 @@ indie
 singer-songwriter
 acoustic
 crime
-soundtrack of my life
 indie
 piano
 rock
@@ -51,10 +46,8 @@ vocal
 acoustic
 folk
 singer-songwriter
-oh damien
 acoustic
 folk
-love it
 male vocalist
 singer-songwriter
 indie
@@ -62,19 +55,16 @@ singer-songwriter
 singer-songwriter
 acoustic
 acoustic
-beautiful
 escuta isso por favor
-love
 male vocalist
 pra acalmar
 romantica
 slow
 tbu
 songs diana sang on x factor
-chillout
+chill out
 piano
 hoy tengo ganas de llorar
-idolo
 inlove
 acoustic
 alternative
@@ -85,17 +75,13 @@ singer-songwriter
 friends
 jukebox project
 acoustic
-awesome
-epic
 folk
-lovely
 sad
 singer-songwriter
 ich liebe dich
-favorite
 live music archive
 irish
 acoustic
 acoustic
 acoustic
-bitter sweet
+bittersweet

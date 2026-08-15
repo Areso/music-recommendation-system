@@ -6,8 +6,6 @@ alternative
 funk
 hip-hop
 rock
-favorite
-favorite song
 alternative
 hip-hop
 90210

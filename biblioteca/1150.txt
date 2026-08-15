@@ -1,4 +1,3 @@
-i am canadian
 canadian
 folk rock
 singer-songwriter
@@ -6,8 +5,8 @@ canadian
 singer-songwriter
 poetry
 singer-songwriter
+1960s
 1970s
-60s
 acoustic
 blues
 canadian
@@ -23,7 +22,7 @@ alternative
 experimental
 folk
 singer-songwriter
-60s
+1960s
 folk
 politeconomist realife soundtrack
 singer-songwriter
@@ -45,7 +44,6 @@ piano
 pop
 1967
 folk
-legend
 raven girls top 20
 songs diana sang on x factor
 acoustic
@@ -56,13 +54,11 @@ melancholy
 mellow
 blues
 folk
-favorite song
 arkadi
 anja1992
 montreal
-screamo
+scream
 folk
-love
 folk
 canada
 folk
@@ -70,5 +66,5 @@ lefties
 songwriter
 canadian
 canadian
-chillout
+chill out
 singer-songwriter

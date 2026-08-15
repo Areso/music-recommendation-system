@@ -1,6 +1,5 @@
 dance
 esc
 eurovision
-eurovision song contest
 pop
 swedish

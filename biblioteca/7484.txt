@@ -1,5 +1,4 @@
 ambient
-analog
 aphex twin
 boards of canada
 casino versus japan
@@ -7,10 +6,6 @@ chillwave
 do aliens dance in four four
 downtempo
 electronic
-electronica
 experimental
-hexagon sun
 idm
 lost integrity
-one on twoism
-twosim

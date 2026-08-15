@@ -3,4 +3,4 @@ spanish
 ballad
 male
 spanish
-synthpop
+synth-pop

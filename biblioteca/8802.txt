@@ -1,13 +1,12 @@
 chill zone
 ambient
-chillout
-electronica
+chill out
+electronic
 world
 new age
 ambient
-chillout
+chill out
 electronic
-electronica
 instrumental
 new age
 ambient
@@ -31,11 +30,11 @@ sand
 alsolike
 ambient
 ambient
-chillout
+chill out
 electronic
 japanese
 space rock
-relaxing
+relax
 ambient
 ezbeni
 winds of soul

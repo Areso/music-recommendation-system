@@ -1,16 +1,15 @@
 alternative
 pop
 rock
-christmas blend
+christmas
 cover
 pop
 cover
 female vocalist
 alternative
 rock
-awesome
 childhood memories
-chillout
+chill out
 good mood music
 good mood songs
 infatuation
@@ -24,7 +23,6 @@ alternative rock
 american
 female vocalist
 indie
-love
 mellow
 pop
 pop rock
@@ -36,7 +34,7 @@ alternative
 female vocalist
 indie
 rock
-90's
+1990s
 christian rock
 covers that are actually good
 alternative
@@ -48,7 +46,6 @@ pop rock
 rock
 soft rock
 female vocalist
-love
 pop
 pop rock
 pop

@@ -2,7 +2,6 @@ avant-garde
 broken-clash
 dark disco
 drag
-electro
 electroclash
 electronic
 experimental
@@ -12,7 +11,7 @@ idm
 new wave
 newbreed
 post-electroclash
-synthpop
+synth-pop
 witch chill
 witch-clash
 witch house

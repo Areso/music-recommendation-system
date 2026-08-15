@@ -1,13 +1,13 @@
 garage
 garage revival
-instro rock
+instrumental rock
 surf
 songs for gil
 electronic
 experimental
 russian
-50s
-60s
+1950s
+1960s
 cover
 instrumental
 surf
@@ -16,5 +16,4 @@ broken-clash
 drag
 electronic
 experimental
-too cool for normal tags
 witch house

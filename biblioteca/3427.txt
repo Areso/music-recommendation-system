@@ -9,7 +9,6 @@ rock
 1990s
 rock
 alternative rock
-beautiful
 ballad
 soundtrack
 1990s
@@ -27,7 +26,6 @@ rock
 alternative rock
 alternative
 alternative rock
-cool
 rock
 alternative rock
 melancholy
@@ -50,7 +48,6 @@ acoustic rock
 alternative
 pop rock
 rock
-if my soul were composed of musical notes
 1990s
 2000s
 acoustic

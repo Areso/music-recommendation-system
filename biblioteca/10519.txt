@@ -2,7 +2,7 @@ ambient
 electronic
 acid jazz
 chill
-chillout
+chill out
 downtempo
 jazz
 ninja tune
@@ -13,17 +13,17 @@ eldad
 for work
 electronic
 acid jazz
-chillout
+chill out
 jazz
 whitenoize
 alsolike
 nu jazz
-chillout
+chill out
 electronic
 experimental
-trip-hop
+trip hop
 acid jazz
-trip-hop
-chillout
+trip hop
+chill out
 downtempo
 nu jazz

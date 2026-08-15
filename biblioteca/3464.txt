@@ -22,17 +22,14 @@ acoustic
 classic rock
 indie
 indie rock
-love
 mellow
 pop rock
 romantic
 soft rock
 soundtrack
-love
 sad
 2008
 happy
-i am in love with this song
 pop rock
 singalong
 top 40
@@ -42,6 +39,5 @@ alternative rock
 1990s
 alternative
 alternative rock
-favorite band
 other great tracks
 rock

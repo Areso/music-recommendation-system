@@ -4,7 +4,6 @@ mathcore
 noisecore
 hardcore
 noisecore
-false grind
 experimental
 grindcore
 noise

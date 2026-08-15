@@ -1,4 +1,4 @@
-synthpop
+synth-pop
 cap
 chillwave
 electronic
@@ -8,7 +8,7 @@ chillwave
 electronic
 lo-fi
 psychedelic
-synthpop
+synth-pop
 lo-fi
 chillwave
 electronic
@@ -20,4 +20,4 @@ neo-electro
 witch chill
 psychedelic
 psychedelic
-synthpop
+synth-pop

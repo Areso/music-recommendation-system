@@ -7,9 +7,8 @@ medieval
 melancholy
 new age
 ambient
-chillout
+chill out
 german
-chant
 cover
 gregorian
 gregorian
@@ -19,16 +18,14 @@ new age
 vocal
 ambient
 ambient
-chillout
+chill out
 special
 ambient
 new age
-ambiental
+ambient
 gregorian
-love
 new age
 ambient
-amazing
 angelic
 dreamy
 fascinating

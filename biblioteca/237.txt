@@ -1,15 +1,14 @@
 alternative
 electronic
 alternative
-electronica
-indietronica
+electronic
+indie electronic
 alternative
 electronic
 experimental
 indie
 singer-songwriter
-beautiful
-chillout
+chill out
 electronic
 piano
 sad
@@ -25,7 +24,7 @@ indie
 singer-songwriter
 electronic
 rain
-electronica
+electronic
 alternative
 british
 electronic
@@ -42,7 +41,7 @@ relax
 iron jesus
 electronic
 idm
-indietronica
+indie electronic
 alternative
 alternative rock
 electronic
@@ -51,10 +50,8 @@ indie
 alsolike
 rock
 beat
-amazing
 ambient
-electro
-genius
+electronic
 piano
 sad
 dubstep

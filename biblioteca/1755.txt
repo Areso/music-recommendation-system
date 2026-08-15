@@ -1,28 +1,28 @@
+1960s
 1970s
+1980s
 1990s
 2000s
-60s
-80s
 acoustic
-brasil
+brazil
 male vocalist
 melancholy
 mpb
 singer-songwriter
-brasil
+brazil
 mpb
-60s
+1960s
 brazilian
 mpb
 singer-songwriter
 mpb
-60s
+1960s
 bossa nova
 mpb
 singer-songwriter
 bossa nova
 brazil
-brasil
+brazil
 composer
 male vocalist
 bossa nova
@@ -37,7 +37,6 @@ samba
 mpb
 musica popular brasileira
 bossa nova
-brasil
 brazil
 brazilian
 mpb

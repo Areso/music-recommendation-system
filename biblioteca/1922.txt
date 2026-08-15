@@ -5,7 +5,6 @@ j-pop
 piano
 quirky
 singer-songwriter
-sweet
 female vocalist
 j-pop
 japanese
@@ -14,5 +13,4 @@ singer-songwriter
 2009
 j-pop
 japanese
-jpop
 pop

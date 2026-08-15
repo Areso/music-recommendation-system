@@ -6,7 +6,6 @@ punk rock
 alternative
 american
 male vocalist
-nice
 punk
 punk rock
 rap
@@ -20,8 +19,6 @@ pop punk
 punk
 rapcore
 rock
-cool
-favorite
 happy
 indie rock
 legal

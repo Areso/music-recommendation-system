@@ -3,21 +3,18 @@ experimental
 idm
 minimal
 electronic
-electronica
-minimal
-techno
-electronica
+electronic
 minimal
 techno
 electronic
 minimal
-electro
-electronic
-electronica
 techno
-electro
+electronic
+minimal
+electronic
+techno
+electronic
 dance
-electro
 electronic
 dark disco
 techno

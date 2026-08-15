@@ -5,9 +5,7 @@ ambient
 experimental
 idm
 ambient
-electro
 electronic
-electronica
 experimental
 idm
 drill n bass
@@ -15,14 +13,13 @@ idm
 warp
 experimental
 idm
-dnb
+d'n'b
 breakcore
-electronica
+electronic
 idm
 wonderful through headphones
 electronic
-beautiful
-electronica
+electronic
 idm
 the end
 ambient

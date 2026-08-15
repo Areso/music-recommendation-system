@@ -1,4 +1,4 @@
-rnb
+r'n'b
 english
 male
 anti-witch house
@@ -6,7 +6,7 @@ pop
 funk
 hip-hop
 indie
-rnb
+r'n'b
 soul
 shit
 the worst thing ever to happen to music

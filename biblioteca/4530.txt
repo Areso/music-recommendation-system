@@ -1,4 +1,4 @@
-alt-country
+alternative country
 singer-songwriter
 rock
 1990s
@@ -7,9 +7,9 @@ american
 americana
 country
 singer-songwriter
+1960s
 1970s
-60s
 classic rock
-alt-country
+alternative country
 blues
 country

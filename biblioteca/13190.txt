@@ -1,9 +1,6 @@
 electronic
-synth pop
-synthpop
+synth-pop
 alternative
 electronic
-electronica
 industrial
-synth pop
-synthpop
+synth-pop

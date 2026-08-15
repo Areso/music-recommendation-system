@@ -5,7 +5,6 @@ rock
 singer-songwriter
 1990s
 ballad
-beautiful
 piano
 alternative rock
 1990s
@@ -18,11 +17,9 @@ us rock
 alternative
 alternative rock
 1990s
-cool
 rock
 alternative rock
 rock
-cool
 good bands
 alternative rock
 1990s
@@ -37,4 +34,4 @@ alternative rock
 grunge
 rock
 alternative rock
-rock-pop
+pop rock

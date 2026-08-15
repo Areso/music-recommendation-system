@@ -1,5 +1,4 @@
 hardcore
-j-metal
 j-rock
 japanese
 hardcore
@@ -17,6 +16,5 @@ j-rock
 japanese
 punk
 anime soundtrack
-freakshow
-japanese rock
+j-rock
 j-rock

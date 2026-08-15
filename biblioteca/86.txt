@@ -3,21 +3,17 @@ female vocalist
 house
 jazz
 00
-dazs favourites
 mellow
 acoustic
 ballad
 blues
-chillout
+chill out
 cover
 easy listening
 female vocalist
 jazz
-love
-love at first listen
 mellow
 blues
-favorite
 jazz
 acoustic
 blues
@@ -33,7 +29,7 @@ female vocalist
 jazz
 2000s
 blues
-chillout
+chill out
 jazz
 pop
 singer-songwriter

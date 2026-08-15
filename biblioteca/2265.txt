@@ -1,27 +1,25 @@
-legend
 nostalgia
-christmas blend
-60s
+christmas
+1960s
 classic rock
 oldies
 rock
 singer-songwriter
-60s
+1960s
 folk
+1960s
 1970s
-60s
 acoustic guitar
-beautiful
 classic rock
 ethereal
 folk
 funny
 live recording
 singer-songwriter
-60s
+1960s
 folk
 oldies
-60s
+1960s
 folk
 oldies
 rock
@@ -33,7 +31,7 @@ oldies
 popular
 classic rock
 folk
-60s
+1960s
 classic rock
 singer-songwriter
 alternative
@@ -44,15 +42,13 @@ folk
 live
 folk
 singer-songwriter
-60s
+1960s
 dance with somebody
 1966
 1968
 1970
-best songs of the 60s
-best songs of the 70s
 garden state soundtrack
-60s
+1960s
 acoustic
 bi daha dinlicem
 classic rock
@@ -71,19 +67,14 @@ folk
 classic rock
 jukebox project
 dreamlike
-amazing
-epic
-my own private sunshine
 acoustic
 classic rock
 rock
-favorite
 winter
+1960s
 1970s
-60s
 acoustic
 folk
 singer-songwriter
 classic rock
 folk
-favorite band

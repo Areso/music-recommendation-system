@@ -1,5 +1,4 @@
 british
-electro
 electronic
 indie
 new rave
@@ -10,6 +9,6 @@ new rave
 drum machine
 new cross
 party
-synth pop
+synth-pop
 synth-punk
 yay

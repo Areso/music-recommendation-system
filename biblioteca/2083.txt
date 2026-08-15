@@ -1,7 +1,7 @@
 hip-hop
 alternative
-electro pop
 electronic
+electronic-pop
 hip-hop
 indie
 dance
@@ -11,13 +11,9 @@ electronic
 electronic
 grime
 hip-hop
-amazing
 electronic
 female vocalist
 hip-hop
-love
-love at first listen
-sexy
 dancehall
 dance
 electronic
@@ -33,11 +29,9 @@ missy elliott
 timbaland
 dance
 party
-sexy
 electronic
 experimental
 hip-hop
-associative
 alternative dance
 alternative hip-hop
 electronic
@@ -54,7 +48,7 @@ female vocalist
 hip-hop
 british
 dance party
-electro
+electronic
 indie
 quirky
 funk
@@ -64,16 +58,13 @@ dance
 electronic
 hip-hop
 indie
-love
 party
 alternative
 electronic
 female vocalist
 indie
-seen live
 alternative
 female vocalist
-best song ever
 dance
 electronic
 female vocalist
@@ -84,24 +75,20 @@ electronic
 hip-hop
 2010
 dance
-electro
 electronic
 experimental
-fun
 indie
 uk
 2010s
 hip-hop
-awesome-ness
 hand claps
 pop
-rnb
+r'n'b
 crunk
 electrolash
 electronic
 female
 funk
 hip-hop
-favorite song
 macumba music
 indie

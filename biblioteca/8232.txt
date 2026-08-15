@@ -14,4 +14,4 @@ nu jazz
 world
 downtempo
 instrumental
-trip-hop
+trip hop

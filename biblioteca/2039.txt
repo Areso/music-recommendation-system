@@ -4,8 +4,7 @@ po-kraftwerkski
 german
 industrial
 new wave
-favorite
-80s
+1980s
 ambient
 drums
 ebm
@@ -15,14 +14,14 @@ industrial
 new wave
 psychedelic
 rock
-synth pop
+synth-pop
 electronic
 ebm
 electronic
 german
 industrial
 ndw
-80s
+1980s
 ambient
 electronic
 ambient

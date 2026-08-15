@@ -1,5 +1,5 @@
 bossa nova
-brasil
+brazil
 brazilian
 jazz
 mpb
@@ -10,25 +10,23 @@ brazilian
 jazz
 piano
 bossa nova
-brasil
+brazil
 jazz
 latin
 male vocalist
 mpb
 bossa nova
 brazilian
-brasil
+brazil
 male vocalist
 bossa nova
 originals
 world
-bossa no
 bossa nova
 brazil
 jazz
 mpb
 bossa nova
-brasil
 brazil
 brazilian
 jazz
@@ -36,7 +34,7 @@ mpb
 samba
 1970s
 blues
-chillout
+chill out
 instrumental
 jazz
 lounge
@@ -50,7 +48,7 @@ bossa nova
 jazz
 top100
 wish list
-brasil
+brazil
 jazz
 mpb
 brazilian jazz

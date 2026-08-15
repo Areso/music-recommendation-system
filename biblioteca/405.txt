@@ -8,8 +8,6 @@ alternative
 alternative
 alternative rock
 rock
-amazing
-love at first listen
 alternative
 alternative rock
 classic rock
@@ -27,9 +25,7 @@ pop
 rock
 alternative rock
 rock
-anette olzon
 cute
-the rasmus
 alternative
 finnish
 pop

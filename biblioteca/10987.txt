@@ -4,11 +4,7 @@ experimental
 folk
 hot
 indie
-love
 polish
-sexy
-amazing
-beautiful
 dance
 electronic
 folk
@@ -25,8 +21,6 @@ pop
 dance
 hot
 kocham
-love
-love at first listen
 love forever
 pl
 polish

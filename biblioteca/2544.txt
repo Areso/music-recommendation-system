@@ -2,10 +2,8 @@ classical - pop
 cover
 <3
 female vocalist
-just makes you feel good
 female vocalist
 female vocalist
-favorite song
 acoustic
 indie
 female vocalist
@@ -16,32 +14,27 @@ female vocalist
 indie
 singer-songwriter
 alternative
-awesome
 indie
 singer-songwriter
 female vocalist
 indie
 alternative pop
 dance
-eletropop
+electronic-pop
 pop
 female vocalist
 indie
 pop
 singer-songwriter
-love
 female vocalist
 female vocalist
 singer-songwriter
-awesome
 breakup songs
-chillout
+chill out
 good mood music
 good mood songs
 guitar
-kickass
-kt tunstall
-want to see live
+kick ass
 alternative
 female vocalist
 indie
@@ -65,7 +58,6 @@ pop
 rock
 singer-songwriter
 the best
-amazing
 female
 female vocalist
 pop
@@ -80,7 +72,6 @@ singer-songwriter
 female vocalist
 alternative
 female vocalist
-seen live
 singer-songwriter
 female vocalist
 folk

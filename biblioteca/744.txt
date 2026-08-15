@@ -4,7 +4,7 @@ experimental
 idm
 idm
 autechre
-electro
+electronic
 experimental
 idm
 mellow
@@ -15,7 +15,6 @@ idm
 warp
 ambient
 electronic
-electronica
 experimental
 idm
 electronic
@@ -24,39 +23,35 @@ electronic
 experimental
 idm
 ambient
-chillout
+chill out
 electroclash
 electronic
-electronica
 idm
 minimal
 techno
 wonderful through headphones
 check
-chillout
+chill out
 experimental
 instrumental
 manchester
 slowies
-electronica
+electronic
 idm
-tops
 autechre
 avant garde electronica
-beautiful
 boards of canada
 electronic
 fucking great
 idm
 iron jesus
-this will make you shit your pants
 warp
 neo-classical underground
 1990s
 ambient
 avant-garde
 british
-chillout
+chill out
 downtempo
 idm
 instrumental
@@ -66,23 +61,18 @@ noise
 post-rock
 psychedelic
 shoegaze
-trip-hop
-favorite artist
+trip hop
 idm
 ambient
 experimental
 idm
 experimental
 idm
-my favorite song
-electronica
+electronic
 experimental
 idm
-cerebral
-electronica
+electronic
 experimental techno
 idm
-incunabula
-lp5
 techno
 warp

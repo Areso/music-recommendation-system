@@ -2,6 +2,5 @@ americana
 country
 folk
 rock
-alt-country
+alternative country
 country
-triangle

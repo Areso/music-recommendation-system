@@ -2,8 +2,8 @@
 disco
 eurodance
 german
-synthpop
-80s
+synth-pop
+1980s
 dance
 disco
 eurodance
@@ -12,5 +12,5 @@ dance electronic 80s
 hi-nrg
 italo
 italo disco
-80s
+1980s
 disco

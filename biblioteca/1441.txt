@@ -1,5 +1,4 @@
 dance
-female vocalits
 hit
 pop
 remix

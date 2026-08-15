@@ -2,10 +2,10 @@ witch house
 ambient
 female vocalist
 ambient
-chillout
+chill out
 downtempo
 electronic
-trip-hop
+trip hop
 abyss
 cosmogonic
 nostalgic
@@ -16,10 +16,10 @@ trance
 ambient
 electronic
 electronic
-chillout
+chill out
 downtempo
 female vocalist
-electronica
+electronic
 female electronic
 ambient
 electronic
@@ -28,18 +28,14 @@ ambient
 dark
 electronic
 female vocalist
-trip-hop
-makes me cum
+trip hop
 witch-clash
 electronic
 ambient
 atmospheric
-beautiful
-chillout
-cool
-electro
+chill out
+electronic
 experimental
-perfect
 psychedelic
 relax
 singer-songwriter

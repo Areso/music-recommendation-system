@@ -9,9 +9,8 @@ guitar
 jazz
 latin
 orchestra
-rnb
+r'n'b
 rock
-sexy
 singer-songwriter
 spanish
 strings
@@ -25,13 +24,10 @@ female
 male
 spanish
 breakup music
-chillout
-favorite band
+chill out
 love song
 the corrs
 good old times
-great memories with my siss
-songs i sing with my mom
 pop
 spanish
 corta venas

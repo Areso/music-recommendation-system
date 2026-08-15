@@ -1,11 +1,7 @@
 alternative
-awesome
 dance
-favorite
 female
 female vocalist
-fun
-gay icon
 good music
 pop
 queen of pop
@@ -20,66 +16,51 @@ female
 female vocalist
 jessica simpson
 pop
-fav female singers
-fav tracks
 dance
 female
 ballad
-beautiful
 dance
 female vocalist
-sexy
 underrated
 ballad
 female vocalist
 dance
-favorite
 pop
 american
-beautiful
 female vocalist
-fun
 mellow
 pop
 top 40
 dance
 female vocalist
 pop
-sexy
-60s
+1960s
 politeconomist realife soundtrack
 pop
 basic pop
 female vocalist
-great colaboration
-great song
 pop
 pop princess
 powerful voice
 dance
 female vocalist
 pop
-addicts
 dance
 female vocalist
 pop
 dance
 soundtrack
-i wanna love you forever - jessica simpson
 pop
 country
 country gospel
-hardcore country
 neo
 neotraditional country
 real country
 traditional country
-guilty pleasure
 oh so catchy
 dance
 jessica simpson
 pop
-amazing
 american
 female
 female vocalist
@@ -87,7 +68,6 @@ pop
 ballad
 dance
 female vocalist
-love
 pop
 christmas
 pop

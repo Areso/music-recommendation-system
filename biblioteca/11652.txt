@@ -10,5 +10,4 @@ jazz
 saxophone
 jazz
 saxophone
-brilliant
-chillout
+chill out

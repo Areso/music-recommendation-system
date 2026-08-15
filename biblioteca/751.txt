@@ -6,7 +6,6 @@ experimental
 drone
 post-rock
 sludge
-drone metal
 industrial metal
 ambient
 drone

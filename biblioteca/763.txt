@@ -23,11 +23,11 @@ electroclash
 idm
 neo-electro
 post-electroclash
-synthpop
+synth-pop
 pastel
 ambient
 instrumental
-trip-hop
+trip hop
 japan
 post-metal
 post-rock

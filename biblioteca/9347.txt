@@ -5,7 +5,7 @@ classic rock
 rock
 classic rock
 rock
-drum and bass
+d'n'b
 blues rock
 classic rock
 hard rock
@@ -25,6 +25,5 @@ rock
 blues rock
 classic rock
 classic
-epic
 hard rock
 rock

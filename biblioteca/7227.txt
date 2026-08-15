@@ -3,6 +3,5 @@ french
 oui fm
 french
 alsolike
-favorite
 french
 ohmydamn

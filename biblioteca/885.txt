@@ -13,7 +13,7 @@ indie
 mellow
 nelly furtado
 piano
-rnb
+r'n'b
 rock
 singer-songwriter
 soul
@@ -24,9 +24,6 @@ usa
 acoustic guitar
 goddesses
 female vocalist
-best songs of the 00s
-best songs of the 80s
-best songs of the 90s
 mellow
 sad
 wicked women

@@ -1,7 +1,7 @@
-60s
+1960s
 60s psychedelic
 garage rock
-60s
+1960s
 classic rock
 folk
 folk rock
@@ -10,13 +10,13 @@ indie
 male vocalist
 psychedelic
 rock
-rock and roll
+rock'n'roll
 singer-songwriter
 classic rock
-60s
-60s
+1960s
+1960s
 rock
-60s
+1960s
 folk
 psychedelic
 cover
@@ -25,10 +25,10 @@ folk
 psychedelic
 rock
 classic rock
-60s
+1960s
 classic rock
+1960s
 1970s
-60s
 american
 americana
 psychedelic
@@ -39,17 +39,17 @@ singer-songwriter
 1967
 1968
 folk rock
-60s
+1960s
 classic rock
-60s
+1960s
 classic rock
 psychedelic
 rock
-60s
+1960s
 classic rock
 cover
 folk rock
-60s
+1960s
 folk
 rock
 other great tracks

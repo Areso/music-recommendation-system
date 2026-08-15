@@ -4,7 +4,6 @@ dance
 jazz
 leader
 piano
-pioneer
 swing
 big band
 swing

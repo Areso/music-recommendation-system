@@ -1,13 +1,13 @@
 hip-hop
 lounge
-electronica
+electronic
 hip-hop
 ninja tune
-trip-hop
+trip hop
 hip-hop
-trip-hop
+trip hop
 ninja tune
-electronica
+electronic
 ninja tune
 alsolike
 downtempo
@@ -15,8 +15,8 @@ funk
 hip-hop
 nu jazz
 hip-hop
-chillout
+chill out
 downtempo
 instrumental hip-hop
 nu jazz
-trip-hop
+trip hop

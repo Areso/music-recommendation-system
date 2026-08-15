@@ -1,17 +1,14 @@
 rock
-seen live
-80s
+1980s
 acoustic
 alternative
 alternative rock
-beautiful
 folk
 jazz
 polish
 punk
 punk rock
 rock
-seen live
 alternative rock
 punk rock
 rock
@@ -25,4 +22,3 @@ polish rock
 punk
 punk rock
 rock
-seen live

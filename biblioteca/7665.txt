@@ -1,6 +1,5 @@
 chillwave
 electronic
-electronica
 lo-fi
 psychedelic
 electronic
@@ -11,8 +10,8 @@ house
 indie
 american
 dream pop
-electronica
-indietronica
+electronic
+indie electronic
 lo-fi
 pop
 psychedelic

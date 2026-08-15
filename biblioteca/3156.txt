@@ -1,4 +1,3 @@
-brasil
 brazil
 brazilian
 female vocalist
@@ -6,9 +5,9 @@ jazz
 lounge
 bossa nova
 bossa nova
-brasil
+brazil
 brazilian
-chillout
+chill out
 female vocalist
 jazz
 lounge

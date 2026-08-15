@@ -1,6 +1,5 @@
 idm
 electronic
-electronica
 experimental
 idm
 breakbeat
@@ -8,19 +7,19 @@ experimental
 hip-hop
 idm
 ninja tune
-chillout
+chill out
 ninja tune
 electronic
 ambient
 american
 avant-garde
-chillout
+chill out
 downtempo
-electronica
+electronic
 idm
-indietronica
+indie electronic
 instrumental
 jazz
 lounge
-trip-hop
+trip hop
 usa

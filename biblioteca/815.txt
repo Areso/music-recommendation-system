@@ -37,7 +37,6 @@ metalcore
 metalcore
 melodic death metal
 hardcore
-killswitch engage
 metal
 metalcore
 powerful
@@ -61,7 +60,6 @@ thrash metal
 hardcore
 metal
 metalcore
-cm punk
 metalcore
 metalcore
 hardcore

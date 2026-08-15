@@ -1,3 +1,2 @@
 alternative
-circuit bending
 experimental

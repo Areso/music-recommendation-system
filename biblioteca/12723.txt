@@ -1,4 +1,4 @@
-alt-country
+alternative country
 americana
 country rock
 rock
@@ -7,7 +7,7 @@ berep shows the love
 americana
 rock
 southern rock
-alt-country
+alternative country
 country
 rock
 southern rock

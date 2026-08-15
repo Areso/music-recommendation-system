@@ -3,7 +3,6 @@ alternative
 pop rock
 rock
 acoustic
-love
 male vocalist
 mellow
 pop rock
@@ -32,9 +31,5 @@ pop
 pop rock
 pop
 rock
-amazing
-incredible
-love
-pure awesomeness
 pop rock
 pop

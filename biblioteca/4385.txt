@@ -12,7 +12,7 @@ indie
 pop
 emo
 indie
-synthpop
+synth-pop
 powerpop
 alternative rock
 dance
@@ -24,11 +24,9 @@ metal
 pop punk
 powerpop
 punk rock
-screamo
+scream
 techno
-hellogoodbye
 cool as
-fantastic
 rock
 electronic
 indie
@@ -37,14 +35,9 @@ alternative
 pop
 powerpop
 indie
-album favourite
 hyper
-i want to dance in my underwear
-idolo
 indie luv
 inlove
 jukebox project
-love
 happygoodfunandhandclaps
 ich liebe dich
-hellogoodbye

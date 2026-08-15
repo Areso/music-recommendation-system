@@ -1,6 +1,5 @@
 choral
 dance
-epic
 gregorian chant
 new age
 orchestral

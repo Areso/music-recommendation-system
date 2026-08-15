@@ -162,3 +162,183 @@ review_no,singular_tag,plural_tag,decision,merge_into,reviewer_notes,review_auth
 161,80's,1980s,Merge,1980s,,AGladyshev,False
 162,70s,1970s,Merge,1970s,,AGladyshev,False
 163,00s,2000s,Merge,2000s,,AGladyshev,False
+164,alternativ,alternative,Merge,alternative,,AGladyshev,False
+165,alternatif,alternative,Merge,alternative,,AGladyshev,False
+166,alternatif muzik,alternative,Merge,alternative,,AGladyshev,False
+167,rock alternatif,rock alternative,Merge,rock alternative,,AGladyshev,False
+168,rock alternativo,rock alternative,Merge,rock alternative,,AGladyshev,False
+169,synth pop,synthpop,Merge,synth-pop,,AGladyshev,False
+1691,synthpop songs,synth-pop,Merge,synth-pop,,AGladyshev,False
+1692,synthpop artists,synth-pop,Merge,synth-pop,,AGladyshev,False
+170,hiphop,hip-hop,Merge,hip-hop,,AGladyshev,False
+171,trip-hop,trip hop,Merge,trip hop,,AGladyshev,False
+172,dream pop,dream-pop,Merge,dream pop,,AGladyshev,False
+173,poprock,pop rock,Merge,pop rock,,AGladyshev,False
+174,rock-pop,pop rock,Merge,pop rock,,AGladyshev,False
+175,hardrock,hard rock,Merge,hard rock,,AGladyshev,False
+176,punk rock,punkrock,Merge,punk rock,,AGladyshev,False
+177,post-rock,postrock,Merge,post-rock,,AGladyshev,False
+178,shoegazing,shoegaze,Merge,shoegaze,,AGladyshev,False
+179,japanese rock,j-rock,Merge,j-rock,,AGladyshev,False
+180,j rock,j-rock,Merge,j-rock,,AGladyshev,False
+181,japanese pop,j-pop,Merge,j-pop,,AGladyshev,False
+182,jpop,j-pop,Merge,j-pop,,AGladyshev,False
+183,kpop,k-pop,Merge,k-pop,,AGladyshev,False
+184,rnb,r'n'b,Merge,r'n'b,,AGladyshev,False
+185,r and b,r'n'b,Merge,r'n'b,,AGladyshev,False
+186,rb,r'n'b,Merge,r'n'b,,AGladyshev,False
+187,drum and bass,d'n'b,Merge,d'n'b,,AGladyshev,False
+188,drum n bass,d'n'b,Merge,d'n'b,,AGladyshev,False
+189,dnb,d'n'b,Merge,d'n'b,,AGladyshev,False
+190,drum bass,d'n'b,Merge,d'n'b,,AGladyshev,False
+191,down tempo,downtempo,Merge,downtempo,,AGladyshev,False
+192,low tempo,downtempo,Merge,downtempo,,AGladyshev,False
+193,chillout,chill out,Merge,chill out,,AGladyshev,False
+194,chill wave,chillwave,Merge,chillwave,,AGladyshev,False
+195,darkwave,dark wave,Merge,dark wave,,AGladyshev,False
+196,ambiant,ambient,Merge,ambient,,AGladyshev,False
+197,ambiental,ambient,Merge,ambient,,AGladyshev,False
+198,electronica,electronic,Merge,electronic,,AGladyshev,False
+199,eletronica,electronic,Merge,electronic,,AGladyshev,False
+200,elertronic,electronic,Merge,electronic,,AGladyshev,False
+201,eletronic,electronic,Merge,electronic,,AGladyshev,False
+202,elecronica,electronic,Merge,electronic,,AGladyshev,False
+203,electro pop,electronic-pop,Merge,electronic-pop,,AGladyshev,False
+204,eletropop,electronic-pop,Merge,electronic-pop,,AGladyshev,False
+205,eletro pop,electronic-pop,Merge,electronic-pop,,AGladyshev,False
+206,acustic,acoustic,Merge,acoustic,,AGladyshev,False
+207,acustico,acoustic,Merge,acoustic,,AGladyshev,False
+208,visualkei,visual kei,Merge,visual kei,,AGladyshev,False
+209,rock and roll,rock'n'roll,Merge,rock'n'roll,,AGladyshev,False
+210,rock n roll,rock'n'roll,Merge,rock'n'roll,,AGladyshev,False
+211,rock 'n' roll,rock'n'roll,Merge,rock'n'roll,,AGladyshev,False
+212,rocknroll,rock'n'roll,Merge,rock'n'roll,,AGladyshev,False
+213,acapella,a cappella,Merge,a cappella,,AGladyshev,False
+214,a capella,a cappella,Merge,a cappella,,AGladyshev,False
+215,cristian rock,christian rock,Merge,christian rock,,AGladyshev,False
+216,steve abini,steve albini,Merge,steve albini,,AGladyshev,False
+217,psychadelic,psychedelic,Merge,psychedelic,,AGladyshev,False
+218,tecno,techno,Merge,techno,,AGladyshev,False
+219,relaxing,relax,Merge,relax,,AGladyshev,False
+220,relaxed,relax,Merge,relax,,AGladyshev,False
+221,relaxxx,relax,Merge,relax,,AGladyshev,False
+222,80's,1980s,Merge,1980s,,AGladyshev,False
+223,1979 songs,1979,Merge,1979,,AGladyshev,False
+224,new wave artists,new wave,Merge,new wave,,AGladyshev,False
+225,new wave songs,new wave,Merge,new wave,,AGladyshev,False
+226,rock brasileiro,rock brasil,Merge,rock brasil,,AGladyshev,False
+227,brasileira,brazilian,Merge,brazilian,,AGladyshev,False
+228,60's,1960s,Merge,1960s,,AGladyshev,False
+229,80's music,1980s,Merge,1980s,,AGladyshev,False
+230,90's,1990s,Merge,1990s,,AGladyshev,False
+231,80s,1980s,Merge,1980s,,AGladyshev,False
+232,50's,1950s,Merge,1950s,,AGladyshev,False
+233,50s,1950s,Merge,1950s,,AGladyshev,False
+234,60s,1960s,Merge,1960s,,AGladyshev,False
+235,acdc,ac dc,Merge,ac dc,,AGladyshev,False
+236,alternativee,alternative,Merge,alternative,,AGladyshev,False
+237,alternativo,alternative,Merge,alternative,,AGladyshev,False
+238,alt,alternative,Merge,alternative,,AGladyshev,False
+239,alt rock,alternative rock,Merge,alternative rock,,AGladyshev,False
+240,alt-country,alternative country,Merge,alternative country,,AGladyshev,False
+241,alger,algeria,Merge,algeria,,AGladyshev,False
+242,anos 80,1980s,Merge,1980s,,AGladyshev,False
+243,anthemic,anthem,Merge,anthem,,AGladyshev,False
+244,arabica,arabic,Merge,arabic,,AGladyshev,False
+245,australia,australian,Merge,australian,,AGladyshev,False
+246,avantgarde,avant-garde,Merge,avant-garde,,AGladyshev,False
+247,beach,beach music,Merge,beach music,,AGladyshev,False
+248,belarus,belarusian,Merge,belarusian,,AGladyshev,False
+249,bitter sweet,bittersweet,Merge,bittersweet,,AGladyshev,False
+250,brasil,brazil,Merge,brazil,,AGladyshev,False
+251,brasilian,brazilian,Merge,brazilian,,AGladyshev,False
+252,brit rock,british rock,Merge,british rock,,AGladyshev,False
+253,britney,britney spears,Merge,britney spears,,AGladyshev,False
+254,britneyspears,britney spears,Merge,britney spears,,AGladyshev,False
+255,britrock,british rock,Merge,british rock,,AGladyshev,False
+256,britpop,brit pop,Merge,brit pop,,AGladyshev,False
+257,central asia,central asian,Merge,central asian,,AGladyshev,False
+258,classico,classic,Merge,classic,,AGladyshev,False
+259,clasica,classic,Merge,classic,,AGladyshev,False
+260,country: britain,british,Merge,british,,AGladyshev,False
+261,male vocals,male vocalist,Merge,male vocalist,,AGladyshev,False
+262,female vocals,female vocalist,Merge,female vocalist,,AGladyshev,False
+263,female voice,female vocalist,Merge,female vocalist,,AGladyshev,False
+264,funky,funk,Merge,funk,,AGladyshev,False
+265,funkalistic,funkalistik,Merge,funkalistik,,AGladyshev,False
+266,horrorpunk,horror punk,Merge,horror punk,,AGladyshev,False
+267,indierock,indie rock,Merge,indie rock,,AGladyshev,False
+268,indie electronica,indie electronic,Merge,indie electronic,,AGladyshev,False
+269,indietronica,indie electronic,Merge,indie electronic,,AGladyshev,False
+270,indietronic,indie electronic,Merge,indie electronic,,AGladyshev,False
+271,industri,industrial,Merge,industrial,,AGladyshev,False
+272,instro rock,instrumental rock,Merge,instrumental rock,,AGladyshev,False
+273,italiano,italian,Merge,italian,,AGladyshev,False
+274,italiana,italian,Merge,italian,,AGladyshev,False
+275,kazakistan,kazakhstan,Merge,kazakhstan,,AGladyshev,False
+276,vocalista feminimo,female vocalist,Merge,female vocalist,,AGladyshev,False
+277,vocal femenino,female vocalist,Merge,female vocalist,,AGladyshev,False
+278,xmas,x-mas,Merge,x-mas,,AGladyshev,False
+279,christmas blend,christmas,Merge,christmas,,AGladyshev,False
+280,christmas song,christmas,Merge,christmas,,AGladyshev,False
+281,europop,euro-pop,Merge,euro-pop,,AGladyshev,False
+282,eurovision song contest,eurovision,Merge,eurovision,,AGladyshev,False
+283,guns n' roses,guns and roses,Merge,guns and roses,,AGladyshev,False
+284,powerfull,powerful,Merge,powerful,,AGladyshev,False
+285,powerfull voices,powerful voice,Merge,powerful voice,,AGladyshev,False
+286,power voice,powerful voice,Merge,powerful voice,,AGladyshev,False
+287,prog,progressive,Merge,progressive,,AGladyshev,False
+288,prog folk,progressive folk,Merge,progressive folk,,AGladyshev,False
+289,prog metal,progressive metal,Merge,progressive metal,,AGladyshev,False
+290,prog rock,progressive rock,Merge,progressive rock,,AGladyshev,False
+291,rolling stone 500 greatest songs of all time,rolling stones top 500,Merge,rolling stones top 500,,AGladyshev,False
+292,synthrock,synth-rock,Merge,synth-rock,,AGladyshev,False
+293,talent,talented,Merge,talented,,AGladyshev,False
+294,teenpop,teen pop,Merge,teen pop,,AGladyshev,False
+295,werewolves,werewolf,Merge,werewolf,,AGladyshev,False
+296,top40,top 40,Merge,top 40,,AGladyshev,False
+297,synthesizer,synth,Merge,synth,,AGladyshev,False
+298,elephant six,elephant 6,Merge,elephant 6,,AGladyshev,False
+299,eletro,electronic,Merge,electronic,,AGladyshev,False
+300,electro,electronic,Merge,electronic,,AGladyshev,False
+301,electropop,electronic-pop,Merge,electronic-pop,,AGladyshev,False
+302,electropunk,electro punk,Merge,electro punk,,AGladyshev,False
+303,electrorock,electronic rock,Merge,electronic rock,,AGladyshev,False
+304,electro-rock,electronic rock,Merge,electronic rock,,AGladyshev,False
+305,folkloric,folk,Merge,folk,,AGladyshev,False
+306,folktronica,folktronic,Merge,folktronic,,AGladyshev,False
+307,forever in heart,forever,Merge,forever,,AGladyshev,False
+308,fucking awensome,fucking awesome,Merge,fucking awesome,,AGladyshev,False
+309,goth,gothic,Merge,gothic,,AGladyshev,False
+310,goth rock,gothic rock,Merge,gothic rock,,AGladyshev,False
+311,greys anatomy,greys anatomy soundtrack,Merge,greys anatomy soundtrack,,AGladyshev,False
+312,gta iv,gta4,Merge,gta4,,AGladyshev,False
+313,irish music,irish,Merge,irish,,AGladyshev,False
+314,italia,italy,Merge,italy,,AGladyshev,False
+315,kickass,kick ass,Merge,kick ass,,AGladyshev,False
+316,lovesongs,love song,Merge,love song,,AGladyshev,False
+317,mexicano,mexican,Merge,mexican,,AGladyshev,False
+318,multiculti,multicultural,Merge,multicultural,,AGladyshev,False
+319,multikulti,multicultural,Merge,multicultural,,AGladyshev,False
+320,orient,oriental,Merge,oriental,,AGladyshev,False
+321,partytime,party time,Merge,party time,,AGladyshev,False
+322,pop bitches,pop bitch,Merge,pop bitch,,AGladyshev,False
+323,riot grrl,riot grrrl,Merge,riot grrrl,,AGladyshev,False
+324,rick villa,rick villy villa,Merge,rick villy villa,,AGladyshev,False
+325,remixed,remix,Merge,remix,,AGladyshev,False
+326,remixes,remix,Merge,remix,,AGladyshev,False
+327,religion,religious,Merge,religious,,AGladyshev,False
+328,screamo,scream,Merge,scream,,AGladyshev,False
+329,sertanejo,sertaneja,Merge,sertaneja,,AGladyshev,False
+330,spacerock,space rock,Merge,space rock,,AGladyshev,False
+331,viola,violin,Merge,violin,,AGladyshev,False
+332,violinist,violin,Merge,violin,,AGladyshev,False
+333,wake up song,wake up,Merge,wake up,,AGladyshev,False
+334,video game,video game music,Merge,video game music,,AGladyshev,False
+335,ukrainian music,ukrainian,Merge,ukrainian,,AGladyshev,False
+336,suicide songs,suicide,Merge,suicide,,AGladyshev,False
+337,stand-up comedy,stand-up,Merge,stand-up,,AGladyshev,False
+338,diego12,diego 12,Merge,diego 12,,AGladyshev,False
+339,bitch song,bitch,Merge,bitch,,AGladyshev,False
+340,bitches,bitch,Merge,bitch,,AGladyshev,False
+341,bitchy lyrics,bitch,Merge,bitch,,AGladyshev,False

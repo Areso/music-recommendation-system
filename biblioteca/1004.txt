@@ -5,10 +5,10 @@ dance-pop
 disco
 eurodance
 singer-songwriter
-synthpop
+synth-pop
 1981
 1982
-80s
+1980s
 female vocalist
 pop
 rock ballad
@@ -23,34 +23,30 @@ atmospheric
 dance
 dance electronic 80s
 electronic
-kim wilde
 female vocalist
 new wave
 pop
+1980s
 1990s
 2000s
-80s
 new wave
 pop
-seen live
-80s
+1980s
 british
 dance
 euro-pop
-love
 pop
-best songs of the 80s
-80s
+1980s
 new wave
 uk
-80s
+1980s
 pop
 british
 dance
 dream pop
 new wave
-80s
+1980s
 new wave
 pop
 new wave and eighties
-80s
+1980s

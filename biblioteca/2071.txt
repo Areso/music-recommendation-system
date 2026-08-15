@@ -1,8 +1,6 @@
 soundtrack
 soundtrack
-up
 soundtrack
-alias
 composer
 electronic
 instrumental

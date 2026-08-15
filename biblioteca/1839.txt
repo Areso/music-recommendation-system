@@ -1,14 +1,9 @@
 assertive
 catchy
-cool
 dope
-favorite
-great lyricists
 hip-hop
 ill
-lovely
 neat
-nice
 phat
 poignant
 rap
@@ -17,7 +12,6 @@ real talk
 smooth
 solid
 superb
-sweet
 the good stuff
 the truth
 hip-hop

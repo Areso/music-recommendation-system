@@ -1,16 +1,13 @@
 alternative
 dance
 electronic
-electronica
 indie
 pop
 artists
-electro pop
-favorite
+electronic-pop
 dancey
 poppy
 spacey
-tripped out
 dance-punk
 indie rock
 american
@@ -18,9 +15,8 @@ rock
 single
 american
 indie
-seen live
 indie
 party
-synth pop
+synth-pop
 indie
 the last song

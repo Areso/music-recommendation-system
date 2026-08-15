@@ -1,8 +1,6 @@
 ambient
-chillout
-electro-acoustic
+chill out
 electronic
-electronica
 experimental
 idm
 instrumental

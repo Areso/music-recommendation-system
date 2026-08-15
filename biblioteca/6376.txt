@@ -6,11 +6,10 @@ rap
 dance
 female vocalist
 hip-hop
+r'n'b
 rap
-rnb
-favorite
 hip-hop
-rnb
+r'n'b
 2008
 aaliyah
 american
@@ -48,16 +47,15 @@ rap
 female vocalist
 hip-hop
 missy elliott
-chillout
+chill out
 female vocalist
 groovy
 hip-hop
 party
+r'n'b
 rap
-rnb
 english
 female
-sexy
 unknown
 female vocalist
 hip-hop

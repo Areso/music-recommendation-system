@@ -13,7 +13,6 @@ shoegaze
 twee pop
 shoegaze
 swedish
-favorite
 electronic
 shoegaze
 indie
@@ -21,21 +20,19 @@ shoegaze
 swedish
 1990s
 ambient
-chillout
+chill out
+indie electronic
 indie rock
-indietronica
 lo-fi
 male vocalist
 new wave
 post-rock
-synthpop
-best song ever
+synth-pop
 electronic
 indie
 indie pop
 indie rock
 pop
-seen live
 shoegaze
 swedish
 alternative
@@ -45,9 +42,8 @@ indie rock
 rock
 shoegaze
 heartbroke
-synth pop
+synth-pop
 yay
-best free stuff
 electronic
 indie
 indie pop

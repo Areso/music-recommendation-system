@@ -3,9 +3,7 @@ ebm
 futurepop anthem
 alternative dance
 electronic
-synthpop
-favorite
-favorite song
+synth-pop
 ebm
 futurepop
 industrial
@@ -18,12 +16,12 @@ ebm
 ebm
 futurepop
 industrial
-synthpop
+synth-pop
 futurepop
-synthpop
+synth-pop
 ebm
 industrial
 ebm
 futurepop
 industrial
-synthpop
+synth-pop

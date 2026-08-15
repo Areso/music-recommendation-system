@@ -1,2 +1,1 @@
-synth pop
-synthpop
+synth-pop

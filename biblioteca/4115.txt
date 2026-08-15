@@ -1,5 +1,4 @@
 indie
-awesome
 alternative
 alternative rock
 indie
@@ -24,5 +23,5 @@ alternative
 indie
 alternative
 rock
-australia
+australian
 garage rock revival

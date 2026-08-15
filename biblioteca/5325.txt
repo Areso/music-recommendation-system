@@ -1,14 +1,13 @@
 alternative
-chillout
+chill out
 dark ambient
 downtempo
 electronic
-electronica
 ethno
 instrumental
 jazz
 psychedelic
-trip-hop
+trip hop
 world
 world music
 ambient
@@ -21,11 +20,11 @@ electronic
 downtempo
 electronic
 psychill
-chillout
+chill out
 downtempo
 dub
 lounge
-chillout
+chill out
 dreamy
 ethnic chill
 ambient

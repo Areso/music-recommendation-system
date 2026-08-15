@@ -1,6 +1,4 @@
 blues
-favorite
-favorite song
 blues
 jam
 rock

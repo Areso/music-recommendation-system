@@ -1,11 +1,9 @@
 post-rock
 experimental
 post-rock
-epic
 ambient
 instrumental
 post-rock
-beautiful
 experimental
 instrumental
 post-rock
@@ -34,7 +32,6 @@ post-rock
 abstract
 art rock
 coisa de deus
-epic
 post modern
 ambient
 instrumental
@@ -45,9 +42,7 @@ post-rock
 alternative
 ambient
 atmospheric
-beautiful
-chillout
-epic
+chill out
 experimental
 indie
 instrumental
@@ -63,15 +58,12 @@ post-rock
 ambient
 pastel
 ambient
-seen live
 alsolike
-favorite artist
 friends
 post-rock
 ambient
 indie rock
 instrumental
-want to see live
 2000s
 post-rock
 usa
@@ -83,7 +75,7 @@ post-rock
 ambient
 experimental
 post-rock
-chillout
+chill out
 experimental
 instrumental
 post-rock

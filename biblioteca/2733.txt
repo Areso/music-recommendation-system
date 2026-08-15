@@ -2,4 +2,3 @@
 electronic
 experimental
 electronic
-tetris-core

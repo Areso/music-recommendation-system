@@ -3,14 +3,14 @@ summer
 folk
 singer-songwriter
 classic rock
-80s
+1980s
 classic rock
 folk
 1970s
+1980s
 1990s
-80s
 classic rock
-80s
+1980s
 ambient
 blues
 classical
@@ -21,13 +21,11 @@ rock
 singer-songwriter
 awsome
 classic rock
-genius
-legend
 rock
 super
 folk
 singer-songwriter
-80s
+1980s
 classic rock
 rock
 classic rock
@@ -49,7 +47,7 @@ rock
 singer-songwriter
 rock
 rock
-80s
+1980s
 acoustic
 american
 dub
@@ -60,14 +58,11 @@ folk rock
 rock
 singer-songwriter
 all the best
-best christmas songs
-best songs of the 00s
-legend
 movie songs
 oscar winning songs
 sad
 soundtrack
-80s
+1980s
 classic rock
 folk
 rock
@@ -76,12 +71,11 @@ folk
 sad
 singer-songwriter
 1970s
-80s
+1980s
 classic rock
-80s
+1980s
 folk
 hard rock
 new jersey
 singer-songwriter
 classic rock
-epic

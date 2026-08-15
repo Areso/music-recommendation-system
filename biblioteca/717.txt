@@ -1,6 +1,6 @@
 classic rock
 1970s
-80s
+1980s
 classic rock
 mellow
 rock
@@ -9,8 +9,8 @@ classic rock
 rock
 classic rock
 1980
+1980s
 1981
-80s
 british
 longing
 musical
@@ -18,11 +18,10 @@ separation
 soundtrack
 progressive rock
 1970s
-80s
+1980s
 british
 rock
-rock and roll
-rock n roll
+rock'n'roll
 soundtrack
 happy
 classic rock
@@ -43,9 +42,8 @@ happy
 rock
 singalong
 1970s
-good
 1970s
-80s
+1980s
 1970s
 british
 classic rock
@@ -53,6 +51,6 @@ progressive rock
 rock
 1970s
 progressive rock
-80s
+1980s
 rock
 uk

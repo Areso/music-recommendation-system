@@ -1,16 +1,15 @@
-electro
+electronic
 metalcore
 post-hardcore
 trancecore
 post-hardcore
-screamo
+scream
 emocore
 post-hardcore
 emocore
 metalcore
 post-hardcore
-screamo
-awesome
+scream
 metalcore
 not emo
 post-hardcore
@@ -20,9 +19,9 @@ post-hardcore
 emocore
 metalcore
 post-hardcore
-screamo
+scream
 metalcore
 post-hardcore
-screamo
+scream
 post-hardcore
 post-hardcore

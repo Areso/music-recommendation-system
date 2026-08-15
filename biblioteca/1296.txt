@@ -1,14 +1,14 @@
 futurepop anthem
 german
-synthpop
+synth-pop
 german
-synthpop
+synth-pop
 ebm
 futurepop
-synthpop
+synth-pop
 futurepop
 futurepop
-synthpop
+synth-pop
 futurepop
 industrial
 electronic
@@ -16,5 +16,5 @@ futurepop
 ebm
 ebm
 futurepop
-synthpop
-synthpop
+synth-pop
+synth-pop

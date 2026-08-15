@@ -1,12 +1,11 @@
 ambient
 chill
-chillout
+chill out
 deep
 downtempo
 dream
 dub
 electronic
-electronica
 goa
 mellow
 psychedelic
@@ -24,9 +23,8 @@ psychill
 psytrance
 psybient
 ambient
-amazing
 breathtaking
-chillout
+chill out
 dreamy
 fascinating
 psychill

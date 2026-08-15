@@ -1,7 +1,6 @@
 abstract
 atmospheric
 avant-garde
-beautiful
 dark
 dark ambient
 downtempo
@@ -9,7 +8,6 @@ drone
 drone ambient
 field recording
 forbidden sounds group
-free download
 glitch
 idm
 indie

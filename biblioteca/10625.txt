@@ -1,15 +1,13 @@
 electronic
-80s
+1980s
 british
 male vocalist
 pop
-synth pop
-synthpop
+synth-pop
 british
-synth pop
+synth-pop
 british
-synth pop
-synthpop
+synth-pop
 acoustic
 acoustic rock
 alternative

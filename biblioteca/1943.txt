@@ -10,45 +10,38 @@ downtempo
 wonky
 electronic
 experimental
-glitch glitch hop
 instrumental hip-hop
 downtempo
 electronic
-electronica
 experimental
-favorite
 hip-hop
 idm
 instrumental
 super
-trip-hop
+trip hop
 wonderful through headphones
 hip-hop
 instrumental
 los angeles
-trip-hop
-i am a party girl here is my soundtrack
+trip hop
 iron jesus
-electronica
+electronic
 must see again
-seen live
 ambient
 american
-chillout
+chill out
 downtempo
-electronica
+electronic
 idm
 instrumental
 jazz
 lo-fi
 psychedelic
 soul
-trip-hop
-best song ever
+trip hop
 electronic
 experimental
 instrumental hip-hop
-drugs
 trippy
 downtempo
 hip-hop
@@ -57,14 +50,12 @@ abstract hip-hop
 atmospheric
 bass
 beat
-chillout
+chill out
 dancefloor
 deep
 dope
 dub
-electro
 electronic
-electronica
 euphoric
 hip-hop
 idm
@@ -75,8 +66,7 @@ mutek
 party
 performance
 rhythm
-seen live
 soul
-chillout
+chill out
 downtempo
 instrumental hip-hop

@@ -3,10 +3,9 @@ experimental
 idm
 ambient
 electronic
-electronica
 experimental
 idm
-electronica
+electronic
 experimental
 idm
 downtempo
@@ -15,15 +14,14 @@ ambient
 downbeat
 electronic
 ambient
-chillout
+chill out
 downtempo
 electronic
-electronica
 experimental
 idm
 indie
-indietronica
+indie electronic
 instrumental
 lo-fi
 post-rock
-synthpop
+synth-pop
