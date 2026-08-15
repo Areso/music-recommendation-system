@@ -17,17 +17,22 @@
 Run `python cli_client.py` to open the interactive client. It connects to
 `http://127.0.0.1:8000/api` by default; use `/connect <IP-or-DNS>` to select a
 remote server. Plain addresses use HTTP port 8000, while complete URLs are also
-accepted.
+accepted. The selected address is saved in `cli_client.config` and reused the
+next time the client starts. The client checks that server and prints its status
+at startup.
 
 Commands:
-- `/connect <host|host:port|URL>` - select the API server
+- `/connect <host|host:port|URL>` - select the API server and check its status
 - `/check` - check whether the selected server is up
 - `/tag_search` - find artists by tag
 - `/similar_artists` - find artists with similar tag profiles
-- `/help` and `/quit`
+- `/find_similar_user` - find users with similar listening histories
+- `/help`
+- `/quit`, and its `/exit` synonym
 
-Tag and artist prompts show live suggestions. Use the arrow keys to choose one
-and Enter to accept it.
+Tag and artist prompts show live suggestions, including when typing an argument
+directly after `/tag_search` or `/similar_artists`. Use the arrow keys to choose
+one and Enter to accept it.
 
 ## Jyputer noterbooks
 1. bi130_module_0_data_cleaning.ipynb - data processing and data cleaning, common part for 1,2,3,4 modules

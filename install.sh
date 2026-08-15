@@ -16,7 +16,8 @@ NGINX_SITE="/etc/nginx/sites-available/${APP_NAME}"
 UV_BIN="/usr/local/bin/uv"
 
 PYTHON_VERSION="${PYTHON_VERSION:-3.12}"
-API_HOST="${API_HOST:-127.0.0.1}"
+#API_HOST="${API_HOST:-127.0.0.1}"
+API_HOST="${API_HOST:-0.0.0.0}"
 API_PORT="${API_PORT:-8000}"
 # The service (and therefore the .venv) runs as the human who invoked sudo, so
 # the checkout stays writable for them.

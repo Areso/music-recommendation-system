@@ -7,6 +7,7 @@ import json
 import re
 import shlex
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlsplit, urlunsplit
@@ -17,11 +18,12 @@ from prompt_toolkit.completion import (
     Completer,
     Completion,
     ThreadedCompleter,
-    WordCompleter,
 )
+from prompt_toolkit.document import Document
 
 
 DEFAULT_API_URL = "http://127.0.0.1:8000/api"
+CONFIG_PATH = Path(__file__).resolve().with_name("cli_client.config")
 REQUEST_TIMEOUT = 5
 ARTIST_SELECTION_RE = re.compile(r"^.+ \[(?P<artist_id>[^\[\]]+)\]$")
 
@@ -67,6 +69,28 @@ def normalize_api_url(value: str) -> str:
         path = f"{path}/api"
 
     return urlunsplit((parsed.scheme, netloc, path, "", ""))
+
+
+def load_api_url() -> str:
+    """Load the last selected API URL, falling back to the local server."""
+    try:
+        saved_url = CONFIG_PATH.read_text(encoding="utf-8").strip()
+    except FileNotFoundError:
+        return DEFAULT_API_URL
+    except OSError as exc:
+        print(f"Warning: could not read {CONFIG_PATH.name}: {exc}")
+        return DEFAULT_API_URL
+
+    try:
+        return normalize_api_url(saved_url)
+    except ValueError as exc:
+        print(f"Warning: ignoring invalid {CONFIG_PATH.name}: {exc}")
+        return DEFAULT_API_URL
+
+
+def save_api_url(url: str) -> None:
+    """Persist the selected API URL for the next CLI session."""
+    CONFIG_PATH.write_text(f"{url}\n", encoding="utf-8")
 
 
 @dataclass
@@ -178,6 +202,54 @@ class ArtistCompleter(Completer):
                 display=artist_name,
                 display_meta=f"ID {artist_id}",
             )
+
+
+class CommandCompleter(Completer):
+    """Complete commands and their remote tag/artist arguments."""
+
+    commands = (
+        "/connect",
+        "/check",
+        "/tag_search",
+        "/similar_artists",
+        "/find_similar_user",
+        "/help",
+        "/quit",
+        "/exit",
+    )
+
+    def __init__(self, client: ApiClient):
+        self.tag_completer = TagCompleter(client)
+        self.artist_completer = ArtistCompleter(client)
+
+    def get_completions(self, document, complete_event):
+        text = document.text_before_cursor
+
+        for command, completer in (
+            ("/tag_search", self.tag_completer),
+            ("/similar_artists", self.artist_completer),
+        ):
+            prefix = f"{command} "
+            if text.startswith(prefix):
+                argument = text[len(prefix) :]
+                if not argument.strip():
+                    return
+                argument_document = Document(
+                    text=argument,
+                    cursor_position=len(argument),
+                )
+                yield from completer.get_completions(
+                    argument_document,
+                    complete_event,
+                )
+                return
+
+        if " " in text:
+            return
+
+        for command in self.commands:
+            if command.startswith(text):
+                yield Completion(command, start_position=-len(text))
 
 
 def print_table(headers: list[str], rows: list[list[Any]]) -> None:
@@ -314,25 +386,82 @@ def run_similar_artists(
     )
 
 
+def run_find_similar_user(
+    client: ApiClient,
+    session: PromptSession,
+    initial_query: str = "",
+) -> None:
+    value = initial_query.strip()
+    if not value:
+        value = session.prompt("user ID> ").strip()
+    if not value:
+        print("Similar-user search cancelled.")
+        return
+
+    try:
+        user_id = int(value)
+    except ValueError:
+        print("User ID must be an integer.")
+        return
+
+    data = client.get("similar_users", q=user_id)
+    if data.get("error"):
+        print(f"Error: {data['error']}")
+        return
+
+    print(
+        f"\nUsers similar to user {data.get('query', user_id)} "
+        f"({data.get('artist_count', '?')} listened artists):"
+    )
+    if not data.get("confident", True):
+        print("Warning: the user has too little listening data for a reliable ranking.")
+
+    results = data.get("results", [])
+    if not results:
+        print("No similar users found.")
+        return
+
+    print_table(
+        ["User ID", "Score", "Artists", "Shared", "Shared artists"],
+        [
+            [
+                result["user_id"],
+                result["score"],
+                result["artist_count"],
+                result["shared_artist_count"],
+                ", ".join(
+                    artist["artist_name"]
+                    for artist in result.get("shared_artists", [])
+                ),
+            ]
+            for result in results
+        ],
+    )
+
+
 HELP = """Commands:
-  /connect <host|host:port|URL>  Set the API server (plain hosts use port 8000)
+  /connect <host|host:port|URL>  Set and check the API server (plain hosts use port 8000)
   /check                         Check whether the current API server is up
   /tag_search [tag]              Find artists by tag, with live autocomplete
   /similar_artists [name|ID]     Find similar artists, with live autocomplete
+  /find_similar_user [user ID]   Find users with similar listening histories
   /help                          Show this help
-  /quit                          Exit
+  /quit, /exit                   Exit
 """
 
 
 def main() -> int:
-    client = ApiClient()
+    client = ApiClient(load_api_url())
     session: PromptSession = PromptSession()
-    command_completer = WordCompleter(
-        ["/connect", "/check", "/tag_search", "/similar_artists", "/help", "/quit"]
-    )
+    command_completer = ThreadedCompleter(CommandCompleter(client))
 
     print("Music Recommendation CLI")
     print(f"Current server: {client.base_url}")
+    try:
+        check_server(client)
+    except ClientError as exc:
+        print(f"DOWN — {client.base_url}")
+        print(f"Error: {exc}")
     print("Type /help for commands.")
 
     while True:
@@ -367,16 +496,22 @@ def main() -> int:
                     print("Usage: /connect <host|host:port|URL>")
                     continue
                 client.set_base_url(argument)
-                print(f"Current server: {client.base_url}")
+                try:
+                    save_api_url(client.base_url)
+                except OSError as exc:
+                    print(f"Warning: could not save {CONFIG_PATH.name}: {exc}")
+                check_server(client)
             elif command == "/check":
                 check_server(client)
             elif command == "/tag_search":
                 run_tag_search(client, session, argument)
             elif command == "/similar_artists":
                 run_similar_artists(client, session, argument)
+            elif command == "/find_similar_user":
+                run_find_similar_user(client, session, argument)
             elif command == "/help":
                 print(HELP)
-            elif command in {"/quit", "/exit"}:
+            elif command in {"/quit", "/exit", "/q"}:
                 return 0
             else:
                 print(f"Unknown command: {parts[0]}. Type /help.")
