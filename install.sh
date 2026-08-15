@@ -22,7 +22,12 @@ API_PORT="${API_PORT:-8000}"
 # the checkout stays writable for them.
 SERVICE_USER="${SERVICE_USER:-${SUDO_USER:-root}}"
 
-HTML_FILES=(index.html find_artists_by_tag.html find_similar_artists.html)
+HTML_FILES=(
+    index.html
+    find_artists_by_tag.html
+    find_similar_artists.html
+    find_similar_users.html
+)
 
 log() { printf '\n\033[1;32m==>\033[0m %s\n' "$*"; }
 die() { printf '\n\033[1;31mError:\033[0m %s\n' "$*" >&2; exit 1; }
@@ -48,8 +53,13 @@ done
 
 log "Installing system packages"
 export DEBIAN_FRONTEND=noninteractive
+# With a kernel upgrade pending, needrestart's post-install dialog blocks
+# forever on a host with no TTY, so suspend it and keep existing configs.
+export NEEDRESTART_MODE=a NEEDRESTART_SUSPEND=1
 apt-get update -qq
-apt-get install -y -qq --no-install-recommends ca-certificates curl nginx
+apt-get install -y -qq --no-install-recommends \
+    -o Dpkg::Options::=--force-confold \
+    ca-certificates curl nginx
 
 # --- uv ----------------------------------------------------------------------
 

@@ -1,0 +1,44 @@
+CREATE CONSTRAINT user_id_unique IF NOT EXISTS
+FOR (u:User)
+REQUIRE u.userID IS UNIQUE;
+
+SHOW SETTINGS
+YIELD name, value
+WHERE name IN [
+  'server.directories.import',
+  'dbms.security.allow_csv_import_from_file_urls'
+]
+RETURN name, value;
+
+
+// path is /Users/anton.gladyshev/Library/Application Support/neo4j-desktop/Application/Data/dbmss/dbms-403dd7ed-b2cf-4e2d-a085-7d1bff03a530/import
+
+LOAD CSV WITH HEADERS
+FROM 'file:///user_friends_undirected_clean.csv' AS row
+MERGE (a:User {userID: toInteger(row.userID_a)})
+MERGE (b:User {userID: toInteger(row.userID_b)})
+MERGE (a)-[:FRIEND_OF]->(b);
+
+// verify users
+MATCH (u:User)
+RETURN count(u) AS users;
+
+// verify friendships
+MATCH ()-[r:FRIEND_OF]->()
+RETURN count(r) AS friendships;
+
+MATCH p = (:User)-[:FRIEND_OF]-(:User)
+RETURN p
+LIMIT 100;
+
+MATCH p = (u:User {userID: 2})-[:FRIEND_OF]-(:User)
+RETURN p;
+
+MATCH p = (u:User {userID: 2})-[:FRIEND_OF*1..2]-(:User)
+RETURN p
+LIMIT 300;
+
+MATCH (u:User)-[:FRIEND_OF]-()
+RETURN u.userID AS userID, count(*) AS friends
+ORDER BY friends DESC
+LIMIT 10;

@@ -9,4 +9,3 @@ notebook
 scikit-learn
 fastapi
 uvicorn
-

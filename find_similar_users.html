@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Find Similar Users</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; }
+        .back { font-size: 13px; }
+        .search-box { display: flex; gap: 8px; }
+        input[type="number"] { flex: 1; padding: 10px; font-size: 16px; box-sizing: border-box; }
+        button { padding: 10px 16px; font-size: 16px; cursor: pointer; }
+        .help, .detail { color: #666; font-size: 13px; }
+        .results { margin-top: 20px; }
+        .result-card { border-bottom: 1px solid #eee; padding: 10px 0; }
+        .user-link { color: #0066cc; text-decoration: underline; cursor: pointer; }
+        .user-link:hover { color: #004499; }
+        .shared { color: #555; font-size: 13px; margin-top: 5px; }
+        .warning {
+            border: 1px solid #e0c000; background: #fffbe6; padding: 10px 12px;
+            font-size: 13px; margin-top: 16px;
+        }
+    </style>
+</head>
+<body>
+    <p class="back"><a href="index.html">&larr; Back to menu</a></p>
+
+    <h2>Find Users with Similar Taste</h2>
+    <p class="help">
+        Enter a user ID. Similarity is calculated from log-scaled listening
+        confidence using the user-based collaborative-filtering model.
+    </p>
+
+    <div class="search-box">
+        <input type="number" id="userInput" min="1" placeholder="User ID (e.g. 2)">
+        <button id="searchButton" type="button">Find similar users</button>
+    </div>
+
+    <div class="results" id="results"></div>
+
+    <script>
+        const API_URL     = 'http://127.0.0.1:8000/api';
+        const userInput   = document.getElementById('userInput');
+        const searchButton = document.getElementById('searchButton');
+        const resultsBox  = document.getElementById('results');
+
+        function escapeHtml(value) {
+            return String(value)
+                .replaceAll('&', '&amp;')
+                .replaceAll('<', '&lt;')
+                .replaceAll('>', '&gt;')
+                .replaceAll('"', '&quot;')
+                .replaceAll("'", '&#039;');
+        }
+
+        function pivotTo(userId) {
+            userInput.value = userId;
+            window.scrollTo(0, 0);
+            runSearch();
+        }
+
+        async function runSearch() {
+            const userId = userInput.value.trim();
+            if (!userId) {
+                resultsBox.innerHTML = '<p>Please enter a user ID.</p>';
+                return;
+            }
+
+            resultsBox.innerHTML = 'Searching...';
+            try {
+                const response = await fetch(
+                    `${API_URL}/similar_users?q=${encodeURIComponent(userId)}`
+                );
+                const data = await response.json();
+
+                if (data.error) {
+                    resultsBox.innerHTML = `<p>${escapeHtml(data.error)}</p>`;
+                    return;
+                }
+                if (data.results.length === 0) {
+                    resultsBox.innerHTML = '<p>No similar users found.</p>';
+                    return;
+                }
+
+                const warning = data.confident ? '' : `
+                    <div class="warning">
+                        <strong>Low confidence:</strong> user ${escapeHtml(data.query)}
+                        has listened to only ${data.artist_count} artist${data.artist_count === 1 ? '' : 's'}.
+                    </div>`;
+
+                resultsBox.innerHTML =
+                    `<h3>Users similar to user ${escapeHtml(data.query)}</h3>` +
+                    `<p class="detail">Based on ${data.artist_count} listened artists.</p>` +
+                    warning +
+                    data.results.map(result => {
+                        const sharedArtists = result.shared_artists.length
+                            ? result.shared_artists.map(artist => escapeHtml(artist.artist_name)).join(', ')
+                            : 'None';
+                        return `
+                            <div class="result-card">
+                                <div style="display: flex; justify-content: space-between;">
+                                    <span>
+                                        <span class="user-link" onclick="pivotTo(${result.user_id})">
+                                            User ${result.user_id}
+                                        </span>
+                                        <span class="detail">(${result.artist_count} artists)</span>
+                                    </span>
+                                    <span><strong>Similarity:</strong> ${result.score}</span>
+                                </div>
+                                <div class="shared">
+                                    ${result.shared_artist_count} shared artist${result.shared_artist_count === 1 ? '' : 's'}:
+                                    ${sharedArtists}
+                                </div>
+                            </div>`;
+                    }).join('');
+            } catch (error) {
+                resultsBox.innerHTML = '<p>The API could not be reached.</p>';
+            }
+        }
+
+        searchButton.addEventListener('click', runSearch);
+        userInput.addEventListener('keypress', event => {
+            if (event.key === 'Enter') {
+                runSearch();
+            }
+        });
+    </script>
+</body>
+</html>

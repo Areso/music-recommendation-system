@@ -20,9 +20,24 @@
         .menu span.disabled .desc { color: #999; }
         footer { margin-top: 32px; font-size: 13px; color: #666; }
         code { background: #f0f0f0; padding: 1px 4px; border-radius: 3px; }
+        .status {
+            display: inline-flex; align-items: center; gap: 8px;
+            border: 1px solid #ccc; border-radius: 999px;
+            padding: 5px 12px; margin-bottom: 20px;
+            font-size: 13px; color: #666;
+        }
+        .status .dot { width: 9px; height: 9px; border-radius: 50%; background: #bbb; }
+        .status.up { border-color: #bcdfbc; background: #f3fbf3; color: #256b25; }
+        .status.up .dot { background: #2e9b2e; }
+        .status.down { border-color: #e8b8b8; background: #fdf4f4; color: #992222; }
+        .status.down .dot { background: #cc3333; }
     </style>
 </head>
 <body>
+
+    <div class="status" id="status" title="">
+        <span class="dot"></span><span id="statusText">Checking server&hellip;</span>
+    </div>
 
     <h2>Music Recommendation System</h2>
     <p class="subtitle">Last.fm tag data &mdash; 12 130 artists across 3 639 tags.</p>
@@ -41,16 +56,43 @@
             </a>
         </li>
         <li>
-            <span class="disabled">
+            <a href="find_similar_users.html">
                 <span class="name">3. Find users with similar taste</span>
-                <span class="desc">Not implemented yet.</span>
-            </span>
+                <span class="desc">Enter a user ID and find neighbours with similar listening histories.</span>
+            </a>
         </li>
     </ul>
 
     <footer>
         Requires the API running locally: <code>.venv/bin/python server.py</code>
     </footer>
+
+    <script>
+        const API_URL = 'http://127.0.0.1:8000/api';
+
+        const statusEl     = document.getElementById('status');
+        const statusTextEl = document.getElementById('statusText');
+
+        async function checkServer() {
+            try {
+                const res = await fetch(`${API_URL}/healthcheck`, { signal: AbortSignal.timeout(5000) });
+                if (!res.ok) throw new Error(`HTTP ${res.status}`);
+                const data = await res.json();
+
+                statusEl.className   = 'status up';
+                statusTextEl.textContent = 'Server UP';
+                statusEl.title = `${data.artists.toLocaleString()} artists, `
+                    + `${data.tags.toLocaleString()} tags loaded`;
+            } catch (err) {
+                statusEl.className   = 'status down';
+                statusTextEl.textContent = 'Server DOWN';
+                statusEl.title = `${err}`;
+            }
+        }
+
+        checkServer();
+        setInterval(checkServer, 15000);
+    </script>
 
 </body>
 </html>

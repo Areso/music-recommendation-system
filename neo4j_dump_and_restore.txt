@@ -1,0 +1,18 @@
+Dump creation:
+
+export JAVA_HOME="/Users/anton.gladyshev/Library/Application Support/neo4j-desktop/Application/Cache/runtime/zulu21.50.19-ca-jre21.0.11-macosx_aarch64/Contents/Home"
+D="/Users/anton.gladyshev/Library/Application Support/neo4j-desktop/Application/Data/dbmss/dbms-403dd7ed-b2cf-4e2d-a085-7d1bff03a530"
+
+"$D/bin/neo4j-admin" database dump bi130-2 \
+--to-path=/Users/anton.gladyshev/git/music-recommendation-system
+
+mv bi130-2.dump neo4j.dump
+
+Dump restore:
+
+to recover dump minimum versions are:
+App: Version 2.2.1 Desktop
+Engine Version: 2026.07.0
+
+neo4j-admin database load neo4j --from-path=/path/to/folder --overwrite-destination=true
+

@@ -17,7 +17,7 @@ def newline_tokenizer(text):
 import __main__
 __main__.newline_tokenizer = newline_tokenizer
 
-app = FastAPI(title="Artist Tag Search API")
+app = FastAPI(title="Music Recommendation API")
 
 # Allow cross-origin requests for AJAX frontend
 app.add_middleware(
@@ -49,6 +49,20 @@ tag_counts = tfidf_matrix.getnnz(axis=1)
 
 print(f"Loaded TF-IDF matrix: {tfidf_matrix.shape}")
 
+# Module 4 collaborative-filtering artifacts. The JSON lists preserve the
+# exact row/column ordering used when the sparse matrix was exported.
+user_artist_matrix = load_npz("user_artist_matrix.npz").tocsr()
+with open("cf_user_ids.json", "r", encoding="utf-8") as f:
+    cf_user_ids = [int(user_id) for user_id in json.load(f)]
+with open("cf_artist_ids.json", "r", encoding="utf-8") as f:
+    cf_artist_ids = [int(artist_id) for artist_id in json.load(f)]
+
+if user_artist_matrix.shape != (len(cf_user_ids), len(cf_artist_ids)):
+    raise RuntimeError("CF matrix shape does not match its exported ID mappings")
+
+cf_user_row_of = {user_id: row for row, user_id in enumerate(cf_user_ids)}
+print(f"Loaded user-artist matrix: {user_artist_matrix.shape}")
+
 artists_kv = {}
 
 def load_artists():
@@ -66,6 +80,19 @@ def load_artists():
                 artists_kv[artist_id] = artist_name
             #break
 load_artists()
+
+@app.get("/api/healthcheck")
+def healthcheck():
+    """Liveness probe. Artifacts load at import time, so a 200 here means the
+    whole dataset is in memory and every endpoint can be served."""
+    return {
+        "status": "ok",
+        "artists": len(artists_kv),
+        "tags": len(feature_names),
+        "tfidf_matrix": list(tfidf_matrix.shape),
+        "user_artist_matrix": list(user_artist_matrix.shape),
+    }
+
 
 @app.get("/api/autocomplete")
 def autocomplete(q: str = Query(..., min_length=1), limit: int = 10):
@@ -180,6 +207,71 @@ def similar_artists(q: str = Query(...), top_k: int = 20, min_tags: int = 1):
         "tag_count": int(tag_counts[idx]),
         # A one- or two-tag seed carries too little signal to rank meaningfully
         "confident": bool(tag_counts[idx] >= 3),
+        "results": results,
+    }
+
+
+def shared_listening_artists(user_i, user_j, limit=5):
+    """Return shared artists ranked by joint implicit-feedback confidence."""
+    row_i = user_artist_matrix.getrow(user_i)
+    row_j = user_artist_matrix.getrow(user_j)
+    weights_i = dict(zip(row_i.indices, row_i.data))
+    weights_j = dict(zip(row_j.indices, row_j.data))
+
+    common = set(weights_i) & set(weights_j)
+    ranked = sorted(common, key=lambda col: -(weights_i[col] * weights_j[col]))
+
+    return [
+        {
+            "artist_id": str(cf_artist_ids[col]),
+            "artist_name": artists_kv.get(str(cf_artist_ids[col]), "Unknown"),
+        }
+        for col in ranked[:limit]
+    ]
+
+
+@app.get("/api/similar_users")
+def similar_users(q: int = Query(...), top_k: int = Query(20, ge=1, le=100)):
+    """Find users whose log-scaled implicit listening profiles are most similar."""
+    if q not in cf_user_row_of:
+        return {"query": q, "results": [], "error": "Unknown user id"}
+
+    idx = cf_user_row_of[q]
+    similarities = cosine_similarity(
+        user_artist_matrix.getrow(idx), user_artist_matrix
+    ).flatten()
+    similarities[idx] = -1.0
+    order = np.argsort(similarities)[::-1]
+
+    results = []
+    for other in order:
+        score = float(similarities[other])
+        if score <= 0 or len(results) >= top_k:
+            break
+
+        shared = shared_listening_artists(idx, other)
+        shared_count = int(
+            np.intersect1d(
+                user_artist_matrix.getrow(idx).indices,
+                user_artist_matrix.getrow(other).indices,
+                assume_unique=True,
+            ).size
+        )
+        results.append(
+            {
+                "user_id": int(cf_user_ids[other]),
+                "score": round(score, 4),
+                "artist_count": int(user_artist_matrix.getrow(other).nnz),
+                "shared_artist_count": shared_count,
+                "shared_artists": shared,
+            }
+        )
+
+    artist_count = int(user_artist_matrix.getrow(idx).nnz)
+    return {
+        "query": q,
+        "artist_count": artist_count,
+        "confident": artist_count >= 5,
         "results": results,
     }
 
