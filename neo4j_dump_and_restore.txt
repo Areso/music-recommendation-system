@@ -3,10 +3,20 @@ Dump creation:
 export JAVA_HOME="/Users/anton.gladyshev/Library/Application Support/neo4j-desktop/Application/Cache/runtime/zulu21.50.19-ca-jre21.0.11-macosx_aarch64/Contents/Home"
 D="/Users/anton.gladyshev/Library/Application Support/neo4j-desktop/Application/Data/dbmss/dbms-403dd7ed-b2cf-4e2d-a085-7d1bff03a530"
 
+the database has to be offline first, otherwise the dump fails with
+"The database is in use. Stop database 'bi130-2' and try again."
+stop it from Neo4j Desktop, or run (source pwd.txt for $neo4j_pwd):
+
+"$D/bin/cypher-shell" -a bolt://localhost:7687 -u neo4j -p "$neo4j_pwd" -d system \
+"STOP DATABASE \`bi130-2\` WAIT;"
+
 "$D/bin/neo4j-admin" database dump bi130-2 \
 --to-path=/Users/anton.gladyshev/git/music-recommendation-system
 
 mv bi130-2.dump neo4j.dump
+
+"$D/bin/cypher-shell" -a bolt://localhost:7687 -u neo4j -p "$neo4j_pwd" -d system \
+"START DATABASE \`bi130-2\` WAIT;"
 
 Dump restore:
 
@@ -14,5 +24,15 @@ to recover dump minimum versions are:
 App: Version 2.2.1 Desktop
 Engine Version: 2026.07.0
 
+the target database has to be offline too, so stop it the same way first.
+neo4j-admin picks the dump file by database name, so the command below reads
+neo4j.dump and restores it into a database called neo4j, not bi130-2.
+--from-path takes the directory holding the dump, not the file itself.
+
 neo4j-admin database load neo4j --from-path=/path/to/folder --overwrite-destination=true
+
+start it afterwards, and CREATE DATABASE neo4j first if it does not exist yet:
+
+"$D/bin/cypher-shell" -a bolt://localhost:7687 -u neo4j -p "$neo4j_pwd" -d system \
+"START DATABASE neo4j WAIT;"
 

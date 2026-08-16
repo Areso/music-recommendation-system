@@ -14,6 +14,7 @@
 3. Find users with similar taste
 4. Recommend artists from a user's listen-weighted tag profile
 5. Recommend artists from collaborative-filtering neighbours
+6. Recommend artists popular among a user's friends and friends-of-friends (Neo4j only, see below)
 
 ## Command-line client
 Run `python cli_client.py` to open the interactive client. It connects to
@@ -59,7 +60,29 @@ all passing nbformat 5.10.4 and nbconvert 7.17.1 lints
 [README_old](README_old.txt)
 
 ## Neo4j
-It has very small, PoC demo scope: it shows user friendship connections.
-1. neo4j.txt has instructions how to load data
+The graph holds `(:User)-[:FRIEND_OF]->(:User)` and `(:User)-[:LISTENED_TO {weight}]->(:Artist)`:
+1,892 users, 12,717 friendships, 17,619 artists and 92,829 listening edges. Each friendship is
+stored once rather than in both directions, so queries traverse `FRIEND_OF` without a direction.
+
+1. neo4j.txt has instructions how to load data, followed by the social-aware recommender
 2. neo4j.dump is a binary dump of a local instance of neo4j with loaded data
 3. neo4j_dump_and_restore.txt has instructions how to create a dump and how to recover from one.
+
+Loading reads `user_friends_undirected_clean.csv`, `users_clean.csv`, `artists_clean.csv` and
+`user_artists_clean.csv`, which have to be copied from `clean/` into the server's import directory.
+
+### Social-aware recommender
+Ranks artists the user does not already listen to by how popular they are across the user's
+friends and friends-of-friends. Listen counts go through `log(1 + weight)`, the same damping
+Module 4 uses, and a friend-of-friend contributes at a discount (`fofDecay`, 0.35 by default).
+It is Cypher only and is not exposed through the API. Three forms are provided:
+- friends and friends-of-friends together, ranked by hop-weighted listening
+- friends only, as a baseline and as a fallback for users with a small circle
+- popularity-normalized, which divides out each artist's global listener count so the ranking
+  reflects the circle's taste rather than the global chart
+
+The first form leans towards globally popular artists, because a circle of a few hundred peers
+is a fair sample of everyone: for user 2 it returns Britney Spears and The Beatles. The
+normalized form on the same user returns Arcadia, Simple Minds and Thompson Twins, matching the
+80s synthpop that user's friends actually cluster around. A last query explains a single
+recommendation by listing which peers listen to that artist and how much each one contributed.

@@ -1,0 +1,71 @@
+Same flow as neo4j_dump_and_restore.txt, with the Query API over HTTP instead of
+cypher-shell. Only the STOP/START/SHOW calls change: neo4j-admin has no HTTP
+equivalent, so dumping and loading stay command line.
+
+The /query/v2 endpoint needs engine 2025.01 or newer. Backticks around the
+database name need no escaping here, because the statement sits inside a
+single-quoted JSON body.
+
+Dump creation:
+
+export JAVA_HOME="/Users/anton.gladyshev/Library/Application Support/neo4j-desktop/Application/Cache/runtime/zulu21.50.19-ca-jre21.0.11-macosx_aarch64/Contents/Home"
+D="/Users/anton.gladyshev/Library/Application Support/neo4j-desktop/Application/Data/dbmss/dbms-403dd7ed-b2cf-4e2d-a085-7d1bff03a530"
+
+source pwd.txt
+
+the database has to be offline first, otherwise the dump fails with
+"The database is in use. Stop database 'bi130-2' and try again."
+
+curl -s -u "neo4j:$neo4j_pwd" \
+-H 'Content-Type: application/json' -H 'Accept: application/json' \
+-X POST http://localhost:7474/db/system/query/v2 \
+-d '{"statement":"STOP DATABASE `bi130-2` WAIT"}'
+
+// confirm it went offline before dumping
+curl -s -u "neo4j:$neo4j_pwd" \
+-H 'Content-Type: application/json' -H 'Accept: application/json' \
+-X POST http://localhost:7474/db/system/query/v2 \
+-d '{"statement":"SHOW DATABASE `bi130-2` YIELD name, currentStatus RETURN name, currentStatus"}'
+
+"$D/bin/neo4j-admin" database dump bi130-2 \
+--to-path=/Users/anton.gladyshev/git/music-recommendation-system
+
+mv bi130-2.dump neo4j.dump
+
+curl -s -u "neo4j:$neo4j_pwd" \
+-H 'Content-Type: application/json' -H 'Accept: application/json' \
+-X POST http://localhost:7474/db/system/query/v2 \
+-d '{"statement":"START DATABASE `bi130-2` WAIT"}'
+
+Dump restore:
+
+to recover dump minimum versions are:
+App: Version 2.2.1 Desktop
+Engine Version: 2026.07.0
+
+the target database has to be offline too:
+
+curl -s -u "neo4j:$neo4j_pwd" \
+-H 'Content-Type: application/json' -H 'Accept: application/json' \
+-X POST http://localhost:7474/db/system/query/v2 \
+-d '{"statement":"STOP DATABASE neo4j WAIT"}'
+
+neo4j-admin picks the dump file by database name, so the command below reads
+neo4j.dump and restores it into a database called neo4j, not bi130-2.
+--from-path takes the directory holding the dump, not the file itself.
+
+neo4j-admin database load neo4j --from-path=/path/to/folder --overwrite-destination=true
+
+start it afterwards. If the database does not exist yet, replace START with
+CREATE DATABASE neo4j WAIT.
+
+curl -s -u "neo4j:$neo4j_pwd" \
+-H 'Content-Type: application/json' -H 'Accept: application/json' \
+-X POST http://localhost:7474/db/system/query/v2 \
+-d '{"statement":"START DATABASE neo4j WAIT"}'
+
+// verify the restored contents
+curl -s -u "neo4j:$neo4j_pwd" \
+-H 'Content-Type: application/json' -H 'Accept: application/json' \
+-X POST http://localhost:7474/db/neo4j/query/v2 \
+-d '{"statement":"MATCH (n) RETURN labels(n) AS labels, count(*) AS c ORDER BY c DESC"}'

@@ -42,3 +42,131 @@ MATCH (u:User)-[:FRIEND_OF]-()
 RETURN u.userID AS userID, count(*) AS friends
 ORDER BY friends DESC
 LIMIT 10;
+
+
+// ---------------------------------------------------------------------------
+// Listening data: needed by the social-aware recommender below.
+// Copy users_clean.csv, artists_clean.csv and user_artists_clean.csv from
+// clean/ into the import directory shown above.
+// ---------------------------------------------------------------------------
+
+CREATE CONSTRAINT artist_id_unique IF NOT EXISTS
+FOR (a:Artist)
+REQUIRE a.artistID IS UNIQUE;
+
+// every user, including any without friendships
+LOAD CSV WITH HEADERS
+FROM 'file:///users_clean.csv' AS row
+MERGE (:User {userID: toInteger(row.userID)});
+
+LOAD CSV WITH HEADERS
+FROM 'file:///artists_clean.csv' AS row
+MERGE (a:Artist {artistID: toInteger(row.artistID)})
+SET a.name = row.source_name_repaired;
+
+// 92,829 rows, so batch it. Run on its own, as an auto-commit query.
+LOAD CSV WITH HEADERS
+FROM 'file:///user_artists_clean.csv' AS row
+CALL (row) {
+  MATCH (u:User   {userID:   toInteger(row.userID)})
+  MATCH (a:Artist {artistID: toInteger(row.artistID)})
+  MERGE (u)-[l:LISTENED_TO]->(a)
+  SET l.weight = toInteger(row.weight)
+} IN TRANSACTIONS OF 10000 ROWS;
+
+// global popularity, read by the normalized variant of the recommender
+MATCH (a:Artist)<-[:LISTENED_TO]-()
+WITH a, count(*) AS listeners
+SET a.listeners = listeners;
+
+// verify artists, expected 17619
+MATCH (a:Artist)
+RETURN count(a) AS artists;
+
+// verify listening edges, expected 92829
+MATCH ()-[r:LISTENED_TO]->()
+RETURN count(r) AS listens;
+
+
+// ---------------------------------------------------------------------------
+// Social-aware recommender: artists popular among a user's friends and
+// friends-of-friends, excluding the ones the user already listens to.
+// FRIEND_OF is stored one way per pair, so traverse it without a direction.
+// ---------------------------------------------------------------------------
+
+:param userID   => 2;
+:param topN     => 20;
+:param fofDecay => 0.35;
+
+// A peer reachable in both one and two hops counts once, as a friend.
+// log(1 + weight) damps the very skewed raw play counts, matching module 4.
+MATCH path = (me:User {userID: $userID})-[:FRIEND_OF*1..2]-(peer:User)
+WHERE peer <> me
+WITH me, peer, min(length(path)) AS hops
+MATCH (peer)-[l:LISTENED_TO]->(a:Artist)
+WHERE NOT EXISTS { (me)-[:LISTENED_TO]->(a) }
+WITH a,
+     sum((CASE hops WHEN 1 THEN 1.0 ELSE $fofDecay END) * log(1 + l.weight)) AS social_score,
+     count(DISTINCT CASE WHEN hops = 1 THEN peer END) AS friend_listeners,
+     count(DISTINCT CASE WHEN hops = 2 THEN peer END) AS fof_listeners
+RETURN a.artistID AS artistID,
+       a.name     AS artist,
+       round(social_score, 3) AS social_score,
+       friend_listeners,
+       fof_listeners
+ORDER BY social_score DESC, friend_listeners DESC, artistID
+LIMIT $topN;
+
+// Friends only: the baseline to compare the two-hop version against.
+MATCH (me:User {userID: $userID})-[:FRIEND_OF]-(friend:User)
+MATCH (friend)-[l:LISTENED_TO]->(a:Artist)
+WHERE NOT EXISTS { (me)-[:LISTENED_TO]->(a) }
+WITH a,
+     sum(log(1 + l.weight)) AS social_score,
+     count(DISTINCT friend) AS friend_listeners
+RETURN a.artistID AS artistID,
+       a.name     AS artist,
+       round(social_score, 3) AS social_score,
+       friend_listeners
+ORDER BY social_score DESC, friend_listeners DESC, artistID
+LIMIT $topN;
+
+// Popularity-normalized: the query above largely reproduces the global chart,
+// because a circle of a few hundred peers is a decent sample of everyone. This
+// divides the popularity out to surface artists that are big inside this
+// circle specifically. popPrior holds back artists with a handful of listeners
+// worldwide, which would otherwise take every top slot with a perfect ratio;
+// the support filter drops the long tail of one-off listens.
+:param popPrior => 10;
+
+MATCH path = (me:User {userID: $userID})-[:FRIEND_OF*1..2]-(peer:User)
+WHERE peer <> me
+WITH me, peer, min(length(path)) AS hops
+MATCH (peer)-[l:LISTENED_TO]->(a:Artist)
+WHERE NOT EXISTS { (me)-[:LISTENED_TO]->(a) }
+WITH a,
+     sum((CASE hops WHEN 1 THEN 1.0 ELSE $fofDecay END) * log(1 + l.weight)) AS social_score,
+     count(DISTINCT peer) AS peer_listeners
+WHERE peer_listeners >= 3
+RETURN a.artistID AS artistID,
+       a.name     AS artist,
+       round(social_score / (a.listeners + $popPrior), 3) AS social_lift,
+       round(social_score, 3) AS social_score,
+       peer_listeners,
+       a.listeners AS global_listeners
+ORDER BY social_lift DESC, peer_listeners DESC, artistID
+LIMIT $topN;
+
+// Why was this artist recommended: who in the circle listens to it.
+// 289 is Britney Spears, the top result for user 2.
+:param artistID => 289;
+
+MATCH path = (me:User {userID: $userID})-[:FRIEND_OF*1..2]-(peer:User)
+WHERE peer <> me
+WITH me, peer, min(length(path)) AS hops
+MATCH (peer)-[l:LISTENED_TO]->(a:Artist {artistID: $artistID})
+RETURN peer.userID AS peerID,
+       hops,
+       l.weight AS weight,
+       round((CASE hops WHEN 1 THEN 1.0 ELSE $fofDecay END) * log(1 + l.weight), 3) AS contribution
+ORDER BY contribution DESC;

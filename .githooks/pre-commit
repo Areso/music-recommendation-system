@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repo_root="$(git rev-parse --show-toplevel)"
+cd "$repo_root"
+
+notebooks=()
+while IFS= read -r -d '' path; do
+    notebooks+=("$path")
+done < <(git diff --cached --name-only --diff-filter=ACMR -z -- "*.ipynb")
+
+if [[ ${#notebooks[@]} -eq 0 ]]; then
+    exit 0
+fi
+
+for path in "${notebooks[@]}"; do
+    if ! git diff --quiet -- "$path"; then
+        echo "Cannot normalize $path because it has unstaged changes." >&2
+        echo "Stage or stash those changes, then commit again." >&2
+        exit 1
+    fi
+done
+
+python3 scripts/normalize_notebooks.py "${notebooks[@]}"
+git add -- "${notebooks[@]}"
