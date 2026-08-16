@@ -5,7 +5,7 @@
 2. Python 3
 
 ## Installation
-1. curl -fsSL https://raw.githubusercontent.com/Areso/music-recommendation-system/main/install.sh | bash
+1. curl -fsSL https://github.com/Areso/music-recommendation-system/blob/master/install.sh | bash
 2. on the http://<ipaddress> would be opened the index page of the recommendation 
 
 ## Recommenders 
