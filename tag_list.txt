@@ -314,10 +314,6 @@ avant-garde metal
 avantasia
 avoid this music at all costs
 avril lavigne
-awesomecore
-awesomeness
-awesomesauce
-awsome
 axe
 aysel gurel
 b-side
@@ -340,7 +336,6 @@ balkan
 ballad
 bandana music
 bandas venezolanas
-bands that start with the
 banger
 banjo
 banu kirbag
@@ -419,9 +414,6 @@ billy idol
 birds of prey
 birthday song
 bitch
-bitch song
-bitches
-bitchy lyrics
 bitter
 bittersweet
 bittersweet pop
@@ -895,7 +887,6 @@ dexter
 dick
 diego
 diego 12
-diego12
 digital hardcore
 dimeadozen dot org
 dinah
@@ -2632,8 +2623,6 @@ ramones
 ramonescore
 ramonesy
 rampeira
-random
-random songs
 rap
 rap eletronic
 rapcore
@@ -2998,7 +2987,6 @@ squarepusher
 squartet
 stand out be proud
 stand-up
-stand-up comedy
 star
 stefani
 steve albini
@@ -3041,7 +3029,6 @@ sufi
 sugary
 suicidal black metal
 suicide
-suicide songs
 suicide squad
 summer
 summer 2010
@@ -3330,7 +3317,6 @@ uk indie
 uk punk
 ukraine
 ukrainian
-ukrainian music
 ultimate music hit
 ultimate rock ballads
 una mamada
@@ -3383,7 +3369,6 @@ vfsix
 viaje de egresados
 viaje espiritual
 vic
-video game
 video game music
 viking metal
 viking quest

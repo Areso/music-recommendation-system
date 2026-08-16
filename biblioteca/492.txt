@@ -34,5 +34,4 @@ scream
 emo
 emocore
 scream
-awesomeness
 wales

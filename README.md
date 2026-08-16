@@ -19,7 +19,7 @@ Run `python cli_client.py` to open the interactive client. It connects to
 remote server. Plain addresses use HTTP port 8000, while complete URLs are also
 accepted. The selected address is saved in `cli_client.config` and reused the
 next time the client starts. The client checks that server and prints its status
-at startup.
+at startup. For a remote installation done by install.sh, use port 80.
 
 Commands:
 - `/connect <host|host:port|URL>` - select the API server and check its status

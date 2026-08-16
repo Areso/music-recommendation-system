@@ -78,7 +78,7 @@ piano
 soundtrack
 alternative
 european
-suicide songs
+suicide
 instrumental
 soundtrack
 french

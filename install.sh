@@ -15,9 +15,12 @@ SERVICE_FILE="/etc/systemd/system/${APP_NAME}.service"
 NGINX_SITE="/etc/nginx/sites-available/${APP_NAME}"
 UV_BIN="/usr/local/bin/uv"
 
+SWAP_FILE="${SWAP_FILE:-/swapfile}"
+SWAP_SIZE_MB="${SWAP_SIZE_MB:-1024}"
+
 PYTHON_VERSION="${PYTHON_VERSION:-3.12}"
-#API_HOST="${API_HOST:-127.0.0.1}"
-API_HOST="${API_HOST:-0.0.0.0}"
+API_HOST="${API_HOST:-127.0.0.1}"
+#API_HOST="${API_HOST:-0.0.0.0}"
 API_PORT="${API_PORT:-8000}"
 # The service (and therefore the .venv) runs as the human who invoked sudo, so
 # the checkout stays writable for them.
@@ -50,6 +53,33 @@ for f in server.py requirements.txt "${HTML_FILES[@]}"; do
     [[ -f "$APP_DIR/$f" ]] || die "missing $f in $APP_DIR"
 done
 
+# --- swap --------------------------------------------------------------------
+
+if [[ -n "$(swapon --show=NAME --noheadings)" ]]; then
+    log "Swap already enabled, leaving it as is"
+    swapon --show
+else
+    log "Enabling ${SWAP_SIZE_MB}MB of swap at $SWAP_FILE"
+
+    avail_mb="$(df -Pm "$(dirname "$SWAP_FILE")" | awk 'NR==2 {print $4}')"
+    (( avail_mb > SWAP_SIZE_MB + 512 )) \
+        || die "only ${avail_mb}MB free on $(dirname "$SWAP_FILE"), need $((SWAP_SIZE_MB + 512))MB"
+
+    # Nothing is swapped on, so a file left behind by an earlier failed run is
+    # unused and safe to replace.
+    rm -f "$SWAP_FILE"
+    fallocate -l "${SWAP_SIZE_MB}M" "$SWAP_FILE" 2>/dev/null \
+        || dd if=/dev/zero of="$SWAP_FILE" bs=1M count="$SWAP_SIZE_MB" status=none
+    chmod 600 "$SWAP_FILE"
+    mkswap "$SWAP_FILE" >/dev/null
+    swapon "$SWAP_FILE"
+
+    grep -qs "^${SWAP_FILE}[[:space:]]" /etc/fstab \
+        || printf '%s none swap sw 0 0\n' "$SWAP_FILE" >> /etc/fstab
+
+    swapon --show
+fi
+
 # --- system packages ---------------------------------------------------------
 
 log "Installing system packages"
@@ -57,9 +87,12 @@ export DEBIAN_FRONTEND=noninteractive
 # With a kernel upgrade pending, needrestart's post-install dialog blocks
 # forever on a host with no TTY, so suspend it and keep existing configs.
 export NEEDRESTART_MODE=a NEEDRESTART_SUSPEND=1
-apt-get update -qq
+# unattended-upgrades often holds the dpkg lock on a freshly booted host, so
+# wait for it rather than aborting the whole install.
+APT_OPTS=(-o DPkg::Lock::Timeout=600)
+apt-get update -qq "${APT_OPTS[@]}"
 apt-get install -y -qq --no-install-recommends \
-    -o Dpkg::Options::=--force-confold \
+    "${APT_OPTS[@]}" -o Dpkg::Options::=--force-confold \
     ca-certificates curl nginx
 
 # --- uv ----------------------------------------------------------------------
@@ -77,7 +110,9 @@ fi
 
 log "Creating .venv (Python ${PYTHON_VERSION}) and installing requirements"
 chown "$SERVICE_USER" "$APP_DIR"
-as_service_user "$UV_BIN" venv --python "$PYTHON_VERSION" "$APP_DIR/.venv"
+# --clear so the run succeeds whether or not a previous .venv survived the
+# deployment's directory cleanup; uv rebuilds it from its cache in seconds.
+as_service_user "$UV_BIN" venv --clear --python "$PYTHON_VERSION" "$APP_DIR/.venv"
 as_service_user "$UV_BIN" pip install --python "$APP_DIR/.venv/bin/python" \
     -r "$APP_DIR/requirements.txt"
 
