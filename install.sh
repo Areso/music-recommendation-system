@@ -46,15 +46,6 @@ as_service_user() {
     fi
 }
 
-# --- sanity checks -----------------------------------------------------------
-
-[[ $EUID -eq 0 ]] || die "run with sudo: sudo $0"
-id -u "$SERVICE_USER" >/dev/null 2>&1 || die "user '$SERVICE_USER' does not exist"
-
-for f in server.py requirements.txt "${HTML_FILES[@]}"; do
-    [[ -f "$APP_DIR/$f" ]] || die "missing $f in $APP_DIR"
-done
-
 # --- swap --------------------------------------------------------------------
 
 if [[ -n "$(swapon --show=NAME --noheadings)" ]]; then
@@ -99,6 +90,15 @@ apt-get install -y -qq --no-install-recommends \
 
 # --- clone repo ---
 git clone https://github.com/Areso/music-recommendation-system.git
+
+# --- sanity checks -----------------------------------------------------------
+
+[[ $EUID -eq 0 ]] || die "run with sudo: sudo $0"
+id -u "$SERVICE_USER" >/dev/null 2>&1 || die "user '$SERVICE_USER' does not exist"
+
+for f in server.py requirements.txt "${HTML_FILES[@]}"; do
+    [[ -f "$APP_DIR/$f" ]] || die "missing $f in $APP_DIR"
+done
 
 # --- uv ----------------------------------------------------------------------
 
