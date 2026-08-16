@@ -40,10 +40,19 @@ one and Enter to accept it.
 
 ## Jyputer noterbooks
 1. bi130_module_0_data_cleaning.ipynb - data processing and data cleaning, common part for 1,2,3,4 modules
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Areso/music-recommendation-system/blob/master/bi130_module_0_data_cleaning.ipynb?flush_cache=true)
 2. bi130_module_1_2.ipynb - module 1: graph centrality and artist prestige; module 2: community detection and profiling
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Areso/music-recommendation-system/blob/master/bi130_module_1_2.ipynb?flush_cache=true)
 3. bi130_module_3.ipynb - module 3: tag-based artist modelling with TF-IDF
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Areso/music-recommendation-system/blob/master/bi130_module_3.ipynb?flush_cache=true)
 4. bi130_module_4.ipynb - module 4: content-based and collaborative-filtering recommenders
-  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Areso/music-recommendation-system/blob/master/bi130_module_4.ipynb?flush_cache=true)
+
+Open the notebooks through the badges above, not through Colab's File -> Open
+notebook -> GitHub picker. The picker cannot pass `?flush_cache=true`, so it
+serves a stale cached copy (googlecolab/colabtools#3949). GitHub's CDN caches
+raw files for 5 minutes, so allow that long after a push.
+
 all passing nbformat 5.10.4 and nbconvert 7.17.1 lints  
   
 ## Detailed description modules 1 and 2
