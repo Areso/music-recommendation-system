@@ -86,10 +86,7 @@ APT_OPTS=(-o DPkg::Lock::Timeout=600)
 apt-get update -qq "${APT_OPTS[@]}"
 apt-get install -y -qq --no-install-recommends \
     "${APT_OPTS[@]}" -o Dpkg::Options::=--force-confold \
-    ca-certificates curl nginx git
-
-# --- clone repo ---
-git clone https://github.com/Areso/music-recommendation-system.git
+    ca-certificates curl nginx
 
 # --- sanity checks -----------------------------------------------------------
 
