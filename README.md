@@ -43,7 +43,9 @@ one and Enter to accept it.
 2. bi130_module_1_2.ipynb - module 1: graph centrality and artist prestige; module 2: community detection and profiling
 3. bi130_module_3.ipynb - module 3: tag-based artist modelling with TF-IDF
 4. bi130_module_4.ipynb - module 4: content-based and collaborative-filtering recommenders
-
+  
+all passing nbformat 5.10.4 and nbconvert 7.17.1 lints  
+  
 ## Detailed description modules 1 and 2
 [README_old](README_old.txt)
 
