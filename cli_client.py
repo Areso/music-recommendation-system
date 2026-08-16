@@ -213,6 +213,8 @@ class CommandCompleter(Completer):
         "/tag_search",
         "/similar_artists",
         "/find_similar_user",
+        "/recommend_content",
+        "/recommend_cf",
         "/help",
         "/quit",
         "/exit",
@@ -439,12 +441,130 @@ def run_find_similar_user(
     )
 
 
+def parse_user_id(
+    session: PromptSession,
+    initial_query: str,
+    cancelled_message: str,
+) -> int | None:
+    value = initial_query.strip()
+    if not value:
+        value = session.prompt("user ID> ").strip()
+    if not value:
+        print(cancelled_message)
+        return None
+
+    try:
+        return int(value)
+    except ValueError:
+        print("User ID must be an integer.")
+        return None
+
+
+def run_content_recommendations(
+    client: ApiClient,
+    session: PromptSession,
+    initial_query: str = "",
+) -> None:
+    user_id = parse_user_id(
+        session,
+        initial_query,
+        "Content recommendation cancelled.",
+    )
+    if user_id is None:
+        return
+
+    data = client.get("recommend_content", q=user_id)
+    if data.get("error"):
+        print(f"Error: {data['error']}")
+        return
+
+    print(
+        f"\nContent recommendations for user {data.get('query', user_id)} "
+        f"({data.get('covered_artist_count', '?')} of "
+        f"{data.get('artist_count', '?')} listened artists covered):"
+    )
+    profile_tags = data.get("profile_tags", [])
+    if profile_tags:
+        print(f"Profile tags: {', '.join(profile_tags)}")
+    if not data.get("confident", True):
+        print("Warning: too few listened artists have content vectors for a reliable profile.")
+
+    results = data.get("results", [])
+    if not results:
+        print("No content-based recommendations found.")
+        return
+
+    print_table(
+        ["Rank", "Artist ID", "Artist", "Score", "Top tags"],
+        [
+            [
+                rank,
+                result["artist_id"],
+                result["artist_name"],
+                result["score"],
+                ", ".join(result.get("top_tags", [])),
+            ]
+            for rank, result in enumerate(results, start=1)
+        ],
+    )
+
+
+def run_cf_recommendations(
+    client: ApiClient,
+    session: PromptSession,
+    initial_query: str = "",
+) -> None:
+    user_id = parse_user_id(
+        session,
+        initial_query,
+        "Collaborative-filtering recommendation cancelled.",
+    )
+    if user_id is None:
+        return
+
+    data = client.get("recommend_cf", q=user_id)
+    if data.get("error"):
+        print(f"Error: {data['error']}")
+        return
+
+    print(
+        f"\nCollaborative-filtering recommendations for user "
+        f"{data.get('query', user_id)} using "
+        f"{data.get('neighbors_used', '?')} neighbours:"
+    )
+    if "top_neighbor_similarity" in data:
+        print(f"Closest-neighbour similarity: {data['top_neighbor_similarity']}")
+    if not data.get("confident", True):
+        print("Warning: the user has too little listening data for a reliable ranking.")
+
+    results = data.get("results", [])
+    if not results:
+        print("No collaborative-filtering recommendations found.")
+        return
+
+    print_table(
+        ["Rank", "Artist ID", "Artist", "CF score", "Neighbour support"],
+        [
+            [
+                rank,
+                result["artist_id"],
+                result["artist_name"],
+                result["score"],
+                result["neighbor_support"],
+            ]
+            for rank, result in enumerate(results, start=1)
+        ],
+    )
+
+
 HELP = """Commands:
   /connect <host|host:port|URL>  Set and check the API server (plain hosts use port 8000)
   /check                         Check whether the current API server is up
   /tag_search [tag]              Find artists by tag, with live autocomplete
   /similar_artists [name|ID]     Find similar artists, with live autocomplete
   /find_similar_user [user ID]   Find users with similar listening histories
+  /recommend_content [user ID]   Recommend unlistened artists from the user's tag profile
+  /recommend_cf [user ID]        Recommend unlistened artists from similar users
   /help                          Show this help
   /quit, /exit                   Exit
 """
@@ -509,6 +629,10 @@ def main() -> int:
                 run_similar_artists(client, session, argument)
             elif command == "/find_similar_user":
                 run_find_similar_user(client, session, argument)
+            elif command == "/recommend_content":
+                run_content_recommendations(client, session, argument)
+            elif command == "/recommend_cf":
+                run_cf_recommendations(client, session, argument)
             elif command == "/help":
                 print(HELP)
             elif command in {"/quit", "/exit", "/q"}:

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Content-Based Artist Recommendations</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; }
+        .back { font-size: 13px; }
+        .search-box { display: flex; gap: 8px; }
+        input[type="number"] { flex: 1; padding: 10px; font-size: 16px; box-sizing: border-box; }
+        button { padding: 10px 16px; font-size: 16px; cursor: pointer; }
+        .help, .detail { color: #666; font-size: 13px; }
+        .results { margin-top: 20px; }
+        .result-card { border-bottom: 1px solid #eee; padding: 10px 0; }
+        .tags { color: #555; font-size: 13px; margin-top: 5px; }
+        .warning {
+            border: 1px solid #e0c000; background: #fffbe6; padding: 10px 12px;
+            font-size: 13px; margin-top: 16px;
+        }
+    </style>
+</head>
+<body>
+    <p class="back"><a href="index.html">&larr; Back to menu</a></p>
+
+    <h2>Content-Based Artist Recommendations</h2>
+    <p class="help">
+        Builds a user profile by aggregating TF-IDF vectors for listened artists,
+        weighted by log-scaled listening confidence. Already-listened artists are excluded.
+    </p>
+
+    <div class="search-box">
+        <input type="number" id="userInput" min="1" placeholder="User ID (e.g. 2)">
+        <button id="searchButton" type="button">Recommend artists</button>
+    </div>
+
+    <div class="results" id="results"></div>
+
+    <script>
+        const API_URL = 'http://127.0.0.1:8000/api';
+        const userInput = document.getElementById('userInput');
+        const searchButton = document.getElementById('searchButton');
+        const resultsBox = document.getElementById('results');
+
+        function escapeHtml(value) {
+            return String(value)
+                .replaceAll('&', '&amp;')
+                .replaceAll('<', '&lt;')
+                .replaceAll('>', '&gt;')
+                .replaceAll('"', '&quot;')
+                .replaceAll("'", '&#039;');
+        }
+
+        async function runSearch() {
+            const userId = userInput.value.trim();
+            if (!userId) {
+                resultsBox.innerHTML = '<p>Please enter a user ID.</p>';
+                return;
+            }
+
+            resultsBox.innerHTML = 'Building profile and recommendations...';
+            try {
+                const response = await fetch(
+                    `${API_URL}/recommend_content?q=${encodeURIComponent(userId)}`
+                );
+                const data = await response.json();
+
+                if (data.error) {
+                    resultsBox.innerHTML = `<p>${escapeHtml(data.error)}</p>`;
+                    return;
+                }
+                if (data.results.length === 0) {
+                    resultsBox.innerHTML = '<p>No recommendations found.</p>';
+                    return;
+                }
+
+                const coverage = Math.round(data.content_coverage * 100);
+                const warning = data.confident ? '' : `
+                    <div class="warning">
+                        <strong>Low confidence:</strong> only ${data.covered_artist_count}
+                        listened artists have usable tag vectors.
+                    </div>`;
+
+                resultsBox.innerHTML =
+                    `<h3>Recommendations for user ${escapeHtml(data.query)}</h3>` +
+                    `<p class="detail">${data.covered_artist_count} of ${data.artist_count}
+                    listened artists covered (${coverage}%).</p>` +
+                    `<p class="tags"><strong>Profile tags:</strong>
+                    ${data.profile_tags.map(escapeHtml).join(', ')}</p>` +
+                    warning +
+                    data.results.map((result, index) => `
+                        <div class="result-card">
+                            <div style="display: flex; justify-content: space-between;">
+                                <span><strong>${index + 1}. ${escapeHtml(result.artist_name)}</strong>
+                                <span class="detail">(ID ${escapeHtml(result.artist_id)})</span></span>
+                                <span><strong>Similarity:</strong> ${result.score}</span>
+                            </div>
+                            <div class="tags">
+                                Tags: ${result.top_tags.map(escapeHtml).join(', ')}
+                            </div>
+                        </div>
+                    `).join('');
+            } catch (error) {
+                resultsBox.innerHTML = '<p>The API could not be reached.</p>';
+            }
+        }
+
+        searchButton.addEventListener('click', runSearch);
+        userInput.addEventListener('keypress', event => {
+            if (event.key === 'Enter') {
+                runSearch();
+            }
+        });
+    </script>
+</body>
+</html>

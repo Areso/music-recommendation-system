@@ -5,7 +5,7 @@ import csv
 import numpy as np
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
-from scipy.sparse import load_npz
+from scipy.sparse import csr_matrix, load_npz
 from sklearn.metrics.pairwise import cosine_similarity
 
 def newline_tokenizer(text):
@@ -61,6 +61,13 @@ if user_artist_matrix.shape != (len(cf_user_ids), len(cf_artist_ids)):
     raise RuntimeError("CF matrix shape does not match its exported ID mappings")
 
 cf_user_row_of = {user_id: row for row, user_id in enumerate(cf_user_ids)}
+# Translate a CF matrix column directly to its Module 3 TF-IDF row. Artists
+# without eligible tags are marked -1 and omitted from content profiles.
+content_row_by_cf_col = np.fromiter(
+    (row_of.get(str(artist_id), -1) for artist_id in cf_artist_ids),
+    dtype=np.int64,
+    count=len(cf_artist_ids),
+)
 print(f"Loaded user-artist matrix: {user_artist_matrix.shape}")
 
 artists_kv = {}
@@ -169,6 +176,14 @@ def shared_tags(i, j, limit=5):
     return [feature_names[c] for c in ranked[:limit]]
 
 
+def top_features(row, limit=10):
+    """Return the strongest tags in a sparse TF-IDF row."""
+    if row.nnz == 0:
+        return []
+    order = np.argsort(row.data)[::-1][:limit]
+    return feature_names[row.indices[order]].tolist()
+
+
 @app.get("/api/similar_artists")
 def similar_artists(q: str = Query(...), top_k: int = 20, min_tags: int = 1):
     """Finds artists whose tag profile points in the same direction as the seed."""
@@ -272,6 +287,139 @@ def similar_users(q: int = Query(...), top_k: int = Query(20, ge=1, le=100)):
         "query": q,
         "artist_count": artist_count,
         "confident": artist_count >= 5,
+        "results": results,
+    }
+
+
+@app.get("/api/recommend_content")
+def recommend_content(
+    q: int = Query(...),
+    top_k: int = Query(10, ge=1, le=100),
+):
+    """Recommend unlistened artists from a listen-weighted TF-IDF user profile."""
+    if q not in cf_user_row_of:
+        return {"query": q, "results": [], "error": "Unknown user id"}
+
+    user_row = cf_user_row_of[q]
+    history = user_artist_matrix.getrow(user_row)
+    history_content_rows = content_row_by_cf_col[history.indices]
+    covered_mask = history_content_rows >= 0
+    covered_rows = history_content_rows[covered_mask]
+
+    if len(covered_rows) == 0:
+        return {
+            "query": q,
+            "artist_count": int(history.nnz),
+            "covered_artist_count": 0,
+            "content_coverage": 0.0,
+            "profile_tags": [],
+            "confident": False,
+            "results": [],
+            "error": "User has no listened artists with content vectors",
+        }
+
+    confidence = history.data[covered_mask]
+    weighted_sum = (
+        tfidf_matrix[covered_rows]
+        .multiply(confidence[:, None])
+        .sum(axis=0)
+    )
+    profile = csr_matrix(weighted_sum / confidence.sum())
+    norm = np.sqrt(profile.multiply(profile).sum())
+    if norm > 0:
+        profile = profile / norm
+
+    scores = cosine_similarity(profile, tfidf_matrix).ravel()
+    scores[np.unique(covered_rows)] = -np.inf
+    candidate_rows = np.flatnonzero(np.isfinite(scores) & (scores > 0))
+    ranked_rows = candidate_rows[
+        np.argsort(scores[candidate_rows])[::-1][:top_k]
+    ]
+
+    results = []
+    for content_row in ranked_rows:
+        artist_id = artist_ids[content_row]
+        results.append(
+            {
+                "artist_id": artist_id,
+                "artist_name": artists_kv.get(artist_id, "Unknown"),
+                "score": round(float(scores[content_row]), 4),
+                "top_tags": top_features(tfidf_matrix.getrow(content_row), limit=5),
+            }
+        )
+
+    covered_count = len(covered_rows)
+    artist_count = int(history.nnz)
+    return {
+        "query": q,
+        "artist_count": artist_count,
+        "covered_artist_count": covered_count,
+        "content_coverage": round(covered_count / artist_count, 4),
+        "profile_tags": top_features(profile),
+        "confident": covered_count >= 5,
+        "results": results,
+    }
+
+
+@app.get("/api/recommend_cf")
+def recommend_cf(
+    q: int = Query(...),
+    top_k: int = Query(10, ge=1, le=100),
+    n_neighbors: int = Query(30, ge=1, le=200),
+):
+    """Recommend unlistened artists from similar users' listening confidence."""
+    if q not in cf_user_row_of:
+        return {"query": q, "results": [], "error": "Unknown user id"}
+
+    user_row = cf_user_row_of[q]
+    history = user_artist_matrix.getrow(user_row)
+    similarities = cosine_similarity(history, user_artist_matrix).ravel()
+    similarities[user_row] = 0.0
+
+    ranked_users = np.argsort(similarities)[::-1]
+    neighbor_rows = ranked_users[similarities[ranked_users] > 0][:n_neighbors]
+    if len(neighbor_rows) == 0:
+        return {
+            "query": q,
+            "artist_count": int(history.nnz),
+            "neighbors_used": 0,
+            "confident": False,
+            "results": [],
+        }
+
+    neighbor_matrix = user_artist_matrix[neighbor_rows]
+    neighbor_similarities = similarities[neighbor_rows]
+    scores = np.asarray(
+        neighbor_matrix.multiply(neighbor_similarities[:, None]).sum(axis=0)
+    ).ravel() / neighbor_similarities.sum()
+    support = np.asarray(neighbor_matrix.getnnz(axis=0)).ravel()
+
+    scores[history.indices] = -np.inf
+    candidate_cols = np.flatnonzero(np.isfinite(scores) & (scores > 0))
+    ranked_cols = candidate_cols[
+        np.argsort(scores[candidate_cols])[::-1][:top_k]
+    ]
+
+    results = []
+    for artist_col in ranked_cols:
+        artist_id = str(cf_artist_ids[artist_col])
+        results.append(
+            {
+                "artist_id": artist_id,
+                "artist_name": artists_kv.get(artist_id, "Unknown"),
+                "score": round(float(scores[artist_col]), 4),
+                "neighbor_support": int(support[artist_col]),
+            }
+        )
+
+    return {
+        "query": q,
+        "artist_count": int(history.nnz),
+        "neighbors_used": len(neighbor_rows),
+        "top_neighbor_similarity": round(
+            float(similarities[neighbor_rows[0]]), 4
+        ),
+        "confident": history.nnz >= 5,
         "results": results,
     }
 

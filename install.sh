@@ -31,6 +31,8 @@ HTML_FILES=(
     find_artists_by_tag.html
     find_similar_artists.html
     find_similar_users.html
+    recommend_artists_content.html
+    recommend_artists_cf.html
 )
 
 log() { printf '\n\033[1;32m==>\033[0m %s\n' "$*"; }

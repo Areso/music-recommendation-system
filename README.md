@@ -12,6 +12,8 @@
 1. Find artists by a tag
 2. Find similar artists
 3. Find users with similar taste
+4. Recommend artists from a user's listen-weighted tag profile
+5. Recommend artists from collaborative-filtering neighbours
 
 ## Command-line client
 Run `python cli_client.py` to open the interactive client. It connects to
@@ -27,6 +29,8 @@ Commands:
 - `/tag_search` - find artists by tag
 - `/similar_artists` - find artists with similar tag profiles
 - `/find_similar_user` - find users with similar listening histories
+- `/recommend_content` - recommend unlistened artists from a user's tag profile
+- `/recommend_cf` - recommend unlistened artists from similar users
 - `/help`
 - `/quit`, and its `/exit` synonym
 
